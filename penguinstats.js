@@ -48,7 +48,7 @@ var sanityEfficiency = (stage, items, stages, penguinStats) => {
         let dropRate = x.quantity/x.times
         sanityValue += bestitemSanityCost(items.find(e => e.id == x.itemId), stages, penguinStats) * dropRate
     }
-    return sanityValue
+    return sanityValue/stage.sanity_cost
 }
 var bestitemSanityCost = (item, stages, penguinStats) => {
     if(item) {
@@ -139,7 +139,7 @@ var itemDOM = (items, stages, penguinStats) => {
             let item = items_where_there_are_data.find(e => e.id == val)
             let penguinData = penguinStats.filter(e => e.itemId == val)
            
-            code.innerText = `${item.name}`
+            code.innerText = `${item.name} ${bestitemSanityCost(item, stages, penguinStats).toFixed(2)}`
             killChildren(probabilityList)
             for(let x of penguinData) {
                 
