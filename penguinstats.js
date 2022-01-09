@@ -39,7 +39,40 @@ var sortingFunction = (a, b) => {
     console.log(a)
     console.log(b)
     return parseFloat(a.value)-parseFloat(b.value)    
-} 
+}
+var sanityEfficiency = (stage, items, stages, penguinStats) => {
+    console.trace(penguinStats)
+    let drops = penguinStats.filter(e => e.stageId == stage.id)
+    let sanityValue = 0
+    for(let x of drops) {
+        let dropRate = x.quantity/x.times
+        sanityValue += bestitemSanityCost(items.find(e => e.id == x.itemId), stages, penguinStats) * dropRate
+    }
+    return sanityValue
+}
+var bestitemSanityCost = (item, stages, penguinStats) => {
+    if(item) {
+        let drops = penguinStats.filter(e => e.itemId == item.id)
+        let bestValue = null;
+        for(let x of drops) {
+            if(bestValue == null) {
+                let stage = stages.find(e => e.id == x.stageId)
+                if (stage) {
+                    bestValue = stage.sanity_cost
+                }
+            } else {
+                let sanity_cost = stages.find(e => e.id == x.stageId)
+                let dr = x.quantity/x.times
+                if(bestValue < sanity_cost/dr) {
+                    bestValue = sanity_cost/dr
+                }
+            }     
+        } 
+        return bestValue
+    }
+    return 0
+}
+
 var stageDOM = (stages, items, penguinStats) => {
     let divs = document.querySelectorAll(".arknights-stages")
     for(let div of divs) {
@@ -56,7 +89,7 @@ var stageDOM = (stages, items, penguinStats) => {
             let val = select.value
             let stage = stages_where_there_are_data.find(e => e.id == val)
             let penguinData = penguinStats.filter(e => e.stageId == val)
-            code.innerText = `${stage.code} ${stage.name} ${stage.sanity_cost} Sanity`
+            code.innerText = `${stage.code} ${stage.name} ${stage.sanity_cost} Sanity SC/EFFICIENCY[${sanityEfficiency(stage, items, stages, penguinStats).toFixed(2)}]`
             killChildren(probabilityList)
             for(let x of penguinData) {
                 let item = items.find(e => e.id == x.itemId)
@@ -66,7 +99,10 @@ var stageDOM = (stages, items, penguinStats) => {
                     if(dropRate) {
                         let sanityCost = stage.sanity_cost/dropRate
                         li.value = sanityCost
-                        li.innerText = `${item.name} ${dropRate.toFixed(2)*100}% SC/DROP [${sanityCost.toFixed(2)}]`
+                        li.innerText = `${item.name}
+                        ${dropRate.toFixed(2)*100}%
+                        SC/DROP [${sanityCost.toFixed(2)}]
+                        `
                         probabilityList.appendChild(li)
                     }
                 }
@@ -102,9 +138,11 @@ var itemDOM = (items, stages, penguinStats) => {
             let val = select.value
             let item = items_where_there_are_data.find(e => e.id == val)
             let penguinData = penguinStats.filter(e => e.itemId == val)
+           
             code.innerText = `${item.name}`
             killChildren(probabilityList)
             for(let x of penguinData) {
+                
                 let stage = stages.find(e => e.id == x.stageId)
                 if(stage) {
                     let li = document.createElement("li")
@@ -112,7 +150,11 @@ var itemDOM = (items, stages, penguinStats) => {
                     if(dropRate) {
                         let sanityCost = stage.sanity_cost/dropRate
                         li.value = sanityCost
-                        li.innerText = `${stage.code} ${stage.name} ${dropRate.toFixed(2)*100}% SC/DROP [${sanityCost.toFixed(2)}]`
+                        console.log(penguinStats)
+                        li.innerText = `${stage.code} ${stage.name}
+                        ${dropRate.toFixed(2)*100}%
+                        SC/DROP [${sanityCost.toFixed(2)}]
+                        SC/EFFICIENCY [${sanityEfficiency(stage, items, stages, penguinStats).toFixed(2)}]`
                         probabilityList.appendChild(li)
                     }
                 }
@@ -134,6 +176,7 @@ var itemDOM = (items, stages, penguinStats) => {
         div.appendChild(container)
     }
 }
+
 var program = async () => {
     let stages = await fetchStages()
     let items = await fetchItems()
