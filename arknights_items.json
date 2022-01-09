@@ -1,5 +1,4 @@
-{
-"arknights_items": [
+[
 	{
 		"id" : "5001",
 		"name" : "EXP",
@@ -4390,4 +4389,4 @@
 		"stage_drop_list" : "act16d5_01|GUARANTEED act16d5_02|GUARANTEED act16d5_03|GUARANTEED act16d5_04|GUARANTEED act16d5_05|GUARANTEED act16d5_06|GUARANTEED act16d5_07|GUARANTEED act16d5_08|GUARANTEED act16d5_09|GUARANTEED act16d5_10|GUARANTEED",
 		"formula_id" : "54"
 	}
-]}
+]

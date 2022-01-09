@@ -1,5 +1,4 @@
-{
-"arknights_stages": [
+[
 	{
 		"id" : "main_00-01",
 		"code" : "0-1",
@@ -5400,4 +5399,4 @@
 		"sanity_cost" : 25,
 		"drops" : ""
 	}
-]}
+]

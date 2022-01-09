@@ -1,5 +1,4 @@
-{
-"arknights_formulas": [
+[
 	{
 		"id" : "1",
 		"item_id" : "2001",
@@ -504,4 +503,4 @@
 		"costs" : "3222|3",
 		"room" : "Workshop"
 	}
-]}
+]
