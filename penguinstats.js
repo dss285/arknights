@@ -63,7 +63,7 @@ var bestitemSanityCost = (item, stages, penguinStats) => {
             } else {
                 let sanity_cost = stages.find(e => e.id == x.stageId)
                 let dr = x.quantity/x.times
-                if(bestValue < sanity_cost/dr) {
+                if(bestValue > sanity_cost/dr) {
                     bestValue = sanity_cost/dr
                 }
             }     
