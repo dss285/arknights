@@ -21,7 +21,6 @@ function killChildren(ele) {
     }
 }
 function sortChildren(ele, sortFunction) {
-    console.log("ok")
     let eles = ele.childNodes
     let tmp = []
     for(let i in eles) {
@@ -36,8 +35,6 @@ function sortChildren(ele, sortFunction) {
     }
 }
 var sortingFunction = (a, b) => {
-    console.log(a)
-    console.log(b)
     return parseFloat(a.value)-parseFloat(b.value)    
 }
 var sanityEfficiency = (stage, items, stages, penguinStats) => {
@@ -45,31 +42,42 @@ var sanityEfficiency = (stage, items, stages, penguinStats) => {
     let drops = penguinStats.filter(e => e.stageId == stage.id)
     let sanityValue = 0
     for(let x of drops) {
-        let dropRate = x.quantity/x.times
-        sanityValue += bestitemSanityCost(items.find(e => e.id == x.itemId), stages, penguinStats) * dropRate
+        let dropRate = (x.times != 0 ? x.quantity/x.times : 0)
+        let bestItem = bestitemSanityCost(items.find(e => e.id == x.itemId), stages, penguinStats)
+        console.log(bestItem)
+        if(dropRate != 0 && bestItem != 0) {
+            console.log(dropRate)
+            sanityValue += bestItem.value * dropRate
+            console.log(bestItem.value / dropRate)
+        }
     }
     return sanityValue/stage.sanity_cost
 }
 var bestitemSanityCost = (item, stages, penguinStats) => {
     if(item) {
         let drops = penguinStats.filter(e => e.itemId == item.id)
-        let bestValue = null;
+        let bestValue = {value : null, stage : null}
         for(let x of drops) {
-            if(bestValue == null) {
-                let stage = stages.find(e => e.id == x.stageId)
-                if (stage) {
-                    bestValue = stage.sanity_cost
-                }
-            } else {
-                let sanity_cost = stages.find(e => e.id == x.stageId)
-                if (sanity_cost) {
-                    sanity_cost = sanity_cost.sanity_cost
-                    let dr = x.quantity/x.times
-                    if(bestValue > sanity_cost/dr) {
-                        bestValue = sanity_cost/dr
+            let dr = (x.times != 0 ? x.quantity/x.times : 0)
+            if (dr != 0) {
+                if(bestValue.value == null) {
+                    let stage = stages.find(e => e.id == x.stageId)
+                    if (stage) {
+                        bestValue.value = stage.sanity_cost/dr
+                        bestValue.stage = stage
                     }
-                }
+                } else {
+                    let stage = stages.find(e => e.id == x.stageId)
+                    if (stage) {
+                        let sanity_cost = stage.sanity_cost
+                        
+                        if(bestValue.value > sanity_cost/dr) {
+                            bestValue.value = sanity_cost/dr
+                            bestValue.stage = stage
+                        }
+                    }
 
+                }
             }     
         } 
         return bestValue
@@ -85,7 +93,7 @@ var stageDOM = (stages, items, penguinStats) => {
 
         let container = document.createElement("div")
         let stageInfo = document.createElement("div")
-        let code = document.createElement("p")
+        let code = document.createElement("h2")
         let probabilityList = document.createElement("ul")
         let select = document.createElement("select")
 
@@ -134,7 +142,7 @@ var itemDOM = (items, stages, penguinStats) => {
         let items_where_there_are_data = items.filter(e => items_present.has(e.id))
         let container = document.createElement("div")
         let itemInfo = document.createElement("div")
-        let code = document.createElement("p")
+        let code = document.createElement("h2")
         let probabilityList = document.createElement("ul")
         let select = document.createElement("select")
         
@@ -142,8 +150,8 @@ var itemDOM = (items, stages, penguinStats) => {
             let val = select.value
             let item = items_where_there_are_data.find(e => e.id == val)
             let penguinData = penguinStats.filter(e => e.itemId == val)
-           
-            code.innerText = `${item.name} ${bestitemSanityCost(item, stages, penguinStats).toFixed(2)}`
+            let bestItem = bestitemSanityCost(item, stages, penguinStats)
+            code.innerText = `${item.name} ${bestItem.value.toFixed(2)}, ${bestItem.stage.code}`
             killChildren(probabilityList)
             for(let x of penguinData) {
                 
@@ -154,11 +162,9 @@ var itemDOM = (items, stages, penguinStats) => {
                     if(dropRate) {
                         let sanityCost = stage.sanity_cost/dropRate
                         li.value = sanityCost
-                        console.log(penguinStats)
-                        li.innerText = `${stage.code} ${stage.name}
+                        li.innerText = `${stage.code} ${stage.name}, ${stage.sanity_cost} Sanity
                         ${dropRate.toFixed(2)*100}%
-                        SC/DROP [${sanityCost.toFixed(2)}]
-                        SC/EFFICIENCY [${sanityEfficiency(stage, items, stages, penguinStats).toFixed(2)}]`
+                        SC/DROP [${sanityCost.toFixed(2)}]`
                         probabilityList.appendChild(li)
                     }
                 }
@@ -166,7 +172,6 @@ var itemDOM = (items, stages, penguinStats) => {
             sortChildren(probabilityList, sortingFunction)
         }
         for(let item of items_where_there_are_data) {
-            console.log("asd")
             let option = document.createElement("option")
             option.value = item.id
             option.innerText = `${item.name}`
