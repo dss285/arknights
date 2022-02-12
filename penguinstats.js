@@ -3,15 +3,15 @@ var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?server=US"
 var program = async () => {
 
     var fetchStages = async() => {
-        let data = await fetch("https://dss285.github.io/arknights/arknights_stages.json")
+        let data = await fetch("https://dss285.github.io/arknights/stages.json")
         return await data.json()
     }
     var fetchItems = async() => {
-        let data = await fetch("https://dss285.github.io/arknights/arknights_items.json")
+        let data = await fetch("https://dss285.github.io/arknights/items.json")
         return await data.json()
     }
     var fetchFormulas = async() => {
-        let data = await fetch("https://dss285.github.io/arknights/arknights_formulas.json")
+        let data = await fetch("https://dss285.github.io/arknights/formulas.json")
         return await data.json()
     }
     var fetchPenguinStats = async () => {
