@@ -1,4 +1,4 @@
-var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?server=US"
+var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?show_closed_zones=true&server=US"
 
 var program = async () => {
 
@@ -110,7 +110,7 @@ var program = async () => {
             }
             console.log(formula_sanity_cost)
             console.log(bestValue)
-            if(bestValue.value > formula_sanity_cost && formula_sanity_cost != 0) {
+            if(formula_sanity_cost != null && bestValue.value > formula_sanity_cost && formula_sanity_cost != 0) {
                 bestValue.value = formula_sanity_cost
                 bestValue.stage = null
                 bestValue.workshop = true
@@ -124,6 +124,7 @@ var program = async () => {
         let divs = document.querySelectorAll(".arknights-stages")
         for(let div of divs) {
             let stages_present = new Set(penguinStats.map(p => p.stageId))
+            console.log(stages_present)
             let stages_where_there_are_data = stages.filter(stage => stages_present.has(stage.id))
     
             let container = document.createElement("div")
@@ -192,6 +193,7 @@ var program = async () => {
                 } else {
                     best = bestItem.stage.code
                 }
+                console.log(bestItem)
                 
                 code.innerText = `${item.name} ${bestItem.value.toFixed(2)}, ${best}`
                 killChildren(probabilityList)
