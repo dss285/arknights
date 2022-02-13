@@ -1,5 +1,5 @@
 var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?show_closed_zones=true&server=US"
-
+var localStorage = window.localStorage;
 var program = async () => {
 
     var fetchStages = async() => {
@@ -15,8 +15,19 @@ var program = async () => {
         return await data.json()
     }
     var fetchPenguinStats = async () => {
-        let data = await fetch(url)
-        return await data.json()
+        let data = localStorage.getItem('penguinStats')
+        if(data != null) {
+            data = JSON.parse(data)
+            let currentdate = Date.now()
+            if(currentdate - data.timestamp < 3600000) {
+                return data.value
+            }
+        }
+        data = await fetch(url)
+        data = await data.json()
+        data = {value:data, timestamp:Date.now()}
+        localStorage.setItem('penguinStats', JSON.stringify(data))
+        return data.value
     }
     function killChildren(ele) {
         while(ele.firstChild) {
@@ -51,23 +62,18 @@ var program = async () => {
 
 
     var sanityEfficiency = (stage) => {
-        console.trace(penguinStats)
         let drops = penguinStats.filter(e => e.stageId == stage.id)
         let sanityValue = 0
         for(let x of drops) {
             let dropRate = (x.times != 0 ? x.quantity/x.times : 0)
             let bestItem = bestitemSanityCost(items.find(e => e.id == x.itemId))
-            console.log(bestItem)
             if(dropRate != 0 && bestItem != 0) {
-                console.log(dropRate)
                 sanityValue += bestItem.value * dropRate
-                console.log(bestItem.value / dropRate)
             }
         }
         return sanityValue/stage.sanity_cost
     }
     var bestitemSanityCost = (item) => {
-        console.log(item)
         if(item) {
             let drops = penguinStats.filter(e => e.itemId == item.id)
             let formula = formulas.filter(e => e.item_id == item.id)
@@ -77,7 +83,6 @@ var program = async () => {
                 let formula_items = formula.costs.split(" ")
                 formula_sanity_cost = 0
                 for(let x of formula_items) {
-                    console.log(x)
                     let splitted = x.split("|")
                     let item_id = splitted[0]
                     let item_amount = parseInt(splitted[1])
@@ -108,8 +113,6 @@ var program = async () => {
                     }
                 }     
             }
-            console.log(formula_sanity_cost)
-            console.log(bestValue)
             if(formula_sanity_cost != null && bestValue.value > formula_sanity_cost && formula_sanity_cost != 0) {
                 bestValue.value = formula_sanity_cost
                 bestValue.stage = null
@@ -124,7 +127,6 @@ var program = async () => {
         let divs = document.querySelectorAll(".arknights-stages")
         for(let div of divs) {
             let stages_present = new Set(penguinStats.map(p => p.stageId))
-            console.log(stages_present)
             let stages_where_there_are_data = stages.filter(stage => stages_present.has(stage.id))
     
             let container = document.createElement("div")
@@ -193,7 +195,6 @@ var program = async () => {
                 } else {
                     best = bestItem.stage.code
                 }
-                console.log(bestItem)
                 
                 code.innerText = `${item.name} ${bestItem.value.toFixed(2)}, ${best}`
                 killChildren(probabilityList)
