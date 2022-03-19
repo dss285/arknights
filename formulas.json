@@ -203,6 +203,20 @@
         "room": "Workshop"
     },
     {
+        "id": "59",
+        "item_id": "31044",
+        "count": 1,
+        "costs": "31043|1 31053|1 31013|1",
+        "room": "Workshop"
+    },
+    {
+        "id": "60",
+        "item_id": "31054",
+        "count": 1,
+        "costs": "31053|1 31033|1 30103|1",
+        "room": "Workshop"
+    },
+    {
         "id": "58",
         "item_id": "31034",
         "count": 1,

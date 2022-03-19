@@ -90,7 +90,7 @@
     {
         "id": "4004",
         "name": "Distinction Certificate",
-        "description": "The Infection Isolation Act is the last vestige of modern nation states. As long as you have some special ability, it is but a meaningless piece of paper. (The words of her Leithanien mentor.)",
+        "description": "The Infection Isolation Act is the last vestige of modern nation states. As long as you have some special ability, it is but a meaningless piece of paper. (The words of her Leithanian mentor.)",
         "rarity": 4,
         "icon_id": "HGG_SHD",
         "usage": "A certificate that attests to an operator's distinguished accomplishments and expertise. Can be exchanged for rare items."
@@ -401,7 +401,7 @@
     },
     {
         "id": "2020recruitment10_1",
-        "name": "Type-\u03b1 Headhunting Permit",
+        "name": "Type-\u00ce\u00b1 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_1",
@@ -409,7 +409,7 @@
     },
     {
         "id": "2020recruitment10_2",
-        "name": "Type-\u03b2 Headhunting Permit",
+        "name": "Type-\u00ce\u00b2 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_2",
@@ -417,7 +417,7 @@
     },
     {
         "id": "2020recruitment10_3",
-        "name": "Type-\u03b3 Headhunting Permit",
+        "name": "Type-\u00ce\u00b3 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_3",
@@ -425,7 +425,7 @@
     },
     {
         "id": "2021recruitment10_1",
-        "name": "Type-\u03b1 Headhunting Permit",
+        "name": "Type-\u00ce\u00b1 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_1",
@@ -433,7 +433,7 @@
     },
     {
         "id": "2021recruitment10_2",
-        "name": "Type-\u03b2 Headhunting Permit",
+        "name": "Type-\u00ce\u00b2 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_2",
@@ -441,7 +441,7 @@
     },
     {
         "id": "2021recruitment10_3",
-        "name": "Type-\u03b3 Headhunting Permit",
+        "name": "Type-\u00ce\u00b3 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_3",
@@ -449,7 +449,7 @@
     },
     {
         "id": "voucher_recruitR4_1",
-        "name": "\u26054 Recruitment Voucher I",
+        "name": "\u00e2\u02dc\u20264 Recruitment Voucher I",
         "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
         "rarity": 3,
         "icon_id": "voucher_recruitR4_1",
@@ -457,7 +457,7 @@
     },
     {
         "id": "voucher_recruitR3_1",
-        "name": "\u26053 Recruitment Voucher I",
+        "name": "\u00e2\u02dc\u20263 Recruitment Voucher I",
         "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
         "rarity": 2,
         "icon_id": "voucher_recruitR3_1",
@@ -512,6 +512,14 @@
         "usage": "Filled with an assortment of supplies and materials."
     },
     {
+        "id": "randomMaterialRune_6",
+        "name": "Operation Wild Scales Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_6",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
         "id": "randomMaterial_1",
         "name": "Rhodes Island Supplies",
         "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
@@ -541,6 +549,14 @@
         "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
         "rarity": 4,
         "icon_id": "randomMaterial_4",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterial_5",
+        "name": "Rhodes Island Supplies II",
+        "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
+        "rarity": 4,
+        "icon_id": "randomMaterial_1",
         "usage": "Filled with an assortment of supplies and materials."
     },
     {
@@ -960,6 +976,38 @@
         "usage": "An expensive Originium industry product. Can be used for major upgrades."
     },
     {
+        "id": "31043",
+        "name": "Semi-Synthetic Solvent",
+        "description": "The product of a traditional solvent undergoing a modernization process, it demonstrates remarkably enhanced properties.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_SS",
+        "usage": "An active solvent with excellent physical characteristics, and good resistance to acids and bases. Can be used in a variety of upgrades."
+    },
+    {
+        "id": "31044",
+        "name": "Refined Solvent",
+        "description": "A coating held together by high-molecule polymers. In addition to its baseline protective capabilities, it has also gained other special characteristics, of which heat resistance is but one of many.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_RS",
+        "usage": "A special coating made from a specific formulation process. Can be used for high level upgrades."
+    },
+    {
+        "id": "31053",
+        "name": "Compound Cutting Fluid",
+        "description": "Provides lubrication and heat resistance during the refining process, which can further increase the rate at which metal products meet final quality specifications.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_CCF",
+        "usage": "An industrial agent necessary for metal processing. Can be used for a variety of upgrades."
+    },
+    {
+        "id": "31054",
+        "name": "Cutting Fluid Solution",
+        "description": "A biologically stable stock solution. Precautions should be taken to avoid cross-contamination during storage.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_PLCF",
+        "usage": "A stock solution prepared from a variety of active solvents. Can be used for high level upgrades."
+    },
+    {
         "id": "3105",
         "name": "Keel",
         "description": "The foundation of the entire construction operation at Rhodes Island. Although this giant, complicated component must be custom made or ordered, for some reason, Rhodes Island often uses it to build special facilities.",
@@ -1229,7 +1277,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_pioneer",
-        "usage": "Used to improve the Potential of \u26051 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Vanguard Operators."
     },
     {
         "id": "tier1_guard",
@@ -1237,7 +1285,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_guard",
-        "usage": "Used to improve the Potential of \u26051 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Guard Operators."
     },
     {
         "id": "tier1_tank",
@@ -1245,7 +1293,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_tank",
-        "usage": "Used to improve the Potential of \u26051 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Defender Operators."
     },
     {
         "id": "tier1_sniper",
@@ -1253,7 +1301,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_sniper",
-        "usage": "Used to improve the Potential of \u26051 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Sniper Operators."
     },
     {
         "id": "tier1_caster",
@@ -1261,7 +1309,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_caster",
-        "usage": "Used to improve the Potential of \u26051 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Caster Operators."
     },
     {
         "id": "tier1_medic",
@@ -1269,7 +1317,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_medic",
-        "usage": "Used to improve the Potential of \u26051 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Medic Operators."
     },
     {
         "id": "tier1_supporter",
@@ -1277,7 +1325,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_supporter",
-        "usage": "Used to improve the Potential of \u26051 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Supporter Operators."
     },
     {
         "id": "tier1_special",
@@ -1285,7 +1333,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_special",
-        "usage": "Used to improve the Potential of \u26051 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Specialist Operators."
     },
     {
         "id": "tier2_pioneer",
@@ -1293,7 +1341,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_pioneer",
-        "usage": "Used to improve the Potential of \u26052 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Vanguard Operators."
     },
     {
         "id": "tier2_guard",
@@ -1301,7 +1349,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_guard",
-        "usage": "Used to improve the Potential of \u26052 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Guard Operators."
     },
     {
         "id": "tier2_tank",
@@ -1309,7 +1357,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_tank",
-        "usage": "Used to improve the Potential of \u26052 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Defender Operators."
     },
     {
         "id": "tier2_sniper",
@@ -1317,7 +1365,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_sniper",
-        "usage": "Used to improve the Potential of \u26052 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Sniper Operators."
     },
     {
         "id": "tier2_caster",
@@ -1325,7 +1373,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_caster",
-        "usage": "Used to improve the Potential of \u26052 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Caster Operators."
     },
     {
         "id": "tier2_medic",
@@ -1333,7 +1381,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_medic",
-        "usage": "Used to improve the Potential of \u26052 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Medic Operators."
     },
     {
         "id": "tier2_supporter",
@@ -1341,7 +1389,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_supporter",
-        "usage": "Used to improve the Potential of \u26052 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Supporter Operators."
     },
     {
         "id": "tier2_special",
@@ -1349,7 +1397,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_special",
-        "usage": "Used to improve the Potential of \u26052 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Specialist Operators."
     },
     {
         "id": "tier3_pioneer",
@@ -1357,7 +1405,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_pioneer",
-        "usage": "Used to improve the Potential of \u26053 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Vanguard Operators."
     },
     {
         "id": "tier3_guard",
@@ -1365,7 +1413,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_guard",
-        "usage": "Used to improve the Potential of \u26053 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Guard Operators."
     },
     {
         "id": "tier3_tank",
@@ -1373,7 +1421,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_tank",
-        "usage": "Used to improve the Potential of \u26053 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Defender Operators."
     },
     {
         "id": "tier3_sniper",
@@ -1381,7 +1429,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_sniper",
-        "usage": "Used to improve the Potential of \u26053 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Sniper Operators."
     },
     {
         "id": "tier3_caster",
@@ -1389,7 +1437,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_caster",
-        "usage": "Used to improve the Potential of \u26053 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Caster Operators."
     },
     {
         "id": "tier3_medic",
@@ -1397,7 +1445,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_medic",
-        "usage": "Used to improve the Potential of \u26053 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Medic Operators."
     },
     {
         "id": "tier3_supporter",
@@ -1405,7 +1453,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_supporter",
-        "usage": "Used to improve the Potential of \u26053 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Supporter Operators."
     },
     {
         "id": "tier3_special",
@@ -1413,7 +1461,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_special",
-        "usage": "Used to improve the Potential of \u26053 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Specialist Operators."
     },
     {
         "id": "tier4_pioneer",
@@ -1421,7 +1469,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_pioneer",
-        "usage": "Used to improve the Potential of \u26054 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Vanguard Operators."
     },
     {
         "id": "tier4_guard",
@@ -1429,7 +1477,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_guard",
-        "usage": "Used to improve the Potential of \u26054 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Guard Operators."
     },
     {
         "id": "tier4_tank",
@@ -1437,7 +1485,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_tank",
-        "usage": "Used to improve the Potential of \u26054 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Defender Operators."
     },
     {
         "id": "tier4_sniper",
@@ -1445,7 +1493,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_sniper",
-        "usage": "Used to improve the Potential of \u26054 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Sniper Operators."
     },
     {
         "id": "tier4_caster",
@@ -1453,7 +1501,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_caster",
-        "usage": "Used to improve the Potential of \u26054 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Caster Operators."
     },
     {
         "id": "tier4_medic",
@@ -1461,7 +1509,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_medic",
-        "usage": "Used to improve the Potential of \u26054 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Medic Operators."
     },
     {
         "id": "tier4_supporter",
@@ -1469,7 +1517,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_supporter",
-        "usage": "Used to improve the Potential of \u26054 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Supporter Operators."
     },
     {
         "id": "tier4_special",
@@ -1477,7 +1525,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_special",
-        "usage": "Used to improve the Potential of \u26054 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Specialist Operators."
     },
     {
         "id": "tier5_pioneer",
@@ -1485,7 +1533,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_pioneer",
-        "usage": "Used to improve the Potential of \u26055 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Vanguard Operators."
     },
     {
         "id": "tier5_guard",
@@ -1493,7 +1541,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_guard",
-        "usage": "Used to improve the Potential of \u26055 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Guard Operators."
     },
     {
         "id": "tier5_tank",
@@ -1501,7 +1549,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_tank",
-        "usage": "Used to improve the Potential of \u26055 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Defender Operators."
     },
     {
         "id": "tier5_sniper",
@@ -1509,7 +1557,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_sniper",
-        "usage": "Used to improve the Potential of \u26055 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Sniper Operators."
     },
     {
         "id": "tier5_caster",
@@ -1517,7 +1565,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_caster",
-        "usage": "Used to improve the Potential of \u26055 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Caster Operators."
     },
     {
         "id": "tier5_medic",
@@ -1525,7 +1573,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_medic",
-        "usage": "Used to improve the Potential of \u26055 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Medic Operators."
     },
     {
         "id": "tier5_supporter",
@@ -1533,7 +1581,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_supporter",
-        "usage": "Used to improve the Potential of \u26055 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Supporter Operators."
     },
     {
         "id": "tier5_special",
@@ -1541,7 +1589,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_special",
-        "usage": "Used to improve the Potential of \u26055 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Specialist Operators."
     },
     {
         "id": "tier6_pioneer",
@@ -1549,7 +1597,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_pioneer",
-        "usage": "Used to improve the Potential of \u26056 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Vanguard Operators."
     },
     {
         "id": "tier6_guard",
@@ -1557,7 +1605,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_guard",
-        "usage": "Used to improve the Potential of \u26056 Guard Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Guard Operators."
     },
     {
         "id": "tier6_tank",
@@ -1565,7 +1613,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_tank",
-        "usage": "Used to improve the Potential of \u26056 Defender Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Defender Operators."
     },
     {
         "id": "tier6_sniper",
@@ -1573,7 +1621,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_sniper",
-        "usage": "Used to improve the Potential of \u26056 Sniper Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Sniper Operators."
     },
     {
         "id": "tier6_caster",
@@ -1581,7 +1629,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_caster",
-        "usage": "Used to improve the Potential of \u26056 Caster Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Caster Operators."
     },
     {
         "id": "tier6_medic",
@@ -1589,7 +1637,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_medic",
-        "usage": "Used to improve the Potential of \u26056 Medic Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Medic Operators."
     },
     {
         "id": "tier6_supporter",
@@ -1597,7 +1645,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_supporter",
-        "usage": "Used to improve the Potential of \u26056 Supporter Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Supporter Operators."
     },
     {
         "id": "tier6_special",
@@ -1605,7 +1653,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_special",
-        "usage": "Used to improve the Potential of \u26056 Specialist Operators."
+        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Specialist Operators."
     },
     {
         "id": "p_char_285_medic2",
@@ -2174,6 +2222,14 @@
         "rarity": 3,
         "icon_id": "p_char_469_indigo",
         "usage": "Used to improve the Potential of Indigo."
+    },
+    {
+        "id": "p_char_484_robrta",
+        "name": "Roberta's Token",
+        "description": "A makeup brush of rough craftsmanship. Though it shows signs of age, each brown bristle is clean and very soft.",
+        "rarity": 3,
+        "icon_id": "p_char_484_robrta",
+        "usage": "Used to improve the Potential of Roberta."
     },
     {
         "id": "p_char_128_plosis",
@@ -2746,10 +2802,10 @@
     {
         "id": "p_char_402_tuye",
         "name": "Tuye's Token",
-        "description": "A\u00a0vial\u00a0of\u00a0nutritional\u00a0fluid.\u00a0Hand\u00a0crafted\u00a0by\u00a0the\u00a0outstanding\u00a0medical\u00a0operator\u00a0Tuye,\u00a0it\u00a0gives\u00a0off\u00a0a\u00a0peculiar\u00a0smell.\u00a0Whether\u00a0and\u00a0when\u00a0to\u00a0drink\u00a0it\u00a0remain\u00a0questions\u00a0you\u00a0have\u00a0to\u00a0think\u00a0over\u00a0for\u00a0yourself.",
+        "description": "A\u00c2\u00a0vial\u00c2\u00a0of\u00c2\u00a0nutritional\u00c2\u00a0fluid.\u00c2\u00a0Hand\u00c2\u00a0crafted\u00c2\u00a0by\u00c2\u00a0the\u00c2\u00a0outstanding\u00c2\u00a0medical\u00c2\u00a0operator\u00c2\u00a0Tuye,\u00c2\u00a0it\u00c2\u00a0gives\u00c2\u00a0off\u00c2\u00a0a\u00c2\u00a0peculiar\u00c2\u00a0smell.\u00c2\u00a0Whether\u00c2\u00a0and\u00c2\u00a0when\u00c2\u00a0to\u00c2\u00a0drink\u00c2\u00a0it\u00c2\u00a0remain\u00c2\u00a0questions\u00c2\u00a0you\u00c2\u00a0have\u00c2\u00a0to\u00c2\u00a0think\u00c2\u00a0over\u00c2\u00a0for\u00c2\u00a0yourself.",
         "rarity": 4,
         "icon_id": "p_char_402_tuye",
-        "usage": "Used\u00a0to\u00a0improve\u00a0the\u00a0Potential\u00a0of\u00a0Tuye."
+        "usage": "Used\u00c2\u00a0to\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0Potential\u00c2\u00a0of\u00c2\u00a0Tuye."
     },
     {
         "id": "p_char_455_nothin",
@@ -2834,7 +2890,7 @@
     {
         "id": "p_char_421_crow",
         "name": "La Pluma's Token",
-        "description": "A copy of the 'Dossoles Guide to Cocktails,' with plenty of recipes full of her notes on the side. These all seem to be her specialties\u2014if you've got time to spare, you can order a round from her.",
+        "description": "A copy of the 'Dossoles Guide to Cocktails,' with plenty of recipes full of her notes on the side. These all seem to be her specialties\u00e2\u20ac\u201dif you've got time to spare, you can order a round from her.",
         "rarity": 4,
         "icon_id": "p_char_421_crow",
         "usage": "Used to improve the Potential of La Pluma."
@@ -2846,6 +2902,14 @@
         "rarity": 4,
         "icon_id": "p_char_486_takila",
         "usage": "Used to improve the Potential of Tequila."
+    },
+    {
+        "id": "p_char_473_mberry",
+        "name": "Mulberry's Token",
+        "description": "Adorned with Yan's characteristic red protective charms. Mulberry asked for this amulet back specifically for you. Incomprehensible Yan characters are written on it, and an almost imperceptible scent of incense seems to linger.",
+        "rarity": 4,
+        "icon_id": "p_char_473_mberry",
+        "usage": "Used to improve the Potential of Mulberry."
     },
     {
         "id": "p_char_103_angel",
@@ -3202,10 +3266,34 @@
     {
         "id": "p_char_437_mizuki",
         "name": "Mizuki's Token",
-        "description": "One of some classic video game's commemoration badges distributed for its 40th anniversary. The characters that appear on them each have completely different expressions, and are so cute you could just open wide and\u2014",
+        "description": "One of some classic video game's commemoration badges distributed for its 40th anniversary. The characters that appear on them each have completely different expressions, and are so cute you could just open wide and\u00e2\u20ac\u201d",
         "rarity": 5,
         "icon_id": "p_char_437_mizuki",
         "usage": "Used to improve the Potential of Mizuki."
+    },
+    {
+        "id": "p_char_479_sleach",
+        "name": "Saileach's Token",
+        "description": "A small segment of a dried willow branch. Each bud is still perfectly intact, as if it could grow once more if dipped into water.",
+        "rarity": 5,
+        "icon_id": "p_char_479_sleach",
+        "usage": "Used to improve the Potential of Saileach."
+    },
+    {
+        "id": "voucher_full_ceylon",
+        "name": "Ceylon's Personal Letter",
+        "description": "The letter makes mention of progress on a near-future Originium academic course, hopes for the new city of Siesta, and care for how Schwarz is doing.",
+        "rarity": 4,
+        "icon_id": "voucher_full_ceylon",
+        "usage": "A personal letter sent to the Doctor, used to improve Ceylon to Max Potential."
+    },
+    {
+        "id": "uni_set_guitar",
+        "name": "Heart of Surging Flame Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_guitar",
+        "usage": "Obtain all 'Rhodes Island Modern Music Rehearsal Room' furniture exclusive to the Heart of Surging Flame event not yet acquired."
     },
     {
         "id": "ap_item_amiya",
@@ -3792,6 +3880,14 @@
         "usage": "A new securitized holding launched by the Mieszko Group that allows you to buy souvenirs at a Kazimierz duty free shop."
     },
     {
+        "id": "act13d5_token_securities_rep_1",
+        "name": "Mieszko Sports Securities",
+        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "rarity": 4,
+        "icon_id": "act13d5_token_securities",
+        "usage": "A new securitized holding launched by the Mieszko Group that allows you to buy souvenirs at a Kazimierz duty free shop."
+    },
+    {
         "id": "act15d0_token_ironSheet",
         "name": "Factory Steel",
         "description": "You can make them during factory work hours, but it's no easy thing to sneak them off. They work as weapons as well as currency, and act as one measure of status in the prison.",
@@ -3856,9 +3952,17 @@
         "usage": "A small medal made from metal. Gain certain amounts and receive corresponding competition rewards."
     },
     {
+        "id": "act8mini_token_vigilo",
+        "name": "'Imagini'",
+        "description": "Others will regard these as scrawls of unclear significance; Kal'tsit speculates on the Doctor's psychological state with these; in the Doctor's eyes, these fragments have come to piece together a present self.",
+        "rarity": 4,
+        "icon_id": "act8mini_token_vigilo",
+        "usage": "Irreal images disclosed by id, cognized by ego, constructed by superego."
+    },
+    {
         "id": "act12side_token_coupon",
         "name": "Mama John's Voucher",
-        "description": "Mama John's of Columbia has been offering industrial assembly-line products for all trades, all walks and all rhythms of life in a capacity Bol\u00edvar's native industry can't compare to, to the extent that all these vouchers, originally simply issued to promote sales, have become more and more truly valuable. At times, they even serve as the currency for dealings between local small-time gangs.",
+        "description": "Mama John's of Columbia has been offering industrial assembly-line products for all trades, all walks and all rhythms of life in a capacity Bol\u00c3\u00advar's native industry can't compare to, to the extent that all these vouchers, originally simply issued to promote sales, have become more and more truly valuable. At times, they even serve as the currency for dealings between local small-time gangs.",
         "rarity": 4,
         "icon_id": "act12side_token_coupon",
         "usage": "Vouchers redeemable at all Mama John's in Dossoles."
@@ -3882,7 +3986,7 @@
     {
         "id": "act12side_token_key02",
         "name": "[Dragon and Rat in Conflict]",
-        "description": "That day, that moment Ch'en and Lin Y\u00fchsia came out of the A.H.C. Bar, the gunpowder tension between them had everyone following the championship excited beyond belief.",
+        "description": "That day, that moment Ch'en and Lin Y\u00c3\u00bchsia came out of the A.H.C. Bar, the gunpowder tension between them had everyone following the championship excited beyond belief.",
         "rarity": 4,
         "icon_id": "act12side_token_key02",
         "usage": "A commemoration of Ch'en's special investigation in Dossoles."
@@ -3890,7 +3994,7 @@
     {
         "id": "act12side_token_key03",
         "name": "['Golden Partner']",
-        "description": "In Swire's belief, she needs a partner just as Hoshiguma is to Ch'en, and simultaneously, she believes Lin Y\u00fchsia could become that partner. She's made no small effort to see that happen, and ultimately, you can tell how it turned out just by the look on their faces.",
+        "description": "In Swire's belief, she needs a partner just as Hoshiguma is to Ch'en, and simultaneously, she believes Lin Y\u00c3\u00bchsia could become that partner. She's made no small effort to see that happen, and ultimately, you can tell how it turned out just by the look on their faces.",
         "rarity": 4,
         "icon_id": "act12side_token_key03",
         "usage": "A commemoration of Ch'en's special investigation in Dossoles."

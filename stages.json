@@ -220,7 +220,7 @@
         "id": "main_01-02",
         "code": "1-2",
         "name": "Sprawl",
-        "description": "At the same time, members of the Op Reserve Team have run into new enemies on their way to help... Please pay attention to the surprise attack from the north.\n<@lv.item><Fixed Squad></> Unable to edit the squad",
+        "description": "At the same time, members of the Reserve Op Team have run into new enemies on their way to help... Please pay attention to the surprise attack from the north.\n<@lv.item><Fixed Squad></> Unable to edit the squad",
         "sanity_cost": 0
     },
     {
@@ -360,7 +360,7 @@
         "id": "main_01-11",
         "code": "1-11",
         "name": "The Forgotten",
-        "description": "At the same time, Op Reserve Team members have run into W, one of the enemy's leaders, on their way to help... Observe W's movements carefully while defending against the enemy attack.\n<@lv.item><Fixed Squad></> Unable to edit the squad",
+        "description": "At the same time, Reserve Op Team members have run into W, one of the enemy's leaders, on their way to help... Observe W's movements carefully while defending against the enemy attack.\n<@lv.item><Fixed Squad></> Unable to edit the squad",
         "sanity_cost": 0
     },
     {
@@ -2184,6 +2184,328 @@
         "sanity_cost": 10
     },
     {
+        "id": "st_09-01",
+        "code": "9-1",
+        "name": "Storm Assault",
+        "description": "Victoria's 7th Frontline Infantry Battalion, 2nd Tempest Platoon, makes landfall on County Hillock.",
+        "sanity_cost": 0
+    },
+    {
+        "id": "main_09-01",
+        "code": "9-2",
+        "name": "The Ghost Crisis",
+        "description": "A well hidden enemy might as well be a ghost.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-01#f#",
+        "code": "9-2",
+        "name": "The Ghost Crisis",
+        "description": "<@lv.fs>Condition:</>\nThe HP of Dublinn Sniffer Hounds is significantly increased.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-02",
+        "code": "9-3",
+        "name": "A Game of Cards",
+        "description": "Those standing in the sunlight haven't yet noticed the shadows gathering atop their very heads.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-02#f#",
+        "code": "9-3",
+        "name": "A Game of Cards",
+        "description": "<@lv.fs>Condition:</>\nThe ATK and DEF of Dublinn Scouts and Dublinn Heavy Defenders are significantly increased.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-03",
+        "code": "9-4",
+        "name": "Low Fires All About",
+        "description": "In this city, there's either conflict or the rumblings of it. Just where is the lighter of this fire hiding?",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-03#f#",
+        "code": "9-4",
+        "name": "Low Fires All About",
+        "description": "<@lv.fs>Condition:</>\nDublinn Shadowcasters are invisible.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-04",
+        "code": "9-5",
+        "name": "Critical Value",
+        "description": "The downpour is here, the enemy is everywhere, and the frustration is slowly reaching the breaking point.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-04#f#",
+        "code": "9-5",
+        "name": "Critical Value",
+        "description": "<@lv.fs>Condition:</>\nSniper and Guard Operators have greatly reduced ATK.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-05",
+        "code": "9-6",
+        "name": "Dublinn",
+        "description": "In the wake of a surprise attack, the ghosts climb out of the ashes.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-05#f#",
+        "code": "9-6",
+        "name": "Dublinn",
+        "description": "<@lv.fs>Condition:</>\nAll allied units have -1 Block.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "tr_19",
+        "code": "TR-19",
+        "name": "Ruins Operation",
+        "description": "A combat drill in battlefield ruins. Learn how to make use of a city's pillar constructions when they've been wrecked by the flames of war, in order to better strike against the enemy.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
+        "sanity_cost": 0
+    },
+    {
+        "id": "main_09-06",
+        "code": "9-7",
+        "name": "Hide-and-Seek",
+        "description": "The ghosts have shown in formation amidst the blaze's light, but the thief still hides behind the scenes.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-06#f#",
+        "code": "9-7",
+        "name": "Hide-and-Seek",
+        "description": "<@lv.fs>Condition:</>\n8 tiles on the battlefield are no longer available for deployment.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "st_09-02",
+        "code": "9-8",
+        "name": "Verse in the Ashes",
+        "description": "A great flame may have burned this land to its end, but I see someone's soul, on the other side of the scales.",
+        "sanity_cost": 0
+    },
+    {
+        "id": "main_09-07",
+        "code": "9-9",
+        "name": "The Innocent",
+        "description": "There is evil taking place, and the innocent die for an ideal. Strange stone statues have appeared on the battlefield, rising silently above the ruins.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-07#f#",
+        "code": "9-9",
+        "name": "The Innocent",
+        "description": "<@lv.fs>Condition:</>\nThe HP and ATK of Tombkeeper Grotesques are significantly increased.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-08",
+        "code": "9-10",
+        "name": "Thunder's Rumble",
+        "description": "To purge the shadows that creep into every corner, the city is forced to tear apart its own flesh.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-08#f#",
+        "code": "9-10",
+        "name": "Thunder's Rumble",
+        "description": "<@lv.fs>Condition:</>\nTombkeeper Grotesques have significantly increased Movement Speed.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-09",
+        "code": "9-11",
+        "name": "Tug-o'-War",
+        "description": "We strive to take back this city. But will the ghosts go easily?",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-09#f#",
+        "code": "9-11",
+        "name": "Tug-o'-War",
+        "description": "<@lv.fs>Condition:</>\nEnemies have significantly increased Movement Speed.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-10",
+        "code": "9-12",
+        "name": "Apparitional Waves",
+        "description": "Eliminate one, and there are even more. The enemy pours forth endlessly, only the city itself seeming to pay the price.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.\n<@lv.item><Active Originium></> Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and ASPD will be increased significantly.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-10#f#",
+        "code": "9-12",
+        "name": "Apparitional Waves",
+        "description": "<@lv.fs>Conditions:</>\nEnemy units have significantly increased Movement Speed. 2 tiles on the battlefield are no longer available for deployment.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-11",
+        "code": "9-13",
+        "name": "Battlefield Rescue",
+        "description": "Even if it must cross a raging inferno, Rhodes Island will not abandon a single Infected who needs help.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-11#f#",
+        "code": "9-13",
+        "name": "Battlefield Rescue",
+        "description": "<@lv.fs>Condition:</>\nDP will not regenerate naturally.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-12",
+        "code": "9-14",
+        "name": "Banner in the Wind",
+        "description": "Battered in the storm and rain, some hold their position firm, and some bravely step forth.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "main_09-12#f#",
+        "code": "9-14",
+        "name": "Banner in the Wind",
+        "description": "<@lv.fs>Condition:</>\nTwo Tattered Pillars are removed from the battlefield.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "main_09-13",
+        "code": "9-15",
+        "name": "Scalding Earth",
+        "description": "The enemy's flames push through the city ruins. Those of conviction tread the firelight and forge on.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-13#f#",
+        "code": "9-15",
+        "name": "Scalding Earth",
+        "description": "<@lv.fs>Condition:</>\nEnemies have significantly increased Movement Speed.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-14",
+        "code": "9-16",
+        "name": "Breakout",
+        "description": "The enemy spills into every street, looking to hide their secrets. Only those who go forth with courage can prevent a massacre.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-14#f#",
+        "code": "9-16",
+        "name": "Breakout",
+        "description": "<@lv.fs>Condition:</>\nThe damage dealt from Purifying Flames released by Dublinn Evocators will not weaken over time.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-15",
+        "code": "9-17",
+        "name": "Victorian Soldier",
+        "description": "From one end of the city to the other, a Victorian soldier fends off an army.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-15#f#",
+        "code": "9-17",
+        "name": "Victorian Soldier",
+        "description": "<@lv.fs>Condition:</>\nEnemies have significantly higher DEF.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "main_09-16",
+        "code": "9-18",
+        "name": "'Daybreak'",
+        "description": "Her light struck through the dark veil above.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "main_09-16#f#",
+        "code": "9-18",
+        "name": "'Daybreak'",
+        "description": "<@lv.fs>Condition:</>\nThe HP of Dublinn Companion Guards and Dublinn Companion Shadowblades is significantly increased.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "main_09-17",
+        "code": "9-19",
+        "name": "Gunfire in the Night",
+        "description": "Mandragora is in no way impossible to overcome, but our objective is not to defeat her alone. The dark clouds conceal the sun, and the night that follows will be interminably long, but it is fortunate that there remain those who pass on hope.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Demolition Device></> Directly knocks down a Tattered Pillar one tile in front.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "main_09-17#f#",
+        "code": "9-19",
+        "name": "Gunfire in the Night",
+        "description": "<@lv.fs>Condition:</>\nThe damage of Mandragora's skills is significantly increased.",
+        "sanity_cost": 21
+    },
+    {
+        "id": "st_09-03",
+        "code": "9-20",
+        "name": "The Approaching Storm",
+        "description": "We sail for the storm.",
+        "sanity_cost": 0
+    },
+    {
+        "id": "st_09-04",
+        "code": "9-21",
+        "name": "Relit",
+        "description": "Never did the fire of the tundra die out.",
+        "sanity_cost": 0
+    },
+    {
+        "id": "sub_09-1-1",
+        "code": "S9-1",
+        "name": "Holding Ruins",
+        "description": "The unrelenting firefight has destroyed the streets, but we still must come up with every way to stop the enemy.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "hard_09-01",
+        "code": "H9-1",
+        "name": "Operation Anemoi-1",
+        "description": "The enemy is coming thick and fast, in phalanx formation, with a vicious offense, but so long as we hold this choke point, victory should be simple.",
+        "sanity_cost": 10
+    },
+    {
+        "id": "hard_09-02",
+        "code": "H9-2",
+        "name": "Operation Anemoi-2",
+        "description": "Enemy fireballs cover the whole battlefield. Stay calm under fire and protect yourself.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 10
+    },
+    {
+        "id": "hard_09-03",
+        "code": "H9-3",
+        "name": "Operation Anemoi-3",
+        "description": "The enemy has dispatched even more Companion Guards and Shadowblades. Form a defensive line carefully, and we will win a chance at victory.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 10
+    },
+    {
+        "id": "hard_09-04",
+        "code": "H9-4",
+        "name": "Operation Hyades-1",
+        "description": "The battlefield's dire terrain will likely be of hindrance to our formation, but it can also effectively curb the enemy. \n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.\n<@lv.item><Heat Pump Passage></> Periodically deals great damage to any units on it.",
+        "sanity_cost": 10
+    },
+    {
+        "id": "hard_09-05",
+        "code": "H9-5",
+        "name": "Operation Hyades-2",
+        "description": "Proper timing in clearing the Tattered Pillars will make important changes to the terrain and significantly reduce the challenge of this battle.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 10
+    },
+    {
+        "id": "hard_09-06",
+        "code": "H9-6",
+        "name": "Operation Hyades-3",
+        "description": "As the ghosts climb out of the Empire's vast shadow, their burning fury will not be easily quelled. Stand your own ground, and once again face the vengeance of Mandragora and the warriors of Dublinn.\n<@lv.item><Tattered Pillar></> Can be knocked down by neighboring Operators, dealing True damage to the two tiles it falls on and forming rubble that blocks routes.",
+        "sanity_cost": 10
+    },
+    {
         "id": "wk_melee_1",
         "code": "CE-1",
         "name": "Furniture Shipping Escort",
@@ -2415,6 +2737,104 @@
         "sanity_cost": 36
     },
     {
+        "id": "act8mini_01",
+        "code": "VI-1",
+        "name": "Flanking Maneuver",
+        "description": "End it quickly! Do your best to support those reliable friends of ours!",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act8mini_01#f#",
+        "code": "VI-1",
+        "name": "Flanking Maneuver",
+        "description": "<@lv.fs>Condition:</>\nReduce the number of Guerrilla Shieldguards, and one additional Tiacauh Champion will appear",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act8mini_02",
+        "code": "VI-2",
+        "name": "From the Skies",
+        "description": "Keep an eye out for the threat from above. \n<@lv.item><Mobile Tactical Hangar></>Deploys drones as needed to assist enemy combatants",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act8mini_02#f#",
+        "code": "VI-2",
+        "name": "From the Skies",
+        "description": "<@lv.fs>Condition:</>\nOne additional War Phantom will appear",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act8mini_03",
+        "code": "VI-3",
+        "name": "The Meeting of Kin",
+        "description": "Watch your feet. Being small doesn't mean that they'll be easy to deal with.",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act8mini_03#f#",
+        "code": "VI-3",
+        "name": "The Meeting of Kin",
+        "description": "<@lv.fs>Condition:</>\nOriginiutant Puppets, Mutant Rock Spiders, and Mutant Rock Spiders \u00ce\u00b1 have greatly increased HP and ATK",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act8mini_04",
+        "code": "VI-4",
+        "name": "Geared and Ordered",
+        "description": "It's difficult to say who is looking down on the other. They look as if they just want an exhibition match. \n<@lv.item><Turrets></>Periodically fire bolts, dealing Physical damage to our units",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act8mini_04#f#",
+        "code": "VI-4",
+        "name": "Geared and Ordered",
+        "description": "<@lv.fs>Condition:</>\nAll allied units have massively reduced natural SP recovery rate",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act8mini_05",
+        "code": "VI-5",
+        "name": "Rewind",
+        "description": "Face them once again. \n<@lv.item><Turrets></>Periodically fire bolts, dealing Physical damage to our units",
+        "sanity_cost": 12
+    },
+    {
+        "id": "act8mini_05#f#",
+        "code": "VI-5",
+        "name": "Rewind",
+        "description": "<@lv.fs>Condition:</>\nFaust's special snipe deals increased damage and has a shorter cooldown",
+        "sanity_cost": 12
+    },
+    {
+        "id": "act8mini_06",
+        "code": "VI-6",
+        "name": "Yesterday",
+        "description": "She fell asleep yesterday. You know she will never again open her eyes. \n<@lv.item><Originium Ice Crystal></>Periodically releases a frigid wave that will inflict Cold to affected allied units",
+        "sanity_cost": 15
+    },
+    {
+        "id": "act8mini_06#f#",
+        "code": "VI-6",
+        "name": "Yesterday",
+        "description": "<@lv.fs>Condition:</>\nGuard and Caster Operators have greatly reduced ATK",
+        "sanity_cost": 15
+    },
+    {
+        "id": "act8mini_07",
+        "code": "VI-7",
+        "name": "Dissonant Chord",
+        "description": "Like a playlist repeated endlessly, the disparate pitches converge to form a distinct chord. \n<@lv.item><Giant Mushroom></>Increases the DEF of neighboring allied units\n<@lv.item><Rhodes Island Temporary Employee></>Tidies up a Giant Mushroom to create a Ranged tile",
+        "sanity_cost": 18
+    },
+    {
+        "id": "act8mini_07#f#",
+        "code": "VI-7",
+        "name": "Dissonant Chord",
+        "description": "<@lv.fs>Condition:</>\nAll allied units and summoned units have +75% Redeployment Time",
+        "sanity_cost": 18
+    },
+    {
         "id": "act12side_st01",
         "code": "DH-ST-1",
         "name": "A Chance Encounter",
@@ -2432,7 +2852,7 @@
         "id": "act12side_01",
         "code": "DH-1",
         "name": "Accidental Participation",
-        "description": "Ch'en had a hunch she'd encounter Lin Y\u00fchsia in this city for some reason or other. She just didn't expect it to be this early, and in such a way. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+        "description": "Ch'en had a hunch she'd encounter Lin Y\u00c3\u00bchsia in this city for some reason or other. She just didn't expect it to be this early, and in such a way. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
         "sanity_cost": 9
     },
     {
@@ -2502,7 +2922,7 @@
         "id": "act12side_08",
         "code": "DH-8",
         "name": "Beach Landing",
-        "description": "Swire worries for the safety of Ch'en and Lin Y\u00fchsia, but she fears the trouble they are causing even more. \n<@lv.item><Deep Water Zone></> Unable to deploy on these tiles. In this stage, enemies on these tiles lose HP at a greatly increased rate\n<@lv.item><Custom Floating Platform></> Can be deployed on Deep Water Zones, thereafter any unit can be deployed on that tile. The platform is destroyed when the deployed unit retreats",
+        "description": "Swire worries for the safety of Ch'en and Lin Y\u00c3\u00bchsia, but she fears the trouble they are causing even more. \n<@lv.item><Deep Water Zone></> Unable to deploy on these tiles. In this stage, enemies on these tiles lose HP at a greatly increased rate\n<@lv.item><Custom Floating Platform></> Can be deployed on Deep Water Zones, thereafter any unit can be deployed on that tile. The platform is destroyed when the deployed unit retreats",
         "sanity_cost": 18
     },
     {
@@ -2579,7 +2999,7 @@
         "id": "act12side_ex05",
         "code": "DH-EX-5",
         "name": "Seaside Vantage Point",
-        "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Y\u00fchsia disagrees. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
+        "description": "These smugglers armed to the teeth presume that none would dare provoke them. Lin Y\u00c3\u00bchsia disagrees. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion': Allied units have reduced ASPD, continually receive Corrosion Damage and receive additional Corrosion Damage when attacked; Enemies have reduced ASPD and Movement Speed, and continually lose HP",
         "sanity_cost": 15
     },
     {
@@ -2649,7 +3069,7 @@
         "id": "act12side_s02",
         "code": "DH-S-2",
         "name": "Battle of the Dragon and Mouse",
-        "description": "Based on Lin Y\u00fchsia's understanding, it's completely acceptable here to hit first and ask questions later. She'd been planning to do so anyway. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion'\n<@lv.rem>Condition:</> Allied units and enemies receive increased Corrosion Damage under 'Erosion', and Unmanned Heavy Explosive Boats lose HP at a decreased rate",
+        "description": "Based on Lin Y\u00c3\u00bchsia's understanding, it's completely acceptable here to hit first and ask questions later. She'd been planning to do so anyway. \n<@lv.item><High Tide></> Unable to deploy on flooded tiles. Allied units and enemies in the water will be affected by 'Erosion'\n<@lv.rem>Condition:</> Allied units and enemies receive increased Corrosion Damage under 'Erosion', and Unmanned Heavy Explosive Boats lose HP at a decreased rate",
         "sanity_cost": 15
     },
     {
@@ -3062,7 +3482,7 @@
         "id": "act18d0_st01",
         "code": "WD-ST-1",
         "name": "Pine Lilies",
-        "description": "No patch of soil pays any heed to the blossoming of a few clusters of flowers\u2014 The land does not care, for the land encompasses all things.",
+        "description": "No patch of soil pays any heed to the blossoming of a few clusters of flowers\u00e2\u20ac\u201d The land does not care, for the land encompasses all things.",
         "sanity_cost": 0
     },
     {
@@ -3104,7 +3524,7 @@
         "id": "act18d0_ex01",
         "code": "WD-EX-1",
         "name": "Pack Tactics",
-        "description": "Nobody knows the origins of this 'hound' species, but the people of Bol\u00edvar were the first to use them in battle. Well-trained hounds provided a significant advantage on the field.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
+        "description": "Nobody knows the origins of this 'hound' species, but the people of Bol\u00c3\u00advar were the first to use them in battle. Well-trained hounds provided a significant advantage on the field.\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
         "sanity_cost": 10
     },
     {
@@ -3118,7 +3538,7 @@
         "id": "act18d0_ex02",
         "code": "WD-EX-2",
         "name": "Converging Lines",
-        "description": "Well-trained mercenaries are often able to execute two-pronged attacks, and even capture targets in complex terrain\u2014 Wait, wait, when did the third squad show up? Who gave the order to act?!\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
+        "description": "Well-trained mercenaries are often able to execute two-pronged attacks, and even capture targets in complex terrain\u00e2\u20ac\u201d Wait, wait, when did the third squad show up? Who gave the order to act?!\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
         "sanity_cost": 10
     },
     {
@@ -3132,7 +3552,7 @@
         "id": "act18d0_ex03",
         "code": "WD-EX-3",
         "name": "Long-Range Strike",
-        "description": "A well-trained assault force will thin out defenders using long-ranged strikes before sweeping through with ground forces\u2014 Wait, stop! Who let the hounds out?! Tell the crossbowmen to stop!",
+        "description": "A well-trained assault force will thin out defenders using long-ranged strikes before sweeping through with ground forces\u00e2\u20ac\u201d Wait, stop! Who let the hounds out?! Tell the crossbowmen to stop!",
         "sanity_cost": 15
     },
     {
@@ -3146,7 +3566,7 @@
         "id": "act18d0_ex04",
         "code": "WD-EX-4",
         "name": "Breaking In",
-        "description": "Generally speaking, well-trained mercenaries will act according to your timetables during an assault\u2014 W-Wait, where are your hounds? Why'd your crossbowmen go in first? Where are the defenders? How come there's only one person in your vanguard?!\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
+        "description": "Generally speaking, well-trained mercenaries will act according to your timetables during an assault\u00e2\u20ac\u201d W-Wait, where are your hounds? Why'd your crossbowmen go in first? Where are the defenders? How come there's only one person in your vanguard?!\n<@lv.item><Mobile Tactical Hangar></> Deploys drones as needed to assist enemy combatants.",
         "sanity_cost": 15
     },
     {
@@ -3230,70 +3650,70 @@
         "id": "act17d0_01",
         "code": "OD-1",
         "name": "Field Records",
-        "description": "This is just a simple task, and there won't be anything complicated\u2014\u2014 Many stories start in this manner, but we all know that things seldom end up that simple.'\n<@lv.item><Dirt Mound> </>A reinforceable structure that can be used to resist sandstorms.",
+        "description": "This is just a simple task, and there won't be anything complicated\u00e2\u20ac\u201d\u00e2\u20ac\u201d Many stories start in this manner, but we all know that things seldom end up that simple.'\n<@lv.item><Dirt Mound> </>A reinforceable structure that can be used to resist sandstorms.",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_02",
         "code": "OD-2",
         "name": "Defensive Range Expansion",
-        "description": "\u2014\u2014Protect, remain alert, and do not make enemies of the locals. This rickety safehouse is safe for now\u2014\u2014\n<@lv.item><Reinforcement Device></> Can reinforce dirt mounds to make them immune to the effects of sandstorms.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dProtect, remain alert, and do not make enemies of the locals. This rickety safehouse is safe for now\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><Reinforcement Device></> Can reinforce dirt mounds to make them immune to the effects of sandstorms.",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_03",
         "code": "OD-3",
         "name": "Safehouse Battle",
-        "description": "\u2014\u2014The attackers' identities are unknown, and the local community has suffered heavy casualties. The status quo has been broken, and conflict is unavoidable\u2014\u2014\n><@lv.item><High-Energy Originium Bomb></> Deals True Damage to enemies in a large area when detonated, and can also destroy dirt mounds.\n<@lv.rem>Some characters cannot be deployed in this stage.</>",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dThe attackers' identities are unknown, and the local community has suffered heavy casualties. The status quo has been broken, and conflict is unavoidable\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n><@lv.item><High-Energy Originium Bomb></> Deals True Damage to enemies in a large area when detonated, and can also destroy dirt mounds.\n<@lv.rem>Some characters cannot be deployed in this stage.</>",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_04",
         "code": "OD-4",
         "name": "Sector Sweep",
-        "description": "\u2014\u2014There are so many enemies, but we cannot sit around and wait to die\u2014\u2014\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dThere are so many enemies, but we cannot sit around and wait to die\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_05",
         "code": "OD-5",
         "name": "Supply Recovery Plan",
-        "description": "\u2014\u2014Supplies are scarce, materials are in short supply, the crisis has not been alleviated, and threats arrive unpredictably\u2014\u2014\n<@lv.item><Sandstorm> </>Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dSupplies are scarce, materials are in short supply, the crisis has not been alleviated, and threats arrive unpredictably\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><Sandstorm> </>Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_06",
         "code": "OD-6",
         "name": "Battle of the Lord's Manor",
-        "description": "\u2014\u2014A tough battle, enemies are launching a frontal assault, and the terrain is disadvantageous for us. We'll have to use our tactics flexibly\u2014\u2014\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dA tough battle, enemies are launching a frontal assault, and the terrain is disadvantageous for us. We'll have to use our tactics flexibly\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
         "sanity_cost": 12
     },
     {
         "id": "act17d0_st02",
         "code": "OD-ST-2",
         "name": "A Funeral",
-        "description": "\u2014\u2014Our friends sleep here forevermore\u2014\u2014",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dOur friends sleep here forevermore\u00e2\u20ac\u201d\u00e2\u20ac\u201d",
         "sanity_cost": 0
     },
     {
         "id": "act17d0_07",
         "code": "OD-7",
         "name": "Bunker Defense Line",
-        "description": "\u2014\u2014Our strategies are not airtight, our plan is full of loopholes, but we have no choice but to stick to this line of defense.\u2014\u2014\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dOur strategies are not airtight, our plan is full of loopholes, but we have no choice but to stick to this line of defense.\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed.",
         "sanity_cost": 18
     },
     {
         "id": "act17d0_08",
         "code": "OD-8",
         "name": "Infiltration Battle",
-        "description": "\u2014\u2014The enemy is hidden in the depths of the mines. Use explosives to dispatch them. If one isn't enough, use another one\u2014\u2014\n<@lv.item><High-Energy Originium Bomb></> Deals True Damage to enemies in a large area when detonated, and can also destroy dirt mounds.",
+        "description": "\u00e2\u20ac\u201d\u00e2\u20ac\u201dThe enemy is hidden in the depths of the mines. Use explosives to dispatch them. If one isn't enough, use another one\u00e2\u20ac\u201d\u00e2\u20ac\u201d\n<@lv.item><High-Energy Originium Bomb></> Deals True Damage to enemies in a large area when detonated, and can also destroy dirt mounds.",
         "sanity_cost": 18
     },
     {
         "id": "act17d0_st03",
         "code": "OD-ST-3",
         "name": "Trekking Upon Terra",
-        "description": "'When the dust settles, they will all find themselves trekking upon Terra.' \u2014\u2014 Storyteller",
+        "description": "'When the dust settles, they will all find themselves trekking upon Terra.' \u00e2\u20ac\u201d\u00e2\u20ac\u201d Storyteller",
         "sanity_cost": 0
     },
     {
@@ -3377,7 +3797,7 @@
         "id": "act17d0_ex06#f#",
         "code": "OD-EX-6",
         "name": "Counter-Ambush",
-        "description": "<@lv.fs>Condition:</> \n<Originiutant \u03b1> are invisible.",
+        "description": "<@lv.fs>Condition:</> \n<Originiutant \u00ce\u00b1> are invisible.",
         "sanity_cost": 15
     },
     {
@@ -3741,7 +4161,7 @@
         "id": "act15d0_tr01",
         "code": "MB-TR-1",
         "name": "Shackles and Dances",
-        "description": "One of the most important rules for surviving in prison\u2014 get used to those shackles around your body. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
+        "description": "One of the most important rules for surviving in prison\u00e2\u20ac\u201d get used to those shackles around your body. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
         "sanity_cost": 0
     },
     {
@@ -3769,7 +4189,7 @@
         "id": "act15d0_04",
         "code": "MB-4",
         "name": "Bravery, Stupidity",
-        "description": "To be honest, the difference between the two might just come down to two words\u2014 self awareness. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
+        "description": "To be honest, the difference between the two might just come down to two words\u00e2\u20ac\u201d self awareness. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
         "sanity_cost": 12
     },
     {
@@ -3790,7 +4210,7 @@
         "id": "act15d0_07",
         "code": "MB-7",
         "name": "Betrayal",
-        "description": "Don't put too much stock into the 'friend' you only met recently\u2014 you just don't understand him yet. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
+        "description": "Don't put too much stock into the 'friend' you only met recently\u00e2\u20ac\u201d you just don't understand him yet. \n<@lv.item><Imprisonment Device></>Imprisons freed enemies within its effect area.",
         "sanity_cost": 18
     },
     {
@@ -3804,7 +4224,7 @@
         "id": "act15d0_st02",
         "code": "MB-ST-2",
         "name": "The Cost of Being Righteous",
-        "description": "At least, this price can often be paid with peace of mind.\u00a0",
+        "description": "At least, this price can often be paid with peace of mind.\u00c2\u00a0",
         "sanity_cost": 0
     },
     {
@@ -3964,7 +4384,7 @@
     {
         "id": "act13d5_05",
         "code": "MN-5",
-        "name": "S\u0142oma Food Co.",
+        "name": "S\u00c5\u201aoma Food Co.",
         "description": "A hundred supermarket chains across the country! Happiness lies with warm clothes and tasty food. Non-stop events during the Kazimierz Major! *New Pincerbeast food products released, give them a try*\n<@lv.item><Anti-Air Rune></>Operators deployed on this tile have slightly reduced ASPD but greatly increased ATK when attacking Aerial units.",
         "sanity_cost": 15
     },
@@ -4693,7 +5113,7 @@
         "id": "act11d0_ex01",
         "code": "TW-EX-1",
         "name": "Defend the Walls",
-        "description": "Never underestimate the complexity of a Leithanien city's courtyard.\n<@lv.item><'Gramophone'></>Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies",
+        "description": "Never underestimate the complexity of a Leithanian city's courtyard.\n<@lv.item><'Gramophone'></>Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies",
         "sanity_cost": 10
     },
     {
@@ -4749,14 +5169,14 @@
         "id": "act11d0_ex05",
         "code": "TW-EX-5",
         "name": "Focused Defense",
-        "description": "By gathering all the Arts units in one place, one can either completely defend the peace of the streets\u2014 or engulf them in a sea of flames.\n<@lv.item><'Gramophone'></>Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies",
+        "description": "By gathering all the Arts units in one place, one can either completely defend the peace of the streets\u00e2\u20ac\u201d or engulf them in a sea of flames.\n<@lv.item><'Gramophone'></>Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies",
         "sanity_cost": 15
     },
     {
         "id": "act11d0_ex05#f#",
         "code": "TW-EX-5",
         "name": "Focused Defense",
-        "description": "<@lv.fs>Condition:</>\nLeithanien Psalmists have increased attack range and take control of Gramophones faster",
+        "description": "<@lv.fs>Condition:</>\nLeithanian Psalmists have increased attack range and take control of Gramophones faster",
         "sanity_cost": 15
     },
     {
@@ -4770,7 +5190,7 @@
         "id": "act11d0_ex06#f#",
         "code": "TW-EX-6",
         "name": "Battle at the Plaza",
-        "description": "<@lv.fs>Condition:</>\nTwo Gramophones begin under the enemy's control; Hexed Colossi and Mudrock Zealot Leaders have greatly increased HP",
+        "description": "<@lv.fs>Condition:</>\nTwo 'Gramophones' begin under the enemy's control; Hexed Colossi and Mudrock Zealot Leaders have greatly increased HP",
         "sanity_cost": 15
     },
     {
@@ -5673,7 +6093,7 @@
         "id": "a001_ex06",
         "code": "GT-HX-3",
         "name": "Once Upon a Time in the West",
-        "description": "Heavily armed enemies are constantly pouring in from all directions. It's not their fault \u2014 you blocked the only way out, after all.\n<@lv.item><Eroded Path></> Operators deployed on these tiles have their DEF reduced by half.\n<@lv.item><Roadblock></> Deploy to block the enemy's route",
+        "description": "Heavily armed enemies are constantly pouring in from all directions. It's not their fault \u00e2\u20ac\u201d you blocked the only way out, after all.\n<@lv.item><Eroded Path></> Operators deployed on these tiles have their DEF reduced by half.\n<@lv.item><Roadblock></> Deploy to block the enemy's route",
         "sanity_cost": 15
     },
     {
@@ -5737,6 +6157,13 @@
         "code": "Iberia",
         "name": "Watery Tidehollow",
         "description": "As the tides surge, the Seaborn grow restless deep within a vast cavern. With the help of the remaining Iberian machines there, eliminate the Seaborn threat once and for all.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally",
+        "sanity_cost": 25
+    },
+    {
+        "id": "camp_r_06",
+        "code": "Sargon",
+        "name": "Long Spring Wastes",
+        "description": "After the 'Watchtower 33' incident, some 'Redmark' mercenaries avoided Rhodes Island's pursuit while controlling the remnant Originiutant mutants. If these organisms are allowed to escape to other areas, the outcome would be disastrous. Please carry out a thorough extermination.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed",
         "sanity_cost": 25
     }
 ]
