@@ -1,4 +1,4 @@
-var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?show_closed_zones=true&server=US"
+var url = "https://penguin-stats.io/PenguinStats/api/v2/result/matrix?show_closed_zones=true&server=CN"
 var localStorage = window.localStorage;
 var program = async () => {
 
@@ -58,7 +58,8 @@ var program = async () => {
 
     let {matrix} = await fetchPenguinStats()
     var penguinStats = matrix
-    
+    console.log(penguinStats)
+    console.log(penguinStats.filter(x => x.itemId == 31043))
 
 
     var sanityEfficiency = (stage) => {
