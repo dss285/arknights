@@ -2912,6 +2912,14 @@
         "usage": "Used to improve the Potential of Mulberry."
     },
     {
+        "id": "p_char_431_ashlok",
+        "name": "Ashlock's Token",
+        "description": "A shell casing left over from a shot, bearing Ashlock's signature. This once brought her victory, and now, it belongs to you.",
+        "rarity": 4,
+        "icon_id": "p_char_431_ashlok",
+        "usage": "Used to improve the Potential of Ashlock."
+    },
+    {
         "id": "p_char_103_angel",
         "name": "Exusiai's Token",
         "description": "A Best Boss medal. Collect five of these to exchange for a Super Boss medal.",
@@ -3272,6 +3280,14 @@
         "usage": "Used to improve the Potential of Mizuki."
     },
     {
+        "id": "p_char_430_fartth",
+        "name": "Fartooth's Token",
+        "description": "A rough, handmade piccolo. Fartooth made it herself, and it is capable of producing a few simple sounds. The craftsmanship was simple, so the prickly splinters have been meticulously smoothed over.",
+        "rarity": 5,
+        "icon_id": "p_char_430_fartth",
+        "usage": "Used to improve the Potential of Fartooth."
+    },
+    {
         "id": "p_char_479_sleach",
         "name": "Saileach's Token",
         "description": "A small segment of a dried willow branch. Each bud is still perfectly intact, as if it could grow once more if dipped into water.",
@@ -3288,12 +3304,36 @@
         "usage": "A personal letter sent to the Doctor, used to improve Ceylon to Max Potential."
     },
     {
+        "id": "voucher_full_grani",
+        "name": "Grani's Personal Letter",
+        "description": "The letter only contains a few simple well-wishes\u00e2\u20ac\u201dits writer, likely right at the Doctor's side by the time the letter lands on the desk.",
+        "rarity": 4,
+        "icon_id": "voucher_full_grani",
+        "usage": "A personal letter sent to the Doctor, used to improve Grani to Max Potential."
+    },
+    {
+        "id": "voucher_full_flameb",
+        "name": "Flamebringer's Personal Letter",
+        "description": "A letter that discusses floriculture, the life philosophy derived from it, and the sender's pointed feelings about the Doctor.",
+        "rarity": 4,
+        "icon_id": "voucher_full_flameb",
+        "usage": "A personal letter sent to the Doctor, used to improve Flamebringer to Max Potential."
+    },
+    {
         "id": "uni_set_guitar",
         "name": "Heart of Surging Flame Furniture Pack",
         "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
         "rarity": 4,
         "icon_id": "uni_set_guitar",
         "usage": "Obtain all 'Rhodes Island Modern Music Rehearsal Room' furniture exclusive to the Heart of Surging Flame event not yet acquired."
+    },
+    {
+        "id": "uni_set_pizza",
+        "name": "Grani and the Knights' Treasure Furniture Pack",
+        "description": "As long as you hand the order over to Closure, she'll help you get your hands on any furniture you don't already own. Don't worry, she's not losing out.",
+        "rarity": 4,
+        "icon_id": "uni_set_pizza",
+        "usage": "Obtain all 'Express Chain Pizzeria' furniture exclusive to the Grani and the Knights' Treasure event not yet acquired."
     },
     {
         "id": "ap_item_amiya",
@@ -4006,5 +4046,13 @@
         "rarity": 4,
         "icon_id": "act12side_token_key04",
         "usage": "A commemoration of Ch'en's special investigation in Dossoles."
+    },
+    {
+        "id": "act9mini_token_ticket",
+        "name": "Li\u00c5\u203a\u00c4\u2021 Ticket",
+        "description": "A lottery ticket issued by a company run by a major knight noble family. Some make a fortune overnight while others go bankrupt. Within this little ticket are condensed the joys, sorrows, blood, and tears of those who resign their fate to a throw of the dice.",
+        "rarity": 4,
+        "icon_id": "act9mini_token_ticket",
+        "usage": "A Kazimierz Major lottery ticket bearing the logo of Pinus Sylvestris. This ticket can be exchanged at the Kazimierz Major Prize Exchange Center for corresponding prizes. Put down your chips, and win your fortune!"
     }
 ]

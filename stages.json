@@ -2737,6 +2737,97 @@
         "sanity_cost": 36
     },
     {
+        "id": "act9mini_01",
+        "code": "PS-1",
+        "name": "Circular Attack",
+        "description": "If attacking head-on is not an option, you might need a different approach.",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act9mini_01#f#",
+        "code": "PS-1",
+        "name": "Circular Attack",
+        "description": "<@lv.fs>Condition: </>\nAll enemies have significantly increased HP.",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act9mini_02",
+        "code": "PS-2",
+        "name": "Cusp of the Storm",
+        "description": "The most important positions present the greatest dangers. \n<@lv.item><Turrets></> Periodically fire bolts, dealing Physical damage to our units",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act9mini_02#f#",
+        "code": "PS-2",
+        "name": "Cusp of the Storm",
+        "description": "<@lv.fs>Condition: </>\nGuard Operators cannot be deployed.",
+        "sanity_cost": 6
+    },
+    {
+        "id": "act9mini_03",
+        "code": "PS-3",
+        "name": "Sharpen Your Blade",
+        "description": "Best not let them pass there. \n<@lv.item><Active Originium></> Operators deployed on it and enemies who have passed it will take constant damage, but their ATK and ASPD will be increased significantly",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act9mini_03#f#",
+        "code": "PS-3",
+        "name": "Sharpen Your Blade",
+        "description": "<@lv.fs>Condition: </>\nMore enemies will appear.",
+        "sanity_cost": 9
+    },
+    {
+        "id": "act9mini_04",
+        "code": "PS-4",
+        "name": "Self-destruction",
+        "description": "With just a little preparation, the enemy will retreat on their own. \n<@lv.item><Mark of Hui and Ming></> Operators deployed on it will earn a Hui-Ming attribute\n<@lv.item><Roadblock></> Deploy to block the enemy's route",
+        "sanity_cost": 12
+    },
+    {
+        "id": "act9mini_04#f#",
+        "code": "PS-4",
+        "name": "Self-destruction",
+        "description": "<@lv.fs>Condition: </>\nAll allies have reduced HP.",
+        "sanity_cost": 12
+    },
+    {
+        "id": "act9mini_05",
+        "code": "PS-5",
+        "name": "Competition",
+        "description": "Watch out! They run fast and go boom!",
+        "sanity_cost": 15
+    },
+    {
+        "id": "act9mini_05#f#",
+        "code": "PS-5",
+        "name": "Competition",
+        "description": "<@lv.fs>Condition: </>\nFour additional Anti-Armor Infantry Leaders will appear.",
+        "sanity_cost": 15
+    },
+    {
+        "id": "act9mini_06",
+        "code": "PS-6",
+        "name": "Doubles Match",
+        "description": "Knightly honor dissipates in the arena. Where will the knight strike?",
+        "sanity_cost": 18
+    },
+    {
+        "id": "act9mini_06#f#",
+        "code": "PS-6",
+        "name": "Doubles Match",
+        "description": "<@lv.fs>Condition: </>\nGuerrilla Mortar Leaders and 'Brassrust' Olmer Ingra are invisible.",
+        "sanity_cost": 18
+    },
+    {
+        "id": "act17d7_01",
+        "code": "LTTB",
+        "name": "Extraordinary rap battle!",
+        "description": "Emperor will once again shake Bayside Park, showing one and all who is the true king of rap.",
+        "sanity_cost": 0
+    },
+    {
         "id": "act8mini_01",
         "code": "VI-1",
         "name": "Flanking Maneuver",
@@ -4385,14 +4476,14 @@
         "id": "act13d5_05",
         "code": "MN-5",
         "name": "S\u00c5\u201aoma Food Co.",
-        "description": "A hundred supermarket chains across the country! Happiness lies with warm clothes and tasty food. Non-stop events during the Kazimierz Major! *New Pincerbeast food products released, give them a try*\n<@lv.item><Anti-Air Rune></>Operators deployed on this tile have slightly reduced ASPD but greatly increased ATK when attacking Aerial units.",
+        "description": "A hundred supermarket chains across the country! Happiness lies with warm clothes and tasty food. Non-stop events during the Kazimierz Major! *New gloompincer food products released, give them a try*\n<@lv.item><Anti-Air Rune></>Operators deployed on this tile have slightly reduced ASPD but their ATK against aerial units will be increased significantly.",
         "sanity_cost": 15
     },
     {
         "id": "act13d5_06",
         "code": "MN-6",
         "name": "Blue Ear Wine Cellar",
-        "description": "Featuring imported barley from Columbia, Blue Ear Beer goes perfect with the nightly matches! Now with three brand new flavors: salted vegetables, bacon and gemstones! n<@lv.item><Turrets></>Periodically fire bolts, dealing Physical damage to allied units.",
+        "description": "Featuring imported barley from Columbia, Blue Ear Beer goes perfect with the nightly matches! Now with three brand new flavors: salted vegetables, bacon and gemstones! \n<@lv.item><Turrets></>Periodically fire bolts, dealing Physical damage to our units.",
         "sanity_cost": 15
     },
     {
@@ -4427,7 +4518,7 @@
         "id": "act13d5_ex01",
         "code": "MN-EX-1",
         "name": "Power-on Test",
-        "description": "Devices used in some arenas to prevent Pincerbeasts from escaping, they often injure knights by accident. \n<@lv.item><Mieszko Coil></>Obtain Activation effect when within range of other Mieszko Coils.",
+        "description": "Devices used in some arenas to prevent gloompincers from escaping, they often injure knights by accident. \n<@lv.item><Mieszko Coil></>Obtain Activation effect when within range of other Mieszko Coils.",
         "sanity_cost": 10
     },
     {
@@ -6164,6 +6255,13 @@
         "code": "Sargon",
         "name": "Long Spring Wastes",
         "description": "After the 'Watchtower 33' incident, some 'Redmark' mercenaries avoided Rhodes Island's pursuit while controlling the remnant Originiutant mutants. If these organisms are allowed to escape to other areas, the outcome would be disastrous. Please carry out a thorough extermination.\n<@lv.rem><Special Conditions></> DP will not regenerate naturally\n<@lv.item><Sandstorm></> Allied units caught inside the sandstorm will have reduced ATK, continuously take damage over time, and have extended redeployment time; Enemy units will instead be slowed",
+        "sanity_cost": 25
+    },
+    {
+        "id": "camp_r_07",
+        "code": "Bol\u00c3\u00advar",
+        "name": "Dossoles Water Gate",
+        "description": "Lady Candela recently invested in two Leithanian 'Gramophones.' She hopes that Rhodes Island will participate in a joint exercise with the Dossoles Defense Squad to test out the point-defense capabilities of the 'Gramophones.'\n<@lv.rem><Special Conditions></> DP will not regenerate naturally.\n<@lv.item><'Gramophone'></> Both allied and enemy units will fight for control over this device; When activated, deals Arts damage to enemies and heals allies.",
         "sanity_cost": 25
     }
 ]
