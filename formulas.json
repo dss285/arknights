@@ -1,520 +1,1090 @@
 [
     {
-        "id": "1",
+        "id": "Factory_1",
         "item_id": "2001",
         "count": 1,
-        "costs": "",
+        "costs": [],
         "room": "Factory"
     },
     {
-        "id": "2",
+        "id": "Factory_2",
         "item_id": "2002",
         "count": 1,
-        "costs": "",
+        "costs": [],
         "room": "Factory"
     },
     {
-        "id": "3",
+        "id": "Factory_3",
         "item_id": "2003",
         "count": 1,
-        "costs": "",
+        "costs": [],
         "room": "Factory"
     },
     {
-        "id": "4",
+        "id": "Factory_4",
         "item_id": "3003",
         "count": 1,
-        "costs": "",
+        "costs": [],
         "room": "Factory"
     },
     {
-        "id": "5",
+        "id": "Factory_5",
         "item_id": "3213",
         "count": 1,
-        "costs": "3212|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3212"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "6",
+        "id": "Factory_6",
         "item_id": "3223",
         "count": 1,
-        "costs": "3222|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3222"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "7",
+        "id": "Factory_7",
         "item_id": "3233",
         "count": 1,
-        "costs": "3232|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3232"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "8",
+        "id": "Factory_8",
         "item_id": "3243",
         "count": 1,
-        "costs": "3242|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3242"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "9",
+        "id": "Factory_9",
         "item_id": "3253",
         "count": 1,
-        "costs": "3252|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3252"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "10",
+        "id": "Factory_10",
         "item_id": "3263",
         "count": 1,
-        "costs": "3262|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3262"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "11",
+        "id": "Factory_11",
         "item_id": "3273",
         "count": 1,
-        "costs": "3272|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3272"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "12",
+        "id": "Factory_12",
         "item_id": "3283",
         "count": 1,
-        "costs": "3282|2 32001|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3282"
+            },
+            {
+                "count": 1,
+                "item_id": "32001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "13",
+        "id": "Factory_13",
         "item_id": "3141",
         "count": 1,
-        "costs": "30012|2 4001|1600",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30012"
+            },
+            {
+                "count": 1600,
+                "item_id": "4001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "14",
+        "id": "Factory_14",
         "item_id": "3141",
         "count": 1,
-        "costs": "30062|1 4001|1000",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30062"
+            },
+            {
+                "count": 1000,
+                "item_id": "4001"
+            }
+        ],
         "room": "Factory"
     },
     {
-        "id": "1",
+        "id": "Workshop_1",
         "item_id": "3131",
         "count": 1,
-        "costs": "3112|2",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3112"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "2",
+        "id": "Workshop_2",
         "item_id": "3132",
         "count": 1,
-        "costs": "3113|2",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3113"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "3",
+        "id": "Workshop_3",
         "item_id": "3133",
         "count": 1,
-        "costs": "3114|2",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "3114"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "4",
+        "id": "Workshop_4",
         "item_id": "3113",
         "count": 1,
-        "costs": "3112|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3112"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "5",
+        "id": "Workshop_5",
         "item_id": "3114",
         "count": 1,
-        "costs": "3113|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3113"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "6",
+        "id": "POWER_6",
         "item_id": "3401",
         "count": 4,
-        "costs": "3112|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3112"
+            }
+        ],
         "room": "POWER"
     },
     {
-        "id": "7",
+        "id": "Workshop_7",
         "item_id": "3401",
         "count": 8,
-        "costs": "3113|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3113"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "8",
+        "id": "Workshop_8",
         "item_id": "3401",
         "count": 12,
-        "costs": "3114|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3114"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "9",
+        "id": "POWER_9",
         "item_id": "3401",
         "count": 8,
-        "costs": "3131|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3131"
+            }
+        ],
         "room": "POWER"
     },
     {
-        "id": "10",
+        "id": "Workshop_10",
         "item_id": "3401",
         "count": 16,
-        "costs": "3132|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3132"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "11",
+        "id": "Workshop_11",
         "item_id": "3401",
         "count": 24,
-        "costs": "3133|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "3133"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "57",
+        "id": "Workshop_62",
+        "item_id": "30155",
+        "count": 1,
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "31064"
+            },
+            {
+                "count": 1,
+                "item_id": "31054"
+            },
+            {
+                "count": 2,
+                "item_id": "31044"
+            }
+        ],
+        "room": "Workshop"
+    },
+    {
+        "id": "Workshop_57",
         "item_id": "30145",
         "count": 1,
-        "costs": "31034|1 31014|2 31024|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "31034"
+            },
+            {
+                "count": 2,
+                "item_id": "31014"
+            },
+            {
+                "count": 1,
+                "item_id": "31024"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "12",
+        "id": "Workshop_12",
         "item_id": "30135",
         "count": 1,
-        "costs": "30084|1 30094|1 30104|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30084"
+            },
+            {
+                "count": 1,
+                "item_id": "30094"
+            },
+            {
+                "count": 1,
+                "item_id": "30104"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "13",
+        "id": "Workshop_13",
         "item_id": "30125",
         "count": 1,
-        "costs": "30064|1 30074|2",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30064"
+            },
+            {
+                "count": 2,
+                "item_id": "30074"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "14",
+        "id": "Workshop_14",
         "item_id": "30115",
         "count": 1,
-        "costs": "30014|1 30044|1 30054|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30014"
+            },
+            {
+                "count": 1,
+                "item_id": "30044"
+            },
+            {
+                "count": 1,
+                "item_id": "30054"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "59",
+        "id": "Workshop_61",
+        "item_id": "31064",
+        "count": 1,
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "31063"
+            },
+            {
+                "count": 1,
+                "item_id": "31043"
+            },
+            {
+                "count": 1,
+                "item_id": "30023"
+            }
+        ],
+        "room": "Workshop"
+    },
+    {
+        "id": "Workshop_59",
         "item_id": "31044",
         "count": 1,
-        "costs": "31043|1 31053|1 31013|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "31043"
+            },
+            {
+                "count": 1,
+                "item_id": "31053"
+            },
+            {
+                "count": 1,
+                "item_id": "31013"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "60",
+        "id": "Workshop_60",
         "item_id": "31054",
         "count": 1,
-        "costs": "31053|1 31033|1 30103|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "31053"
+            },
+            {
+                "count": 1,
+                "item_id": "31033"
+            },
+            {
+                "count": 1,
+                "item_id": "30103"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "58",
+        "id": "Workshop_58",
         "item_id": "31034",
         "count": 1,
-        "costs": "31033|2 31013|1 31023|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "31033"
+            },
+            {
+                "count": 1,
+                "item_id": "31013"
+            },
+            {
+                "count": 1,
+                "item_id": "31023"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "55",
+        "id": "Workshop_55",
         "item_id": "31024",
         "count": 1,
-        "costs": "30063|1 30093|1 31023|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30063"
+            },
+            {
+                "count": 1,
+                "item_id": "30093"
+            },
+            {
+                "count": 1,
+                "item_id": "31023"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "56",
+        "id": "Workshop_56",
         "item_id": "31014",
         "count": 1,
-        "costs": "30043|1 31013|1 31023|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30043"
+            },
+            {
+                "count": 1,
+                "item_id": "31013"
+            },
+            {
+                "count": 1,
+                "item_id": "31023"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "15",
+        "id": "Workshop_15",
         "item_id": "30104",
         "count": 1,
-        "costs": "30103|1 30013|2 30053|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30103"
+            },
+            {
+                "count": 2,
+                "item_id": "30013"
+            },
+            {
+                "count": 1,
+                "item_id": "30053"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "16",
+        "id": "Workshop_16",
         "item_id": "30094",
         "count": 1,
-        "costs": "30093|1 30043|1 30063|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30093"
+            },
+            {
+                "count": 1,
+                "item_id": "30043"
+            },
+            {
+                "count": 1,
+                "item_id": "30063"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "17",
+        "id": "Workshop_17",
         "item_id": "30084",
         "count": 1,
-        "costs": "30083|2 30033|1 30073|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30083"
+            },
+            {
+                "count": 1,
+                "item_id": "30033"
+            },
+            {
+                "count": 1,
+                "item_id": "30073"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "18",
+        "id": "Workshop_18",
         "item_id": "30074",
         "count": 1,
-        "costs": "30073|1 30023|1 30103|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30073"
+            },
+            {
+                "count": 1,
+                "item_id": "30023"
+            },
+            {
+                "count": 1,
+                "item_id": "30103"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "19",
+        "id": "Workshop_19",
         "item_id": "30062",
         "count": 1,
-        "costs": "30061|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30061"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "20",
+        "id": "Workshop_20",
         "item_id": "30063",
         "count": 1,
-        "costs": "30062|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30062"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "21",
+        "id": "Workshop_21",
         "item_id": "30064",
         "count": 1,
-        "costs": "30063|1 30013|2 30093|1",
+        "costs": [
+            {
+                "count": 1,
+                "item_id": "30063"
+            },
+            {
+                "count": 2,
+                "item_id": "30013"
+            },
+            {
+                "count": 1,
+                "item_id": "30093"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "22",
+        "id": "Workshop_22",
         "item_id": "30052",
         "count": 1,
-        "costs": "30051|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30051"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "23",
+        "id": "Workshop_23",
         "item_id": "30053",
         "count": 1,
-        "costs": "30052|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30052"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "24",
+        "id": "Workshop_24",
         "item_id": "30054",
         "count": 1,
-        "costs": "30053|2 30023|1 30083|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30053"
+            },
+            {
+                "count": 1,
+                "item_id": "30023"
+            },
+            {
+                "count": 1,
+                "item_id": "30083"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "25",
+        "id": "Workshop_25",
         "item_id": "30042",
         "count": 1,
-        "costs": "30041|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30041"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "26",
+        "id": "Workshop_26",
         "item_id": "30043",
         "count": 1,
-        "costs": "30042|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30042"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "27",
+        "id": "Workshop_27",
         "item_id": "30044",
         "count": 1,
-        "costs": "30043|2 30063|1 30033|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30043"
+            },
+            {
+                "count": 1,
+                "item_id": "30063"
+            },
+            {
+                "count": 1,
+                "item_id": "30033"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "28",
+        "id": "Workshop_28",
         "item_id": "30032",
         "count": 1,
-        "costs": "30031|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30031"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "29",
+        "id": "Workshop_29",
         "item_id": "30033",
         "count": 1,
-        "costs": "30032|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30032"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "30",
+        "id": "Workshop_30",
         "item_id": "30034",
         "count": 1,
-        "costs": "30033|2 30053|1 30073|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30033"
+            },
+            {
+                "count": 1,
+                "item_id": "30053"
+            },
+            {
+                "count": 1,
+                "item_id": "30073"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "31",
+        "id": "Workshop_31",
         "item_id": "30022",
         "count": 1,
-        "costs": "30021|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30021"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "32",
+        "id": "Workshop_32",
         "item_id": "30023",
         "count": 1,
-        "costs": "30022|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30022"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "33",
+        "id": "Workshop_33",
         "item_id": "30024",
         "count": 1,
-        "costs": "30023|2 30043|1 30083|1",
+        "costs": [
+            {
+                "count": 2,
+                "item_id": "30023"
+            },
+            {
+                "count": 1,
+                "item_id": "30043"
+            },
+            {
+                "count": 1,
+                "item_id": "30083"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "34",
+        "id": "Workshop_34",
         "item_id": "30012",
         "count": 1,
-        "costs": "30011|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "30011"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "35",
+        "id": "Workshop_35",
         "item_id": "30013",
         "count": 1,
-        "costs": "30012|5",
+        "costs": [
+            {
+                "count": 5,
+                "item_id": "30012"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "36",
+        "id": "Workshop_36",
         "item_id": "30014",
         "count": 1,
-        "costs": "30013|4",
+        "costs": [
+            {
+                "count": 4,
+                "item_id": "30013"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "37",
+        "id": "Workshop_37",
         "item_id": "3302",
         "count": 1,
-        "costs": "3301|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3301"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "38",
+        "id": "Workshop_38",
         "item_id": "3303",
         "count": 1,
-        "costs": "3302|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3302"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "39",
+        "id": "Workshop_39",
         "item_id": "3231",
         "count": 2,
-        "costs": "3261|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3261"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "40",
+        "id": "Workshop_40",
         "item_id": "3261",
         "count": 2,
-        "costs": "3231|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3231"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "41",
+        "id": "Workshop_41",
         "item_id": "3241",
         "count": 2,
-        "costs": "3251|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3251"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "42",
+        "id": "Workshop_42",
         "item_id": "3251",
         "count": 2,
-        "costs": "3241|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3241"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "43",
+        "id": "Workshop_43",
         "item_id": "3211",
         "count": 2,
-        "costs": "3271|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3271"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "44",
+        "id": "Workshop_44",
         "item_id": "3271",
         "count": 2,
-        "costs": "3211|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3211"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "45",
+        "id": "Workshop_45",
         "item_id": "3221",
         "count": 2,
-        "costs": "3281|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3281"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "46",
+        "id": "Workshop_46",
         "item_id": "3281",
         "count": 2,
-        "costs": "3221|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3221"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "47",
+        "id": "Workshop_47",
         "item_id": "3232",
         "count": 2,
-        "costs": "3262|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3262"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "48",
+        "id": "Workshop_48",
         "item_id": "3262",
         "count": 2,
-        "costs": "3232|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3232"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "49",
+        "id": "Workshop_49",
         "item_id": "3242",
         "count": 2,
-        "costs": "3252|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3252"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "50",
+        "id": "Workshop_50",
         "item_id": "3252",
         "count": 2,
-        "costs": "3242|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3242"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "51",
+        "id": "Workshop_51",
         "item_id": "3212",
         "count": 2,
-        "costs": "3272|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3272"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "52",
+        "id": "Workshop_52",
         "item_id": "3272",
         "count": 2,
-        "costs": "3212|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3212"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "53",
+        "id": "Workshop_53",
         "item_id": "3222",
         "count": 2,
-        "costs": "3282|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3282"
+            }
+        ],
         "room": "Workshop"
     },
     {
-        "id": "54",
+        "id": "Workshop_54",
         "item_id": "3282",
         "count": 2,
-        "costs": "3222|3",
+        "costs": [
+            {
+                "count": 3,
+                "item_id": "3222"
+            }
+        ],
         "room": "Workshop"
     }
 ]

@@ -160,6 +160,46 @@
         "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
     },
     {
+        "id": "LMTGS_COIN_2301",
+        "name": "Headhunting Data Contract",
+        "description": "A long-term, stable relationship with the headhunting agency can effectively control our expenditures. However, we hope that this method will not be required every time.",
+        "rarity": 4,
+        "icon_id": "LMTGS_COIN_2301",
+        "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
+    },
+    {
+        "id": "LMTGS_COIN_2501",
+        "name": "Headhunting Data Contract",
+        "description": "A long-term, stable relationship with the headhunting agency can effectively control our expenditures. However, we hope that this method will not be required every time.",
+        "rarity": 4,
+        "icon_id": "LMTGS_COIN_2501",
+        "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
+    },
+    {
+        "id": "LMTGS_COIN_2701",
+        "name": "Headhunting Data Contract",
+        "description": "A long-term, stable relationship with the headhunting agency can effectively control our expenditures. However, we hope that this method will not be required every time.",
+        "rarity": 4,
+        "icon_id": "LMTGS_COIN_2701",
+        "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
+    },
+    {
+        "id": "LMTGS_COIN_3001",
+        "name": "Headhunting Data Contract",
+        "description": "A long-term, stable relationship with the headhunting agency can effectively control our expenditures. However, we hope that this method will not be required every time.",
+        "rarity": 4,
+        "icon_id": "LMTGS_COIN_3001",
+        "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
+    },
+    {
+        "id": "LMTGS_COIN_3301",
+        "name": "Headhunting Data Contract",
+        "description": "A long-term, stable relationship with the headhunting agency can effectively control our expenditures. However, we hope that this method will not be required every time.",
+        "rarity": 4,
+        "icon_id": "LMTGS_COIN_3301",
+        "usage": "A time-limited currency arranged for a new type of headhunting contract; Collect enough to recruit an operator from a designated pool for a limited time"
+    },
+    {
         "id": "EPGS_COIN",
         "name": "Headhunting Parametric Model",
         "description": "The fact that the headhunting agency has taken this consideration proves its sincerity. A word of warning though - if you seek to exploit this method for profit, I'm afraid the consequences will far outweigh any gains.",
@@ -224,6 +264,54 @@
         "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
     },
     {
+        "id": "renamingCard_0_023",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
+        "id": "renamingCard_30_023",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
+        "id": "renamingCard_0_027",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
+        "id": "renamingCard_30_027",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
+        "id": "renamingCard_0_033",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
+        "id": "renamingCard_30_033",
+        "name": "ID Info Update Card",
+        "description": "Don't waste the precious chance to do a system update.",
+        "rarity": 4,
+        "icon_id": "renamingCard",
+        "usage": "ID Info Update Card for a system upgrade to the Rhodes Island bridge. This one is for you, Doctor."
+    },
+    {
         "id": "ap_supply_lt_100",
         "name": "Top Emergency Sanity Potion",
         "description": "It contains a small amount of mustard extract, so please keep it away from your eyes (other instructions omitted). When the situation is so dire that you need to use it to restore Sanity, you won't have the time to read this. Good luck!\n",
@@ -242,10 +330,106 @@
     {
         "id": "ap_supply_lt_010",
         "name": "Emergency Sanity Sampler",
-        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "description": "A low-dosage sample. To be used rationally and sensibly. If you are satisfied with this product's efficacy, you may also be interested in our other packages.",
         "rarity": 4,
         "icon_id": "ap_supply_lt_10",
         "usage": "A portable, easy-to-carry sampler that is good for maintaining a level of Sanity during emergencies."
+    },
+    {
+        "id": "ap_supply_lt_100_2022_1",
+        "name": "Vegetable Radish Tin",
+        "description": "The tinned food Kroos often eats on field missions. Worried it won't suit you, she's sprinkled some salt in it just for you.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_100_2022_1",
+        "usage": "A dish from an Operator's hometown. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_100_2022_2",
+        "name": "Frozen Kung Pao Diced Fowlbeast",
+        "description": "Waai Fu is hardly good at cooking, but she can handle heating up some frozen food.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_100_2022_2",
+        "usage": "A dish from an Operator's hometown. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_100_2022_3",
+        "name": "Karlan Chargrill Barbecue Ribs with Truffle Paste",
+        "description": "Victorian condiments paired with immortalized Kjerag ways. The taste of the ribs is fine beyond words.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_100_2022_3",
+        "usage": "A dish from an Operator's hometown. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_100_2022_4",
+        "name": "Edible Cubes",
+        "description": "Kal'tsit saw to it the cubes before you have both nutrition and flavor, but you still can't tell how these were made.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_100_2022_4",
+        "usage": "A crystallization of science. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_100_2022_5",
+        "name": "Rim Billiton Watermelon Cake",
+        "description": "Times of reunion call for getting together and eating sweet, sweet stuff. Do you need her to feed you?",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_100_2022_5",
+        "usage": "A dish from Amiya's hometown. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_120",
+        "name": "Emergency Sanity Concentrate",
+        "description": "This product's effectiveness has been boosted to a degree thanks to modern concentrative technologies. By no means should it be used as medication. When the situation is so dire that you need it to restore Sanity, you won't have the time to read this. Good luck!",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_120",
+        "usage": "A large dose of concentrated emergency supplement used to maintain Sanity. New active ingredients, same instant results. Possible side effect: disruption of biological clock. Please read carefully before administering."
+    },
+    {
+        "id": "ap_supply_lt_80",
+        "name": "Emergency Sanity Booster",
+        "description": "Although overeating can relieve the anxiety and pressure accumulated on the battlefield, it's not a healthy lifestyle, Doctor. This supplement contains quite a bit of sugar, but the packing is specially designed to be hard to open. Treat it as a kind of exercise and burn some calories.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_80",
+        "usage": "An emergency supplement with lightly increased dosage, used to maintain Sanity. Keep your mind clear and drive out fatigue."
+    },
+    {
+        "id": "ap_supply_lt_120_2022_1",
+        "name": "Full Color",
+        "description": "A crisp, flaky mooncake in golden brown, liable to stir anyone's appetite.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_120_2022_1",
+        "usage": "A flaky mooncake filled with perky sweet ground meat. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_120_2022_2",
+        "name": "Full Moon",
+        "description": "A crisp, flaky mooncake in golden brown, liable to stir anyone's appetite.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_120_2022_2",
+        "usage": "A flaky mooncake filled with frankincense Yunnan ham. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_120_2022_3",
+        "name": "Smiley Face",
+        "description": "A tender, sugary mooncake with a glossy sheen, prone to making anyone drool at the mouth.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_120_2022_3",
+        "usage": "A glazed mooncake filled with rose red bean paste. Can be used to restore Sanity."
+    },
+    {
+        "id": "ap_supply_lt_120_2022_4",
+        "name": "Osmanthus",
+        "description": "A tender, sugary mooncake with a glossy sheen, prone to making anyone drool at the mouth.",
+        "rarity": 4,
+        "icon_id": "ap_supply_lt_120_2022_4",
+        "usage": "A glazed mooncake filled with spicy and salty nuts. Can be used to restore Sanity."
+    },
+    {
+        "id": "EXTERMINATION_AGENT",
+        "name": "PRTS Proxy Annihilation Card",
+        "description": "Based on a massive volume of live combat records, PRTS can perfectly replicate your tactics to conduct annihilation missions by proxy, using actuarial data processing, logic training, and scenario simulation. You're spared even the need to pay it your full attention.",
+        "rarity": 4,
+        "icon_id": "EXTERMINATION_AGENT",
+        "usage": "A card granting load distribution privileges for PRTS. Once activated, allows PRTS to conduct Annihilation battles as your proxy."
     },
     {
         "id": "7004",
@@ -304,6 +488,46 @@
         "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
     },
     {
+        "id": "LIMITED_TKT_GACHA_10_2301",
+        "name": "Flaming Radiance Headhunting Permit",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "rarity": 4,
+        "icon_id": "LIMITED_TKT_GACHA_10_2301",
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
+    {
+        "id": "LIMITED_TKT_GACHA_10_2501",
+        "name": "Sing while Drinking Headhunting Permit",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "rarity": 4,
+        "icon_id": "LIMITED_TKT_GACHA_10_2501",
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
+    {
+        "id": "LIMITED_TKT_GACHA_10_2701",
+        "name": "Lighthouse in Morning Mist Headhunting Permit",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "rarity": 4,
+        "icon_id": "LIMITED_TKT_GACHA_10_2701",
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
+    {
+        "id": "LIMITED_TKT_GACHA_10_3001",
+        "name": "Tempered into Poetry Headhunting Permit",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "rarity": 4,
+        "icon_id": "LIMITED_TKT_GACHA_10_3001",
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
+    {
+        "id": "LIMITED_TKT_GACHA_10_3301",
+        "name": "Wolves Stalk Shadows Headhunting Permit",
+        "description": "In order to ensure the available talent pool can be scaled upwards to satisfy the Doctor's emergency preparation request, this batch of headhunting items carries specificity, time-sensitivity, and of course, a degree of risk.",
+        "rarity": 4,
+        "icon_id": "LIMITED_TKT_GACHA_10_3301",
+        "usage": "A batch headhunting permit issued by the Rhodes Island HR Department; Can be used at a certain time to recruit talented Operators, 10 rolls at once."
+    },
+    {
         "id": "7003",
         "name": "Headhunting Permit",
         "description": "Compared to Rhodes Island, headhunting companies have more contacts and resources. They are probably more capable of finding skilled operators in all fields, which is why the Human Resource Department is willing to pay their exorbitant commissions.",
@@ -330,7 +554,7 @@
     {
         "id": "voucher_item_4pick1",
         "name": "Operator Voucher",
-        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "description": "Allows you to select one of the following four Operators: Silence, Liskarm, Pramanix, Projekt Red.",
         "rarity": 4,
         "icon_id": "voucher_item_4pick1",
         "usage": "Used to redeem an Operator."
@@ -338,7 +562,7 @@
     {
         "id": "voucher_item_4pick1_1803",
         "name": "Operator Voucher",
-        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "description": "Allows you to select one of the following four Operators: Silence, Liskarm, Pramanix, Projekt Red.",
         "rarity": 4,
         "icon_id": "voucher_item_4pick1",
         "usage": "Used to redeem an Operator."
@@ -384,6 +608,54 @@
         "usage": "A lot of tablework went into this Top Operator Transfer Permit from Rhodes Island's HR distribution; a 100% guarantee on the aid you receive is no small ask."
     },
     {
+        "id": "voucher_item_pick2301",
+        "name": "Thank-You Celebration Operator Permit",
+        "description": "Allows you to select a 6-star Operator from a past Headhunting Pool up to and including 'Erg Passenger.'",
+        "rarity": 4,
+        "icon_id": "voucher_recruitR6_g",
+        "usage": "A lot of tablework went into this Top Operator Transfer Permit from Rhodes Island's HR distribution; a 100% guarantee on the aid you receive is no small ask."
+    },
+    {
+        "id": "voucher_item_pick2701",
+        "name": "Top Operator Transfer Permit",
+        "description": "Allows you to select a 6-star Operator from a past Headhunting Pool up to and including 'A Wanderer in the Wind.'",
+        "rarity": 4,
+        "icon_id": "voucher_recruitR6_g",
+        "usage": "A lot of tablework went into this Top Operator Transfer Permit from Rhodes Island's HR distribution; a 100% guarantee on the aid you receive is no small ask."
+    },
+    {
+        "id": "voucher_recruitR5_pick2701",
+        "name": "Senior Operator Transfer Permit",
+        "description": "Allows you to select a 5-star Operator from a past Headhunting Pool up to and including 'Erg Passenger.'",
+        "rarity": 4,
+        "icon_id": "voucher_recruitR5_g",
+        "usage": "A lot of tablework went into this Senior Operator Transfer Permit from Rhodes Island's HR distribution; a 100% guarantee on the aid you receive is no small ask."
+    },
+    {
+        "id": "voucher_item_pick3301",
+        "name": "Thank-You Celebration Operator Permit",
+        "description": "Allows you to select a 6-star Operator from a past Headhunting Pool up to and including 'Roaring Cliffrunner.'",
+        "rarity": 4,
+        "icon_id": "voucher_recruitR6_g",
+        "usage": "A lot of tablework went into this Top Operator Transfer Permit from Rhodes Island's HR distribution; a 100% guarantee on the aid you receive is no small ask."
+    },
+    {
+        "id": "voucher_levelmax_6",
+        "name": "Top Operator Training Apparatus",
+        "description": "Top Operators possessing this apparatus are able to apply for short-term intensive training; the Instructors will tailor the course according to the Operator's circumstances, helping them break past their own selves, unearth their full potential, and attain a supreme standard.",
+        "rarity": 4,
+        "icon_id": "voucher_levelmax_6",
+        "usage": "Advanced training apparatus exclusive to Top Operators, offering accelerated promotion to their maximum capacity."
+    },
+    {
+        "id": "voucher_levelmax_5",
+        "name": "Senior Operator Training Apparatus",
+        "description": "Senior Operators possessing this apparatus are able to apply for short-term intensive training; the Instructors will tailor the course according to the Operator's circumstances, helping them break past their own selves, unearth their full potential, and attain a supreme standard.",
+        "rarity": 4,
+        "icon_id": "voucher_levelmax_5",
+        "usage": "Training apparatus exclusive to Senior Operators, offering accelerated promotion to their maximum capacity."
+    },
+    {
         "id": "voucher_elite_II_5",
         "name": "Senior Operator Training Invitation Letter",
         "description": "Operators holding this letter are able to apply for short-term rush training; the Instructors will tailor the course according to the Operator's circumstances, helping them make rapid breakthroughs, unearth their own potential, and attain a decisive standard.",
@@ -394,14 +666,14 @@
     {
         "id": "voucher_skin",
         "name": "Outfit Voucher",
-        "description": "Can redeem an outfit currently being sold at the Outfit Store.",
+        "description": "Can be exchanged for an outfit currently being sold at the Outfit Store that matches the exchange conditions.",
         "rarity": 4,
         "icon_id": "voucher_skin",
         "usage": "An Operator outfit voucher from Rhodes Island's HR distribution; a new set of clothes always makes people happy."
     },
     {
         "id": "2020recruitment10_1",
-        "name": "Type-\u00ce\u00b1 Headhunting Permit",
+        "name": "Type-\u03b1 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_1",
@@ -409,7 +681,7 @@
     },
     {
         "id": "2020recruitment10_2",
-        "name": "Type-\u00ce\u00b2 Headhunting Permit",
+        "name": "Type-\u03b2 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_2",
@@ -417,7 +689,7 @@
     },
     {
         "id": "2020recruitment10_3",
-        "name": "Type-\u00ce\u00b3 Headhunting Permit",
+        "name": "Type-\u03b3 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2020recruitment10_3",
@@ -425,7 +697,7 @@
     },
     {
         "id": "2021recruitment10_1",
-        "name": "Type-\u00ce\u00b1 Headhunting Permit",
+        "name": "Type-\u03b1 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_1",
@@ -433,7 +705,7 @@
     },
     {
         "id": "2021recruitment10_2",
-        "name": "Type-\u00ce\u00b2 Headhunting Permit",
+        "name": "Type-\u03b2 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_2",
@@ -441,27 +713,67 @@
     },
     {
         "id": "2021recruitment10_3",
-        "name": "Type-\u00ce\u00b3 Headhunting Permit",
+        "name": "Type-\u03b3 Headhunting Permit",
         "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
         "rarity": 4,
         "icon_id": "2021recruitment10_3",
         "usage": "A special permit issued by the Rhodes Island HR Department with specific instructions for the headhunting agency. Can be used to headhunt for 10 Operators."
     },
     {
+        "id": "2022recruitment10_1",
+        "name": "Type-\u03b1 Headhunting Permit",
+        "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
+        "rarity": 4,
+        "icon_id": "2022recruitment10_1",
+        "usage": "A special permit issued by the Rhodes Island HR Department with specific instructions for the headhunting agency. Can be used to headhunt for 10 Operators."
+    },
+    {
+        "id": "2022recruitment10_2",
+        "name": "Type-\u03b2 Headhunting Permit",
+        "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
+        "rarity": 4,
+        "icon_id": "2022recruitment10_2",
+        "usage": "A special permit issued by the Rhodes Island HR Department with specific instructions for the headhunting agency. Can be used to headhunt for 10 Operators."
+    },
+    {
+        "id": "2022recruitment10_3",
+        "name": "Type-\u03b3 Headhunting Permit",
+        "description": "Due to various strategic considerations, Rhodes Island conducted targeted headhunting in addition to batch recruitment in order to seek assistance from individuals with special talents.",
+        "rarity": 4,
+        "icon_id": "2022recruitment10_3",
+        "usage": "A special permit issued by the Rhodes Island HR Department with specific instructions for the headhunting agency. Can be used to headhunt for 10 Operators."
+    },
+    {
         "id": "voucher_recruitR4_1",
-        "name": "\u00e2\u02dc\u20264 Recruitment Voucher I",
-        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "name": "\u26054 Recruitment Voucher I",
+        "description": "Allows you to select one of the 4-star Operators available during the first Recruitment period.",
         "rarity": 3,
         "icon_id": "voucher_recruitR4_1",
         "usage": "Used to redeem an Operator."
     },
     {
         "id": "voucher_recruitR3_1",
-        "name": "\u00e2\u02dc\u20263 Recruitment Voucher I",
-        "description": "A couple blond Fortes are selling gold pieces of paper at three times the stated price. This voucher can be used to buy aid packages for competition knights in the arena, or as a bankroll to bet on, but be prepared to pay more than the number printed on it. A piece of paper, a huge sum, a knight's life of honor and shame.",
+        "name": "\u26053 Recruitment Voucher I",
+        "description": "Allows you to select one of the 3-star Operators available during the first Recruitment period.",
         "rarity": 2,
         "icon_id": "voucher_recruitR3_1",
         "usage": "Used to redeem an Operator."
+    },
+    {
+        "id": "voucher_chipPack",
+        "name": "Automatic Chip Pack Printer",
+        "description": "In the process of product iteration, difficulties arise one after another. And the most crucial of all is... the lack of training data.",
+        "rarity": 4,
+        "icon_id": "voucher_chipPack",
+        "usage": "A single-use automatic device that can print any pre-compiled training records and relevant materials. With a single button, it prints any desired chip pack."
+    },
+    {
+        "id": "voucher_chip",
+        "name": "Automatic Chip Printer",
+        "description": "A single-use device developed to tackle the problem of redundant training data. The next challenge would be improving its data conversion rate and developing a recovery function.",
+        "rarity": 3,
+        "icon_id": "voucher_chip",
+        "usage": "A single-use automatic device that can print any pre-compiled training records and relevant materials. With a single button, it prints any desired chip."
     },
     {
         "id": "randomMaterialRune_0",
@@ -520,6 +832,46 @@
         "usage": "Filled with an assortment of supplies and materials."
     },
     {
+        "id": "randomMaterialRune_7",
+        "name": "Operation Pine Soot Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_7",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterialRune_8",
+        "name": "Operation Dawnseeker Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_8",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterialRune_9",
+        "name": "Operation Deepness Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_9",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterialRune_10",
+        "name": "Operation Ashring Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_10",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterialRune_11",
+        "name": "Operation Fake Waves Supplies",
+        "description": "A supply crate from the Contingency Contract network. Provides a bit of a reward to those who work hard to heal this land. -Contingency Contract",
+        "rarity": 4,
+        "icon_id": "randomMaterialRune_11",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
         "id": "randomMaterial_1",
         "name": "Rhodes Island Supplies",
         "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
@@ -554,6 +906,22 @@
     {
         "id": "randomMaterial_5",
         "name": "Rhodes Island Supplies II",
+        "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
+        "rarity": 4,
+        "icon_id": "randomMaterial_1",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterial_6",
+        "name": "Rhodes Island Supplies III",
+        "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
+        "rarity": 4,
+        "icon_id": "randomMaterial_1",
+        "usage": "Filled with an assortment of supplies and materials."
+    },
+    {
+        "id": "randomMaterial_7",
+        "name": "Rhodes Island Supplies IV",
         "description": "Rhodes Island purchases and stores boxes of supplies from various places. However, due to the lack of an organized storage system, each box contains seemingly random materials.",
         "rarity": 4,
         "icon_id": "randomMaterial_1",
@@ -640,164 +1008,20 @@
         "usage": "Used to unlock Operator modules."
     },
     {
-        "id": "30011",
-        "name": "Orirock",
-        "description": "Rich in organics, it is commonly seen in regions where Originium has completely volatilized. Compared to Originium, it is easier to exploit.",
-        "rarity": 0,
-        "icon_id": "MTL_SL_G1",
-        "usage": "A rock mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
+        "id": "mod_update_token_2",
+        "name": "Data Supplement Instrument",
+        "description": "Experience is abstracted into data, and the data become a weapon. All true warriors must come to know both themselves and the battlefield.\nThe crystallization of the entire Engineering Department's blood, sweat, and tears. Once further upgraded, the modules will help optimize our Operators' combat styles and vastly improve their abilities.",
+        "rarity": 4,
+        "icon_id": "mod_update_token_2",
+        "usage": "Used to upgrade Operator modules."
     },
     {
-        "id": "30012",
-        "name": "Orirock Cube",
-        "description": "With numerous micropores, it is often used in the interlayer of armors as an adsorbent of the breakdown product of Originium gas.",
-        "rarity": 1,
-        "icon_id": "MTL_SL_G2",
-        "usage": "A rock cube mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30013",
-        "name": "Orirock Cluster",
-        "description": "Compressed from Orirock Cubes, it can be formed naturally. It is a fragile material, but industrial technology has made it possible to produce complete Orirock Clusters now. People often mistake it for an ordinary cluster of rocks.",
-        "rarity": 2,
-        "icon_id": "MTL_SL_G3",
-        "usage": "A conglomerate rock mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30014",
-        "name": "Orirock Concentration",
-        "description": "This Orirock looks different from the raw material after the refinement process. It costs much more than other processing methods. Anyone who has seen the smooth cutting surface will be amazed. That must be the charm of combining nature with industry.",
+        "id": "mod_update_token_1",
+        "name": "Data Supplement Stick",
+        "description": "Experience is abstracted into data, and the data become a weapon. All true warriors must come to know both themselves and the battlefield.\nThe crystallization of the entire Engineering Department's blood, sweat, and tears. Once upgraded, the modules will greatly improve our Operators' combat abilities.",
         "rarity": 3,
-        "icon_id": "MTL_SL_G4",
-        "usage": "A refined matter produced with Orirock Cluster. Can be used for a variety of upgrades and the synthesis of Polymerization Preparation."
-    },
-    {
-        "id": "30061",
-        "name": "Damaged Device",
-        "description": "A broken device that was embedded in the enemy's weapons and armor. It got damaged during a fierce fight, but the components inside are still valuable.",
-        "rarity": 0,
-        "icon_id": "MTL_SL_BOSS1",
-        "usage": "A damaged mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30062",
-        "name": "Device",
-        "description": "A set of devices that are relatively complete with numerous valuable components. To make it portable and practical, almost every bit of space around the motherboard is in use.",
-        "rarity": 1,
-        "icon_id": "MTL_SL_BOSS2",
-        "usage": "An ordinary mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30063",
-        "name": "Integrated Device",
-        "description": "A set of brand new devices. By reproducing the structure of devices of the same type, the lack of space around the motherboard has been solved. The energy consumption, of course, has also become higher.",
-        "rarity": 2,
-        "icon_id": "MTL_SL_BOSS3",
-        "usage": "A brand new mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30064",
-        "name": "Optimized Device",
-        "description": "After undergoing a large number of private modifications, these devices have greatly expanded capacity, which improves performance at the cost of stability. From this, one can feel the dedication and perseverance from the makers.",
-        "rarity": 3,
-        "icon_id": "MTL_SL_BOSS4",
-        "usage": "An advanced mechanical device captured from Reunion. Can be used for a variety of upgrades and the synthesis of Bipolar Nanoflake."
-    },
-    {
-        "id": "30031",
-        "name": "Ester",
-        "description": "One of the most important materials in modern industry. Its appearance has lead to the development of many modern products. This one, of course, is only a raw material that has practical application.",
-        "rarity": 0,
-        "icon_id": "MTL_SL_RUSH1",
-        "usage": "Ester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30032",
-        "name": "Polyester",
-        "description": "Although its is lacking in potency, it can still be used to produce some basic materials we need. It is also a common ingredient in some sustained-release drugs.",
-        "rarity": 1,
-        "icon_id": "MTL_SL_RUSH2",
-        "usage": "A small amount of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30033",
-        "name": "Polyester Pack",
-        "description": "After a series of processes, it meets the standards and general needs of most products on the market. It can also be used to process some special materials.",
-        "rarity": 2,
-        "icon_id": "MTL_SL_RUSH3",
-        "usage": "A pack of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30034",
-        "name": "Polyester Lump",
-        "description": "A refined material. As a product, it is mostly sold to organizations and research institutions that have extremely high raw material needs. It may become the basis of the next generation of materials.",
-        "rarity": 3,
-        "icon_id": "MTL_SL_RUSH4",
-        "usage": "A lump of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30021",
-        "name": "Sugar Substitute",
-        "description": "It's slightly sweet and possibly edible. It is also commonly used in chemical manufacturing.",
-        "rarity": 0,
-        "icon_id": "MTL_SL_STRG1",
-        "usage": "Cheap sugar substitute produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30022",
-        "name": "Sugar",
-        "description": "A more expensive sugar made from natural materials. Ahh, this taste... will surely put one in a great mood. However, it's not for casual snacking.",
-        "rarity": 1,
-        "icon_id": "MTL_SL_STRG2",
-        "usage": "A small amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30023",
-        "name": "Sugar Pack",
-        "description": "A calorie-rich sugar pack that's highly sought after. Its weight never seems to meet the standards set for chemical manufacturing. The production line employees may have something to do with it.",
-        "rarity": 2,
-        "icon_id": "MTL_SL_STRG3",
-        "usage": "A decent amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30024",
-        "name": "Sugar Lump",
-        "description": "A nice, finely processed sugar lump commonly used for potion production. Do not taste test it! This is not food and is not to be sold as food! EVER!",
-        "rarity": 3,
-        "icon_id": "MTL_SL_STRG4",
-        "usage": "A large amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30041",
-        "name": "Oriron Shard",
-        "description": "A byproduct of massive metal processing. Its high plasticity and oxidation resistance make it a common material of smelting and phased processing.",
-        "rarity": 0,
-        "icon_id": "MTL_SL_IRON1",
-        "usage": "A common industrial material. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30042",
-        "name": "Oriron",
-        "description": "In a small number of inerting processes, Oriron Shards may have phase changed and polymerized into Oriron. It is generally thought that Oriron is relatively stable when it reaches this level.",
-        "rarity": 1,
-        "icon_id": "MTL_SL_IRON2",
-        "usage": "A rare industrial material. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30043",
-        "name": "Oriron Cluster",
-        "description": "During the processing, influenced by very few unartificial factors, multiple Orirons may merge into this form by chance. Its hardness has decreased but its purity has increased.",
-        "rarity": 2,
-        "icon_id": "MTL_SL_IRON3",
-        "usage": "A precious industrial material. Can be used for a variety of upgrades and for production in the Factory."
-    },
-    {
-        "id": "30044",
-        "name": "Oriron Block",
-        "description": "An Oriron block fused with multiple Oriron Clusters under extremely harsh conditions. As the most stable and rarest form of Oriron, it can be used in all manners of industrial production.",
-        "rarity": 3,
-        "icon_id": "MTL_SL_IRON4",
-        "usage": "An expensive industrial material. Can be used for a variety of upgrades and the synthesis of Polymerization Preparation."
+        "icon_id": "mod_update_token_1",
+        "usage": "Used to upgrade Operator modules."
     },
     {
         "id": "30051",
@@ -832,52 +1056,164 @@
         "usage": "A large amount of industrial organic compound. Can be used for a variety of upgrades and the synthesis of Polymerization Preparation."
     },
     {
-        "id": "30073",
-        "name": "Loxic Kohl",
-        "description": "An outstanding chemical mediator. When in use, it often changes between two forms to store and release other materials. When it becomes liquid, some of its properties are the same as those of alcohol, which often leaves our Engineer Operators tipsy.",
+        "id": "30041",
+        "name": "Oriron Shard",
+        "description": "A byproduct of massive metal processing. Its high plasticity and oxidation resistance make it a common material of smelting and phased processing.",
+        "rarity": 0,
+        "icon_id": "MTL_SL_IRON1",
+        "usage": "A common industrial material. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30042",
+        "name": "Oriron",
+        "description": "In a small number of inerting processes, Oriron Shards may have phase changed and polymerized into Oriron. It is generally thought that Oriron is relatively stable when it reaches this level.",
+        "rarity": 1,
+        "icon_id": "MTL_SL_IRON2",
+        "usage": "A rare industrial material. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30043",
+        "name": "Oriron Cluster",
+        "description": "During the processing, influenced by very few unartificial factors, multiple Orirons may merge into this form by chance. Its hardness has decreased but its purity has increased.",
         "rarity": 2,
-        "icon_id": "MTL_SL_ALCOHOL1",
-        "usage": "A flaky organic compound. Can be used for a variety of upgrades and for production in the Factory."
+        "icon_id": "MTL_SL_IRON3",
+        "usage": "A precious industrial material. Can be used for a variety of upgrades and for production in the Factory."
     },
     {
-        "id": "30074",
-        "name": "White Horse Kohl",
-        "description": "A product made from Loxic Kohl after fine processing. It was named after the company that discovered its production method. Experiments show that it tends to transform to a higher structure in abnormal environments.",
+        "id": "30044",
+        "name": "Oriron Block",
+        "description": "An Oriron block fused with multiple Oriron Clusters under extremely harsh conditions. As the most stable and rarest form of Oriron, it can be used in all manners of industrial production.",
         "rarity": 3,
-        "icon_id": "MTL_SL_ALCOHOL2",
-        "usage": "A flaky organic compound. Can be used for a variety of upgrades and the synthesis of Bipolar Nanoflake."
+        "icon_id": "MTL_SL_IRON4",
+        "usage": "An expensive industrial material. Can be used for a variety of upgrades and the synthesis of Polymerization Preparation."
     },
     {
-        "id": "30083",
-        "name": "Manganese Ore",
-        "description": "A metal that is used to produce a catalyst widely used in industries. As the reprocessing is complicated, accidents caused by nonstandard techniques do happen from time to time.",
+        "id": "30021",
+        "name": "Sugar Substitute",
+        "description": "It's slightly sweet and possibly edible. It is also commonly used in chemical manufacturing.",
+        "rarity": 0,
+        "icon_id": "MTL_SL_STRG1",
+        "usage": "Cheap sugar substitute produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30022",
+        "name": "Sugar",
+        "description": "A more expensive sugar made from natural materials. Ahh, this taste... will surely put one in a great mood. However, it's not for casual snacking.",
+        "rarity": 1,
+        "icon_id": "MTL_SL_STRG2",
+        "usage": "A small amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30023",
+        "name": "Sugar Pack",
+        "description": "A calorie-rich sugar pack that's highly sought after. Its weight never seems to meet the standards set for chemical manufacturing. The production line employees may have something to do with it.",
         "rarity": 2,
-        "icon_id": "MTL_SL_MANGANESE1",
-        "usage": "A metal ore used for metallurgy. Can be used for a variety of upgrades and for production in the Factory."
+        "icon_id": "MTL_SL_STRG3",
+        "usage": "A decent amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
     },
     {
-        "id": "30084",
-        "name": "Manganese Trihydrate",
-        "description": "A precious metal which few companies are willing to use to produce industrial catalysts. The catalyst made from it, however, has an extremely long service life. It can be used repeatedly and even stripped and recycled, but the complicated processes have forced many companies to give up.",
+        "id": "30024",
+        "name": "Sugar Lump",
+        "description": "A nice, finely processed sugar lump commonly used for potion production. Do not taste test it! This is not food and is not to be sold as food! EVER!",
         "rarity": 3,
-        "icon_id": "MTL_SL_MANGANESE2",
-        "usage": "A metal ore used for metallurgy. Can be used for a variety of upgrades and the synthesis of D32 Steel."
+        "icon_id": "MTL_SL_STRG4",
+        "usage": "A large amount of sugar produced by assembly line. Can be used for a variety of upgrades and for production in the Factory."
     },
     {
-        "id": "30093",
-        "name": "Grindstone",
-        "description": "An important tool in component processing. It has stable properties, and will never explode, powderize, or crack.",
+        "id": "30031",
+        "name": "Ester",
+        "description": "One of the most important materials in modern industry. Its appearance has lead to the development of many modern products. This one, of course, is only a raw material that has practical application.",
+        "rarity": 0,
+        "icon_id": "MTL_SL_RUSH1",
+        "usage": "Ester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30032",
+        "name": "Polyester",
+        "description": "Although its is lacking in potency, it can still be used to produce some basic materials we need. It is also a common ingredient in some sustained-release drugs.",
+        "rarity": 1,
+        "icon_id": "MTL_SL_RUSH2",
+        "usage": "A small amount of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30033",
+        "name": "Polyester Pack",
+        "description": "After a series of processes, it meets the standards and general needs of most products on the market. It can also be used to process some special materials.",
         "rarity": 2,
-        "icon_id": "MTL_SL_PG1",
-        "usage": "A grindstone used to process weapon parts. Can be used for a variety of upgrades and for production in the Factory."
+        "icon_id": "MTL_SL_RUSH3",
+        "usage": "A pack of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
     },
     {
-        "id": "30094",
-        "name": "Grindstone Pentahydrate",
-        "description": "Compared to normal Grindstone, this tool has an even more stable structure. It is highly non-reactive.",
+        "id": "30034",
+        "name": "Polyester Lump",
+        "description": "A refined material. As a product, it is mostly sold to organizations and research institutions that have extremely high raw material needs. It may become the basis of the next generation of materials.",
         "rarity": 3,
-        "icon_id": "MTL_SL_PG2",
-        "usage": "An advanced grindstone used in the finish machining of weapon parts. Can be used for a variety of upgrades and the synthesis of D32 Steel."
+        "icon_id": "MTL_SL_RUSH4",
+        "usage": "A lump of polyester used in industrial production. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30061",
+        "name": "Damaged Device",
+        "description": "A broken device that was embedded in the enemy's weapons and armor. It got damaged during a fierce fight, but the components inside are still valuable.",
+        "rarity": 0,
+        "icon_id": "MTL_SL_BOSS1",
+        "usage": "A damaged mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30062",
+        "name": "Device",
+        "description": "A set of devices that are relatively complete with numerous valuable components. To make it portable and practical, almost every bit of space around the motherboard is in use.",
+        "rarity": 1,
+        "icon_id": "MTL_SL_BOSS2",
+        "usage": "An ordinary mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30063",
+        "name": "Integrated Device",
+        "description": "A set of brand new devices. By reproducing the structure of devices of the same type, the lack of space around the motherboard has been solved. The energy consumption, of course, has also become higher.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_BOSS3",
+        "usage": "A brand new mechanical device captured from Reunion. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30064",
+        "name": "Optimized Device",
+        "description": "After undergoing a large number of private modifications, these devices have greatly expanded capacity, which improves performance at the cost of stability. From this, one can feel the dedication and perseverance from the makers.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_BOSS4",
+        "usage": "An advanced mechanical device captured from Reunion. Can be used for a variety of upgrades and the synthesis of Bipolar Nanoflake."
+    },
+    {
+        "id": "30011",
+        "name": "Orirock",
+        "description": "Rich in organics, it is commonly seen in regions where Originium has completely volatilized. Compared to Originium, it is easier to exploit.",
+        "rarity": 0,
+        "icon_id": "MTL_SL_G1",
+        "usage": "A rock mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30012",
+        "name": "Orirock Cube",
+        "description": "With numerous micropores, it is often used in the interlayer of armors as an adsorbent of the breakdown product of Originium gas.",
+        "rarity": 1,
+        "icon_id": "MTL_SL_G2",
+        "usage": "A rock cube mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30013",
+        "name": "Orirock Cluster",
+        "description": "Compressed from Orirock Cubes, it can be formed naturally. It is a fragile material, but industrial technology has made it possible to produce complete Orirock Clusters now. People often mistake it for an ordinary cluster of rocks.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_G3",
+        "usage": "A conglomerate rock mined from the ground. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30014",
+        "name": "Orirock Concentration",
+        "description": "This Orirock looks different from the raw material after the refinement process. It costs much more than other processing methods. Anyone who has seen the smooth cutting surface will be amazed. That must be the charm of combining nature with industry.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_G4",
+        "usage": "A refined matter produced with Orirock Cluster. Can be used for a variety of upgrades and the synthesis of Polymerization Preparation."
     },
     {
         "id": "30103",
@@ -896,28 +1232,52 @@
         "usage": "A highly sensitive mineral with outstanding conductivity. Can be used for a variety of upgrades and the synthesis of D32 Steel."
     },
     {
-        "id": "30115",
-        "name": "Polymerization Preparation",
-        "description": "A material commonly used as an isolation coating for delicate equipment. Its bonding effect is strong enough to interrupt the volatilization of Originium.",
-        "rarity": 4,
-        "icon_id": "MTL_SL_PP",
-        "usage": "A complicated liquid industrial product. Can be used for high level upgrades."
+        "id": "30093",
+        "name": "Grindstone",
+        "description": "An important tool in component processing. It has stable properties, and will never explode, powderize, or crack.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_PG1",
+        "usage": "A grindstone used to process weapon parts. Can be used for a variety of upgrades and for production in the Factory."
     },
     {
-        "id": "30125",
-        "name": "Bipolar Nanoflake",
-        "description": "A device that is sensitive to Originium within a certain range. It can significantly improve the sensitive of nearby weapons and equipment to Originium, making them near vessels for Originium Arts.",
-        "rarity": 4,
-        "icon_id": "MTL_SL_BN",
-        "usage": "The brainchild of modern science and industry. Can be used for high level upgrades."
+        "id": "30094",
+        "name": "Grindstone Pentahydrate",
+        "description": "Compared to normal Grindstone, this tool has an even more stable structure. It is highly non-reactive.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_PG2",
+        "usage": "An advanced grindstone used in the finish machining of weapon parts. Can be used for a variety of upgrades and the synthesis of D32 Steel."
     },
     {
-        "id": "30135",
-        "name": "D32 Steel",
-        "description": "This material can deliver Originium Arts smoothly and its amazing hardness makes it impossible to penetrate. It will set a new standard for weapon materials.",
-        "rarity": 4,
-        "icon_id": "MTL_SL_DS",
-        "usage": "An artificial metal that doesn't exist in nature. Can be used for high level upgrades."
+        "id": "30083",
+        "name": "Manganese Ore",
+        "description": "A metal that is used to produce a catalyst widely used in industries. As the reprocessing is complicated, accidents caused by nonstandard techniques do happen from time to time.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_MANGANESE1",
+        "usage": "A metal ore used for metallurgy. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30084",
+        "name": "Manganese Trihydrate",
+        "description": "A precious metal which few companies are willing to use to produce industrial catalysts. The catalyst made from it, however, has an extremely long service life. It can be used repeatedly and even stripped and recycled, but the complicated processes have forced many companies to give up.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_MANGANESE2",
+        "usage": "A metal ore used for metallurgy. Can be used for a variety of upgrades and the synthesis of D32 Steel."
+    },
+    {
+        "id": "30073",
+        "name": "Loxic Kohl",
+        "description": "An outstanding chemical mediator. When in use, it often changes between two forms to store and release other materials. When it becomes liquid, some of its properties are the same as those of alcohol, which often leaves our Engineer Operators tipsy.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_ALCOHOL1",
+        "usage": "A flaky organic compound. Can be used for a variety of upgrades and for production in the Factory."
+    },
+    {
+        "id": "30074",
+        "name": "White Horse Kohl",
+        "description": "A product made from Loxic Kohl after fine processing. It was named after the company that discovered its production method. Experiments show that it tends to transform to a higher structure in abnormal environments.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_ALCOHOL2",
+        "usage": "A flaky organic compound. Can be used for a variety of upgrades and the synthesis of Bipolar Nanoflake."
     },
     {
         "id": "31013",
@@ -968,14 +1328,6 @@
         "usage": "An important Originium industry material. Can be used for a variety of upgrades. A fundamental part of manufacturing Originium crystal assemblies."
     },
     {
-        "id": "30145",
-        "name": "Crystalline Electronic Unit",
-        "description": "A crystallization of Terra's Originium technology. A symbol of Terra's industrial modernization. From Originium Casting units to intercity network servers, their making all starts with inventions like these.",
-        "rarity": 4,
-        "icon_id": "MTL_SL_OEU",
-        "usage": "An expensive Originium industry product. Can be used for major upgrades."
-    },
-    {
         "id": "31043",
         "name": "Semi-Synthetic Solvent",
         "description": "The product of a traditional solvent undergoing a modernization process, it demonstrates remarkably enhanced properties.",
@@ -1006,6 +1358,62 @@
         "rarity": 3,
         "icon_id": "MTL_SL_PLCF",
         "usage": "A stock solution prepared from a variety of active solvents. Can be used for high level upgrades."
+    },
+    {
+        "id": "31063",
+        "name": "Transmuted Salt",
+        "description": "The surface of this material has mutable characteristics, realizing results that were originally nearly impossible. CAUTION: industrial salt is not to be eaten under any circumstances.",
+        "rarity": 2,
+        "icon_id": "MTL_SL_ZY",
+        "usage": "A compound crystallization that has undergone low-tolerance refinement. Can be used in a variety of strengthening projects."
+    },
+    {
+        "id": "31064",
+        "name": "Transmuted Salt Agglomerate",
+        "description": "A stable crystalline body, manufactured as a crystal blend within saturated solutions. Can provide materials with a diverse array of capabilities.",
+        "rarity": 3,
+        "icon_id": "MTL_SL_ZYK",
+        "usage": "A compound crystal mass that has undergone high-tolerance refinement. Used in a variety of strengthening projects, and is a common material in synthetic items at factories."
+    },
+    {
+        "id": "30115",
+        "name": "Polymerization Preparation",
+        "description": "A material commonly used as an isolation coating for delicate equipment. Its bonding effect is strong enough to interrupt the volatilization of Originium.",
+        "rarity": 4,
+        "icon_id": "MTL_SL_PP",
+        "usage": "A complicated liquid industrial product. Can be used for high level upgrades."
+    },
+    {
+        "id": "30125",
+        "name": "Bipolar Nanoflake",
+        "description": "A device that is sensitive to Originium within a certain range. It can significantly improve the sensitivity of nearby weapons and equipment to Originium, making them near vessels for Originium Arts.",
+        "rarity": 4,
+        "icon_id": "MTL_SL_BN",
+        "usage": "The brainchild of modern science and industry. Can be used for high level upgrades."
+    },
+    {
+        "id": "30135",
+        "name": "D32 Steel",
+        "description": "This material can deliver Originium Arts smoothly and its amazing hardness makes it impossible to penetrate. It will set a new standard for weapon materials.",
+        "rarity": 4,
+        "icon_id": "MTL_SL_DS",
+        "usage": "An artificial metal that doesn't exist in nature. Can be used for high level upgrades."
+    },
+    {
+        "id": "30145",
+        "name": "Crystalline Electronic Unit",
+        "description": "A crystallization of Terra's Originium technology. A symbol of Terra's industrial modernization. From Originium Casting units to intercity network servers, their making all starts with inventions like these.",
+        "rarity": 4,
+        "icon_id": "MTL_SL_OEU",
+        "usage": "An expensive Originium industry product. Can be used for major upgrades."
+    },
+    {
+        "id": "30155",
+        "name": "Nucleic Crystal Sinter",
+        "description": "A material that possesses a molecular recognitive capacity under specific high-temperature conditions. Can selectively adsorb Originium when used as a reagent, allowing for precise handling of Originium materials, lower Originium device energy consumption, and the opening of further new possibilities.",
+        "rarity": 4,
+        "icon_id": "MTL_SL_SHJ",
+        "usage": "A product of modern technology that requires the ultimate in industrial craft. Used in advanced strengthening projects."
     },
     {
         "id": "3105",
@@ -1277,7 +1685,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26051 Vanguard Operators."
     },
     {
         "id": "tier1_guard",
@@ -1285,7 +1693,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Guard Operators."
+        "usage": "Used to improve the Potential of \u26051 Guard Operators."
     },
     {
         "id": "tier1_tank",
@@ -1293,7 +1701,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Defender Operators."
+        "usage": "Used to improve the Potential of \u26051 Defender Operators."
     },
     {
         "id": "tier1_sniper",
@@ -1301,7 +1709,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26051 Sniper Operators."
     },
     {
         "id": "tier1_caster",
@@ -1309,7 +1717,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Caster Operators."
+        "usage": "Used to improve the Potential of \u26051 Caster Operators."
     },
     {
         "id": "tier1_medic",
@@ -1317,7 +1725,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Medic Operators."
+        "usage": "Used to improve the Potential of \u26051 Medic Operators."
     },
     {
         "id": "tier1_supporter",
@@ -1325,7 +1733,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26051 Supporter Operators."
     },
     {
         "id": "tier1_special",
@@ -1333,7 +1741,7 @@
         "description": "A normal token. It's nothing special, but it has its uses.",
         "rarity": 0,
         "icon_id": "tier1_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20261 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26051 Specialist Operators."
     },
     {
         "id": "tier2_pioneer",
@@ -1341,7 +1749,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26052 Vanguard Operators."
     },
     {
         "id": "tier2_guard",
@@ -1349,7 +1757,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Guard Operators."
+        "usage": "Used to improve the Potential of \u26052 Guard Operators."
     },
     {
         "id": "tier2_tank",
@@ -1357,7 +1765,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Defender Operators."
+        "usage": "Used to improve the Potential of \u26052 Defender Operators."
     },
     {
         "id": "tier2_sniper",
@@ -1365,7 +1773,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26052 Sniper Operators."
     },
     {
         "id": "tier2_caster",
@@ -1373,7 +1781,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Caster Operators."
+        "usage": "Used to improve the Potential of \u26052 Caster Operators."
     },
     {
         "id": "tier2_medic",
@@ -1381,7 +1789,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Medic Operators."
+        "usage": "Used to improve the Potential of \u26052 Medic Operators."
     },
     {
         "id": "tier2_supporter",
@@ -1389,7 +1797,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26052 Supporter Operators."
     },
     {
         "id": "tier2_special",
@@ -1397,7 +1805,7 @@
         "description": "A common token. People only remember it when they really need it.",
         "rarity": 1,
         "icon_id": "tier2_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20262 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26052 Specialist Operators."
     },
     {
         "id": "tier3_pioneer",
@@ -1405,7 +1813,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26053 Vanguard Operators."
     },
     {
         "id": "tier3_guard",
@@ -1413,7 +1821,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Guard Operators."
+        "usage": "Used to improve the Potential of \u26053 Guard Operators."
     },
     {
         "id": "tier3_tank",
@@ -1421,7 +1829,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Defender Operators."
+        "usage": "Used to improve the Potential of \u26053 Defender Operators."
     },
     {
         "id": "tier3_sniper",
@@ -1429,7 +1837,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26053 Sniper Operators."
     },
     {
         "id": "tier3_caster",
@@ -1437,7 +1845,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Caster Operators."
+        "usage": "Used to improve the Potential of \u26053 Caster Operators."
     },
     {
         "id": "tier3_medic",
@@ -1445,7 +1853,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Medic Operators."
+        "usage": "Used to improve the Potential of \u26053 Medic Operators."
     },
     {
         "id": "tier3_supporter",
@@ -1453,7 +1861,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26053 Supporter Operators."
     },
     {
         "id": "tier3_special",
@@ -1461,7 +1869,7 @@
         "description": "A peculiar token. It's nothing amazing, but you won't forget you have it.",
         "rarity": 2,
         "icon_id": "tier3_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20263 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26053 Specialist Operators."
     },
     {
         "id": "tier4_pioneer",
@@ -1469,7 +1877,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26054 Vanguard Operators."
     },
     {
         "id": "tier4_guard",
@@ -1477,7 +1885,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Guard Operators."
+        "usage": "Used to improve the Potential of \u26054 Guard Operators."
     },
     {
         "id": "tier4_tank",
@@ -1485,7 +1893,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Defender Operators."
+        "usage": "Used to improve the Potential of \u26054 Defender Operators."
     },
     {
         "id": "tier4_sniper",
@@ -1493,7 +1901,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26054 Sniper Operators."
     },
     {
         "id": "tier4_caster",
@@ -1501,7 +1909,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Caster Operators."
+        "usage": "Used to improve the Potential of \u26054 Caster Operators."
     },
     {
         "id": "tier4_medic",
@@ -1509,7 +1917,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Medic Operators."
+        "usage": "Used to improve the Potential of \u26054 Medic Operators."
     },
     {
         "id": "tier4_supporter",
@@ -1517,7 +1925,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26054 Supporter Operators."
     },
     {
         "id": "tier4_special",
@@ -1525,7 +1933,7 @@
         "description": "A rare token. Staring at it makes you want to start collecting similar tokens.",
         "rarity": 3,
         "icon_id": "tier4_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20264 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26054 Specialist Operators."
     },
     {
         "id": "tier5_pioneer",
@@ -1533,7 +1941,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26055 Vanguard Operators."
     },
     {
         "id": "tier5_guard",
@@ -1541,7 +1949,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Guard Operators."
+        "usage": "Used to improve the Potential of \u26055 Guard Operators."
     },
     {
         "id": "tier5_tank",
@@ -1549,7 +1957,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Defender Operators."
+        "usage": "Used to improve the Potential of \u26055 Defender Operators."
     },
     {
         "id": "tier5_sniper",
@@ -1557,7 +1965,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26055 Sniper Operators."
     },
     {
         "id": "tier5_caster",
@@ -1565,7 +1973,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Caster Operators."
+        "usage": "Used to improve the Potential of \u26055 Caster Operators."
     },
     {
         "id": "tier5_medic",
@@ -1573,7 +1981,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Medic Operators."
+        "usage": "Used to improve the Potential of \u26055 Medic Operators."
     },
     {
         "id": "tier5_supporter",
@@ -1581,7 +1989,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26055 Supporter Operators."
     },
     {
         "id": "tier5_special",
@@ -1589,7 +1997,7 @@
         "description": "A special token. All the efforts taken to get your hands on it will prove to be worth it.",
         "rarity": 4,
         "icon_id": "tier5_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20265 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26055 Specialist Operators."
     },
     {
         "id": "tier6_pioneer",
@@ -1597,7 +2005,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_pioneer",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Vanguard Operators."
+        "usage": "Used to improve the Potential of \u26056 Vanguard Operators."
     },
     {
         "id": "tier6_guard",
@@ -1605,7 +2013,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_guard",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Guard Operators."
+        "usage": "Used to improve the Potential of \u26056 Guard Operators."
     },
     {
         "id": "tier6_tank",
@@ -1613,7 +2021,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_tank",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Defender Operators."
+        "usage": "Used to improve the Potential of \u26056 Defender Operators."
     },
     {
         "id": "tier6_sniper",
@@ -1621,7 +2029,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_sniper",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Sniper Operators."
+        "usage": "Used to improve the Potential of \u26056 Sniper Operators."
     },
     {
         "id": "tier6_caster",
@@ -1629,7 +2037,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_caster",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Caster Operators."
+        "usage": "Used to improve the Potential of a 6\u2605 Caster Operator."
     },
     {
         "id": "tier6_medic",
@@ -1637,7 +2045,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_medic",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Medic Operators."
+        "usage": "Used to improve the Potential of \u26056 Medic Operators."
     },
     {
         "id": "tier6_supporter",
@@ -1645,7 +2053,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_supporter",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Supporter Operators."
+        "usage": "Used to improve the Potential of \u26056 Supporter Operators."
     },
     {
         "id": "tier6_special",
@@ -1653,7 +2061,7 @@
         "description": "A unique token. Is it really okay to just give away something this precious?",
         "rarity": 5,
         "icon_id": "tier6_special",
-        "usage": "Used to improve the Potential of \u00e2\u02dc\u20266 Specialist Operators."
+        "usage": "Used to improve the Potential of \u26056 Specialist Operators."
     },
     {
         "id": "p_char_285_medic2",
@@ -1678,6 +2086,14 @@
         "rarity": 0,
         "icon_id": "p_char_376_therex",
         "usage": "Used to improve the Potential of THRM-EX."
+    },
+    {
+        "id": "p_char_4000_jnight",
+        "name": "Justice Knight's Token",
+        "description": "The flag of 'Justice Knight.' When it's time for its regular switch-out and cleaning, be kind and lend her a hand.",
+        "rarity": 0,
+        "icon_id": "p_char_4000_jnight",
+        "usage": "Used to improve the Potential of 'Justice Knight.'"
     },
     {
         "id": "p_char_502_nblade",
@@ -2230,6 +2646,38 @@
         "rarity": 3,
         "icon_id": "p_char_484_robrta",
         "usage": "Used to improve the Potential of Roberta."
+    },
+    {
+        "id": "p_char_4004_pudd",
+        "name": "Pudding's Token",
+        "description": "A plushie named 'Pillow.' An important friend to Pudding, cleaned and maintained at a frequency far beyond the norm for the average plushie.",
+        "rarity": 3,
+        "icon_id": "p_char_4004_pudd",
+        "usage": "Used to improve the Potential of Pudding."
+    },
+    {
+        "id": "p_char_4041_chnut",
+        "name": "Chestnut's Token",
+        "description": "Due to how hard they are to grow, this cluster of fluorescent subterranean mushrooms remains miniscule. But still, it represents home.",
+        "rarity": 3,
+        "icon_id": "p_char_4041_chnut",
+        "usage": "Used to improve the Potential of Chestnut."
+    },
+    {
+        "id": "p_char_4062_totter",
+        "name": "Totter's Token",
+        "description": "A chunk of firewood frozen absolutely solid. Needs a perfunctory baking to remove moisture content before it can be thrown in the furnace.",
+        "rarity": 3,
+        "icon_id": "p_char_4062_totter",
+        "usage": "Used to improve the Potential of Totter."
+    },
+    {
+        "id": "p_char_4063_quartz",
+        "name": "Quartz's Token",
+        "description": "A pocket watch from her father. Stopped long ago, but in times when no one is around, you can still hear it 'tick-tock, tick-tock.'",
+        "rarity": 3,
+        "icon_id": "p_char_4063_quartz",
+        "usage": "Used to improve the Potential of Quartz."
     },
     {
         "id": "p_char_128_plosis",
@@ -2802,10 +3250,10 @@
     {
         "id": "p_char_402_tuye",
         "name": "Tuye's Token",
-        "description": "A\u00c2\u00a0vial\u00c2\u00a0of\u00c2\u00a0nutritional\u00c2\u00a0fluid.\u00c2\u00a0Hand\u00c2\u00a0crafted\u00c2\u00a0by\u00c2\u00a0the\u00c2\u00a0outstanding\u00c2\u00a0medical\u00c2\u00a0operator\u00c2\u00a0Tuye,\u00c2\u00a0it\u00c2\u00a0gives\u00c2\u00a0off\u00c2\u00a0a\u00c2\u00a0peculiar\u00c2\u00a0smell.\u00c2\u00a0Whether\u00c2\u00a0and\u00c2\u00a0when\u00c2\u00a0to\u00c2\u00a0drink\u00c2\u00a0it\u00c2\u00a0remain\u00c2\u00a0questions\u00c2\u00a0you\u00c2\u00a0have\u00c2\u00a0to\u00c2\u00a0think\u00c2\u00a0over\u00c2\u00a0for\u00c2\u00a0yourself.",
+        "description": "A\u00a0vial\u00a0of\u00a0nutritional\u00a0fluid.\u00a0Hand\u00a0crafted\u00a0by\u00a0the\u00a0outstanding\u00a0medical\u00a0operator\u00a0Tuye,\u00a0it\u00a0gives\u00a0off\u00a0a\u00a0peculiar\u00a0smell.\u00a0Whether\u00a0and\u00a0when\u00a0to\u00a0drink\u00a0it\u00a0remain\u00a0questions\u00a0you\u00a0have\u00a0to\u00a0think\u00a0over\u00a0for\u00a0yourself.",
         "rarity": 4,
         "icon_id": "p_char_402_tuye",
-        "usage": "Used\u00c2\u00a0to\u00c2\u00a0improve\u00c2\u00a0the\u00c2\u00a0Potential\u00c2\u00a0of\u00c2\u00a0Tuye."
+        "usage": "Used\u00a0to\u00a0improve\u00a0the\u00a0Potential\u00a0of\u00a0Tuye."
     },
     {
         "id": "p_char_455_nothin",
@@ -2890,7 +3338,7 @@
     {
         "id": "p_char_421_crow",
         "name": "La Pluma's Token",
-        "description": "A copy of the 'Dossoles Guide to Cocktails,' with plenty of recipes full of her notes on the side. These all seem to be her specialties\u00e2\u20ac\u201dif you've got time to spare, you can order a round from her.",
+        "description": "A copy of the 'Dossoles Guide to Cocktails,' with plenty of recipes full of her notes on the side. These all seem to be her specialties\u2014if you've got time to spare, you can order a round from her.",
         "rarity": 4,
         "icon_id": "p_char_421_crow",
         "usage": "Used to improve the Potential of La Pluma."
@@ -2918,6 +3366,238 @@
         "rarity": 4,
         "icon_id": "p_char_431_ashlok",
         "usage": "Used to improve the Potential of Ashlock."
+    },
+    {
+        "id": "p_char_449_glider",
+        "name": "Honeyberry's Token",
+        "description": "A berry plant grown by Honeyberry. Its form has beauty, its fruits are tart, sweet and delicious, and the whole of it can be used medicinally. A new, never-before-found cultivar.",
+        "rarity": 4,
+        "icon_id": "p_char_449_glider",
+        "usage": "Used to improve the Potential of Honeyberry."
+    },
+    {
+        "id": "p_char_496_wildmn",
+        "name": "Wild Mane's Token",
+        "description": "A splinter of the major lance's damaged outer shell, kept preciously safe by Wild Mane. A reminder to herself that every battle comes with a cost, and you need to think things through.",
+        "rarity": 4,
+        "icon_id": "p_char_496_wildmn",
+        "usage": "Used to improve the Potential of Wild Mane."
+    },
+    {
+        "id": "p_char_489_serum",
+        "name": "Corroserum's Token",
+        "description": "A reagent bottle with label after label thickly pasted over it. 'Anti-corrosive coating reagent,' 'anti-anti-corrosive coating reagent,' 'anti-anti-...anti-anti-corrosive coating reagent,' the font is smaller and smaller. Er, seriously?",
+        "rarity": 4,
+        "icon_id": "p_char_489_serum",
+        "usage": "Used to improve the Potential of Corroserum."
+    },
+    {
+        "id": "p_char_422_aurora",
+        "name": "Aurora's Token",
+        "description": "A combination lock. You can open the toolbox she carries, and you're allowed to use the stuff inside.",
+        "rarity": 4,
+        "icon_id": "p_char_422_aurora",
+        "usage": "Used to improve the Potential of Aurora."
+    },
+    {
+        "id": "p_char_4013_kjera",
+        "name": "Kjera's Token",
+        "description": "A hand-knitted scarf. The materials are excessive, and you'd find it hot even wearing it in Kjerag. No unusual features at all, just the craftsmanship that goes into knitting a fine scarf like this is already enough to make you gasp in admiration.",
+        "rarity": 4,
+        "icon_id": "p_char_4013_kjera",
+        "usage": "Used to improve the Potential of Kjera."
+    },
+    {
+        "id": "p_char_4025_aprot2",
+        "name": "Shalem's Token",
+        "description": "A shattered emblem, upon it carved the Crimson Troupe's design. Shalem preserves this part of the past, as if he long foresaw a day he'd hand it over.",
+        "rarity": 4,
+        "icon_id": "p_char_4025_aprot2",
+        "usage": "Used to improve the Potential of Shalem."
+    },
+    {
+        "id": "p_char_476_blkngt",
+        "name": "Blacknight's Token",
+        "description": "A knitted nightcap. It's made roughly, but is very soft to the touch.",
+        "rarity": 4,
+        "icon_id": "p_char_476_blkngt",
+        "usage": "Used to improve the Potential of Blacknight."
+    },
+    {
+        "id": "p_char_492_quercu",
+        "name": "Quercus's Token",
+        "description": "An vacant flowerpot filled only with soil. The soil was brought from the earth of her homeland. If you're ever at leisure, you can go ask her for some seeds.",
+        "rarity": 4,
+        "icon_id": "p_char_492_quercu",
+        "usage": "Used to improve the Potential of Quercus."
+    },
+    {
+        "id": "p_char_1021_kroos2",
+        "name": "Kroos the Keen Glint\u2019s Token",
+        "description": "A sucker arrow, several small bells tied to the fletching.\nWith this arrow, you can provide a name, and so long as it's present on Rhodes Island and can be shot, she'll land this straight on the target.",
+        "rarity": 4,
+        "icon_id": "p_char_1021_kroos2",
+        "usage": "Used to improve the Potential of Kroos the Keen Glint."
+    },
+    {
+        "id": "p_char_4016_kazema",
+        "name": "Kazemaru's Token",
+        "description": "A vividly colored pendant that rustles. Handcrafted by Kazemaru herself.",
+        "rarity": 4,
+        "icon_id": "p_char_4016_kazema",
+        "usage": "Used to improve the Potential of Kazemaru."
+    },
+    {
+        "id": "p_char_4036_forcer",
+        "name": "Enforcer's Token",
+        "description": "A can of sugar-free coffee. Portable and ready to drink.\nThe finest choice for those times when you can't make coffee, but need a caffeine boost. That is, if you can stand its bitter taste.",
+        "rarity": 4,
+        "icon_id": "p_char_4036_forcer",
+        "usage": "Used to improve the Potential of Enforcer."
+    },
+    {
+        "id": "p_char_4040_rockr",
+        "name": "Rockrock's Token",
+        "description": "A crudely assembled pair of scissors, rarely used. Meant for snipping bindings. Guard of the past, she wishes to see you off as you head for the future.",
+        "rarity": 4,
+        "icon_id": "p_char_4040_rockr",
+        "usage": "Used to improve the Potential of Rockrock."
+    },
+    {
+        "id": "p_char_4045_heidi",
+        "name": "Heidi's Token",
+        "description": "A notebook comprised of awkward handwriting and yellowed pages. She often still dreams of sitting at her writing desk in the County of Toron, the forest of oaks beyond her window blanketed by the snowstorm.",
+        "rarity": 4,
+        "icon_id": "p_char_4045_heidi",
+        "usage": "Used to improve the Potential of Heidi."
+    },
+    {
+        "id": "p_char_433_windft",
+        "name": "Windflit's Token",
+        "description": "A case of wear-resistant adhesive bandages, carried on Windflit's person. Used until worn-through, and then he's plus one callus, minus one plaster.",
+        "rarity": 4,
+        "icon_id": "p_char_433_windft",
+        "usage": "Used to improve the Potential of Windflit."
+    },
+    {
+        "id": "p_char_4043_erato",
+        "name": "Erato's Token",
+        "description": "A notebook filled with mythic legends and poems for the wayward bard. The language isn't flowery per se, but passion and sincerity abound as you read it.",
+        "rarity": 4,
+        "icon_id": "p_char_4043_erato",
+        "usage": "Used to improve the Potential of Erato."
+    },
+    {
+        "id": "p_char_1024_hbisc2",
+        "name": "Hibiscus the Purifier's Token",
+        "description": "A small flower folded from paper. It has become Hibiscus's habit to leave a small memento like this next to the bed of each patient as they are about to be discharged.",
+        "rarity": 4,
+        "icon_id": "p_char_1024_hbisc2",
+        "usage": "Used to improve the Potential of Hibiscus the Purifier."
+    },
+    {
+        "id": "p_char_4047_pianst",
+        "name": "Czerny's Token",
+        "description": "An old-fashioned, time-worn metronome that has accompanied Czerny since his brief yet happy formative years.",
+        "rarity": 4,
+        "icon_id": "p_char_4047_pianst",
+        "usage": "Used to improve the Potential of Czerny."
+    },
+    {
+        "id": "p_char_1027_greyy2",
+        "name": "Greyy the Lightningbearer's Token",
+        "description": "A dissertation. These few sheets of paper depict the young Perro's ideals over the past few years.",
+        "rarity": 4,
+        "icon_id": "p_char_1027_greyy2",
+        "usage": "Used to improve the Potential of Greyy the Lightningbearer."
+    },
+    {
+        "id": "p_char_135_halo",
+        "name": "Astgenne's Token",
+        "description": "A handmade model of a comet. Let the past be the past and instead take hold of the future.",
+        "rarity": 4,
+        "icon_id": "p_char_135_halo",
+        "usage": "Used to improve the Potential of Astgenne."
+    },
+    {
+        "id": "p_char_497_ctable",
+        "name": "Cantabile's Token",
+        "description": "A small lyre, all weapons removed. Can tug heartstrings with simply a strum, bringing your thoughts back down in the heat of chaos.",
+        "rarity": 4,
+        "icon_id": "p_char_497_ctable",
+        "usage": "Used to improve the Potential of Cantabile."
+    },
+    {
+        "id": "p_char_4054_malist",
+        "name": "Minimalist's Token",
+        "description": "A pencil stub, worn beyond further use. At the end of its life, it has drawn up the most wondrous designs.",
+        "rarity": 4,
+        "icon_id": "p_char_4054_malist",
+        "usage": "Used to improve the Potential of Minimalist."
+    },
+    {
+        "id": "p_char_4032_provs",
+        "name": "Proviso's Token",
+        "description": "A book of analysis of Kazimierz law, rife with notes. Countless underlines stress key points, growing steadily more useless the more they're made.",
+        "rarity": 4,
+        "icon_id": "p_char_4032_provs",
+        "usage": "Used to improve the Potential of Proviso."
+    },
+    {
+        "id": "p_char_4066_highmo",
+        "name": "Highmore's Token",
+        "description": "A pure white conch shell. Clasp it in the quiet night and lift it to your ear, and you'll seem to hear a distant song of farewell.",
+        "rarity": 4,
+        "icon_id": "p_char_4066_highmo",
+        "usage": "Used to improve the Potential of Highmore."
+    },
+    {
+        "id": "p_char_4071_peper",
+        "name": "Paprika's Token",
+        "description": "Fluffy ear mufflers. Lovely and warm in the cold, they'll keep your whole body safe and were hand-knitted by the girl herself.",
+        "rarity": 4,
+        "icon_id": "p_char_4071_peper",
+        "usage": "Used to improve the Potential of Paprika."
+    },
+    {
+        "id": "p_char_157_dagda",
+        "name": "Dagda's Token",
+        "description": "A page from the Book of the Tower Knights. On it is Isabelle 'Dagda' Montague's name, followed by a large blank space below, waiting to be filled in.",
+        "rarity": 4,
+        "icon_id": "p_char_157_dagda",
+        "usage": "Used to improve the Potential of Dagda."
+    },
+    {
+        "id": "p_char_466_qanik",
+        "name": "Qanipalaat's Token",
+        "description": "A beautiful bouquet of dried flowers, picked in the frigid northern wilds. Fragrance lingers about the petals, never failing to remind Qanipalaat of home.",
+        "rarity": 4,
+        "icon_id": "p_char_466_qanik",
+        "usage": "Used to improve the Potential of Qanipalaat."
+    },
+    {
+        "id": "p_char_4014_lunacu",
+        "name": "Lunacub's Token",
+        "description": "A bone arrowhead, seemingly polished by Lunacub herself. When asked of the bone's origins, Lunacub states she found it while outside.",
+        "rarity": 4,
+        "icon_id": "p_char_4014_lunacu",
+        "usage": "Used to improve the Potential of Lunacub."
+    },
+    {
+        "id": "p_char_297_hamoni",
+        "name": "Harmonie's Token",
+        "description": "An invitation letter to a dance from some high-up nobility. Attached is an exhaustively detailed list of invitees paired with profiles, which of course you're not among.",
+        "rarity": 4,
+        "icon_id": "p_char_297_hamoni",
+        "usage": "Used to improve the Potential of Harmonie."
+    },
+    {
+        "id": "p_char_4017_puzzle",
+        "name": "Puzzle's Token",
+        "description": "A blank white jigsaw puzzle. Questioning who he is may well be a fruitless endeavor\u2014try asking him what the order he seeks is.",
+        "rarity": 4,
+        "icon_id": "p_char_4017_puzzle",
+        "usage": "Used to improve the Potential of Puzzle."
     },
     {
         "id": "p_char_103_angel",
@@ -3274,7 +3954,7 @@
     {
         "id": "p_char_437_mizuki",
         "name": "Mizuki's Token",
-        "description": "One of some classic video game's commemoration badges distributed for its 40th anniversary. The characters that appear on them each have completely different expressions, and are so cute you could just open wide and\u00e2\u20ac\u201d",
+        "description": "One of some classic video game's commemoration badges distributed for its 40th anniversary. The characters that appear on them each have completely different expressions, and are so cute you could just open wide and\u2014",
         "rarity": 5,
         "icon_id": "p_char_437_mizuki",
         "usage": "Used to improve the Potential of Mizuki."
@@ -3296,6 +3976,166 @@
         "usage": "Used to improve the Potential of Saileach."
     },
     {
+        "id": "p_char_1014_nearl2",
+        "name": "Nearl the Radiant Knight's Token",
+        "description": "A Kazimierzian knightly coat of arms, restored to splendor. After a meticulous polishing, the pegasus\u2019s golden wings give off an awe-inspiring glow.",
+        "rarity": 5,
+        "icon_id": "p_char_1014_nearl2",
+        "usage": "Used to improve the Potential of Nearl the Radiant Knight."
+    },
+    {
+        "id": "p_char_420_flamtl",
+        "name": "Flametail's Token",
+        "description": "A seemingly mundane Kazimierzian coin. This was the sole reward Sona earned from her first victory in the underground arena.",
+        "rarity": 5,
+        "icon_id": "p_char_420_flamtl",
+        "usage": "Used to improve the Potential of Flametail."
+    },
+    {
+        "id": "p_char_206_gnosis",
+        "name": "Gnosis's Token",
+        "description": "A self-defense dagger he forged after his arrival at Rhodes Island. You only found out far later, by pure chance, that this is one of the ways the Edelweisses show their friendship.",
+        "rarity": 5,
+        "icon_id": "p_char_206_gnosis",
+        "usage": "Used to improve the Potential of Gnosis."
+    },
+    {
+        "id": "p_char_322_lmlee",
+        "name": "Lee's Token",
+        "description": "A ring-shaped jade pendant of unassuming appearance. You're unable to judge its value.",
+        "rarity": 5,
+        "icon_id": "p_char_322_lmlee",
+        "usage": "Used to improve the Potential of Lee."
+    },
+    {
+        "id": "p_char_377_gdglow",
+        "name": "Goldenglow's Token",
+        "description": "A bottle of unique body lotion. You hear it's effective in reducing static shock once applied.\nEven if it's a bust, at least it's good for your skin.",
+        "rarity": 5,
+        "icon_id": "p_char_377_gdglow",
+        "usage": "Used to improve the Potential of Goldenglow."
+    },
+    {
+        "id": "p_char_2023_ling",
+        "name": "Ling's Token",
+        "description": "A lantern. You're absolutely sure you once saw this in some late-night dream. Lanterns light the eve, arrows fall as rain, the desert flared with fire.",
+        "rarity": 5,
+        "icon_id": "p_char_2023_ling",
+        "usage": "Used to improve the Potential of Ling."
+    },
+    {
+        "id": "p_char_300_phenxi",
+        "name": "Fiammetta's Token",
+        "description": " A bullet-shaped hazelnut lollipop. An unofficial ration of the Laterano Notarial Hall.\nSupposedly the Pope's favorite, although he claims all Lateran treats as his favorite.",
+        "rarity": 5,
+        "icon_id": "p_char_300_phenxi",
+        "usage": "Used to improve the Potential of Fiammetta."
+    },
+    {
+        "id": "p_char_4039_horn",
+        "name": "Horn's Token",
+        "description": "A notebook. The names of several musical instruments are fastidiously written on the first page. What she's sharing with you is intel, but at the same time, memories.",
+        "rarity": 5,
+        "icon_id": "p_char_4039_horn",
+        "usage": "Used to improve the Potential of Horn."
+    },
+    {
+        "id": "p_char_1023_ghost2",
+        "name": "Specter the Unchained's Token",
+        "description": "A detail-rich sculpture. Artwork only possesses meaning when left in the hands of those who know to appreciate it.",
+        "rarity": 5,
+        "icon_id": "p_char_1023_ghost2",
+        "usage": "Used to improve the Potential of Specter the Unchained."
+    },
+    {
+        "id": "p_char_4009_irene",
+        "name": "Irene's Token",
+        "description": "A small chunk of ochre reef, having undergone centuries of baptism upon Iberia's coastline before being handed to you.",
+        "rarity": 5,
+        "icon_id": "p_char_4009_irene",
+        "usage": "Used to improve the Potential of Irene."
+    },
+    {
+        "id": "p_char_4042_lumen",
+        "name": "Lumen's Token",
+        "description": "A simple light-emitting unit, employing some fascinating technologies. The handiwork of Lumen in his spare time. You hear the theory behind it comes from the lighthouse research notes left by his parents.",
+        "rarity": 5,
+        "icon_id": "p_char_4042_lumen",
+        "usage": "Used to improve the Potential of Lumen."
+    },
+    {
+        "id": "p_char_4046_ebnhlz",
+        "name": "Ebenholz's Token",
+        "description": "A Leithanian coin with a crudely drilled hole in its center. Only he knows how much sweat and tears were poured into that hole when a skilled artisan would have been able to make it effortlessly.",
+        "rarity": 5,
+        "icon_id": "p_char_4046_ebnhlz",
+        "usage": "Used to improve the Potential of Ebenholz."
+    },
+    {
+        "id": "p_char_4048_doroth",
+        "name": "Dorothy's Token",
+        "description": "A tube of unknown reagent identical to what flows in her body. Must never be used.",
+        "rarity": 5,
+        "icon_id": "p_char_4048_doroth",
+        "usage": "Used to improve the Potential of Dorothy."
+    },
+    {
+        "id": "p_char_1026_gvial2",
+        "name": "Gavial the Invincible's Token",
+        "description": "An excessively dense alloy dumbbell, while appearing deceptively liftable. Gavial neglected to tell you its weight when she gave it to you, and you had to spend half an hour soothing your poor, pulled back.",
+        "rarity": 5,
+        "icon_id": "p_char_1026_gvial2",
+        "usage": "Used to improve the Potential of Gavial the Invincible."
+    },
+    {
+        "id": "p_char_4055_bgsnow",
+        "name": "Poz\u00ebmka's Token",
+        "description": "A pile of manuscript paper. Her strength and cowardice are written within in their fullest, nothing withheld.",
+        "rarity": 5,
+        "icon_id": "p_char_4055_bgsnow",
+        "usage": "Used to improve the Potential of Poz\u00ebmka."
+    },
+    {
+        "id": "p_char_4064_mlynar",
+        "name": "M\u0142ynar's Token",
+        "description": "A letter opener of classical design, having opened up the joys and sorrows of hundreds of lives. It's been close to the sharpest thing he's held for a long, long time.",
+        "rarity": 5,
+        "icon_id": "p_char_4064_mlynar",
+        "usage": "Used to improve the Potential of M\u0142ynar."
+    },
+    {
+        "id": "p_char_4072_ironmn",
+        "name": "Stainless's Token",
+        "description": "Brand new zipline equipment. The parts that come in contact with the body are softer than on mass-produced ziplines, guarding against friction burns that might occur during high-speed movement.",
+        "rarity": 5,
+        "icon_id": "p_char_4072_ironmn",
+        "usage": "Used to improve the Potential of Stainless."
+    },
+    {
+        "id": "p_char_1028_texas2",
+        "name": "Texas the Omertosa's Token",
+        "description": "A necklace of rather Siracusan stylings. As introduced to us by Texas, it is in fact a token of Signora Sicilia's. Possess it, and you possess the right to meet her. We pray the day never comes when it's needed.",
+        "rarity": 5,
+        "icon_id": "p_char_1028_texas2",
+        "usage": "Used to improve the Potential of Texas the Omertosa."
+    },
+    {
+        "id": "p_char_4065_judge",
+        "name": "Penance's Token",
+        "description": "A solid wooden gavel. The lighter it feels when you pick it up, the more you feel its weight when you strike it.",
+        "rarity": 5,
+        "icon_id": "p_char_4065_judge",
+        "usage": "Used to improve the Potential of Penance."
+    },
+    {
+        "id": "p_char_1020_reed2",
+        "name": "Reed the Flame Shadow's Token",
+        "description": "A poetry anthology transcribed in an unfamiliar language. She does not seek for all to understand it\u2014she simply hopes there will be a corner to reside in, for those who wish to read these poems.",
+        "rarity": 5,
+        "icon_id": "p_char_1020_reed2",
+        "usage": "Used to improve the Potential of Reed the Flame Shadow."
+    },
+    {
         "id": "voucher_full_ceylon",
         "name": "Ceylon's Personal Letter",
         "description": "The letter makes mention of progress on a near-future Originium academic course, hopes for the new city of Siesta, and care for how Schwarz is doing.",
@@ -3306,7 +4146,7 @@
     {
         "id": "voucher_full_grani",
         "name": "Grani's Personal Letter",
-        "description": "The letter only contains a few simple well-wishes\u00e2\u20ac\u201dits writer, likely right at the Doctor's side by the time the letter lands on the desk.",
+        "description": "The letter only contains a few simple well-wishes\u2014its writer, likely right at the Doctor's side by the time the letter lands on the desk.",
         "rarity": 4,
         "icon_id": "voucher_full_grani",
         "usage": "A personal letter sent to the Doctor, used to improve Grani to Max Potential."
@@ -3318,6 +4158,86 @@
         "rarity": 4,
         "icon_id": "voucher_full_flameb",
         "usage": "A personal letter sent to the Doctor, used to improve Flamebringer to Max Potential."
+    },
+    {
+        "id": "voucher_full_bison",
+        "name": "Bison's Personal Letter",
+        "description": "The letter talks about his own situation, his impressions of the Penguin Logistics employees he's come into contact with, and his outlook on the future.",
+        "rarity": 4,
+        "icon_id": "voucher_full_bison",
+        "usage": "A personal letter sent to the Doctor, used to improve Bison to Max Potential."
+    },
+    {
+        "id": "voucher_full_snsant",
+        "name": "Snowsant's Personal Letter",
+        "description": "The letter writes of self-researched projects' various details, applications for funding, as well as heartfelt thanks to the Doctor.",
+        "rarity": 4,
+        "icon_id": "voucher_full_snsant",
+        "usage": "A personal letter sent to the Doctor, used to improve Snowsant to Max Potential."
+    },
+    {
+        "id": "voucher_full_sidero",
+        "name": "Sideroca's Personal Letter",
+        "description": "The letter contains an everyday greeting, a recipe under development, an exhortation to work out, and overflowing ambition.",
+        "rarity": 4,
+        "icon_id": "voucher_full_sidero",
+        "usage": "A personal letter sent to the Doctor, used to improve Sideroca to Max Potential."
+    },
+    {
+        "id": "voucher_full_absin",
+        "name": "Absinthe's Personal Letter",
+        "description": "The letter talks of how her acclimation to Rhodes Island is going, and of the sense she's making of the chaos in Ursus and the way she sees it.",
+        "rarity": 4,
+        "icon_id": "voucher_full_absin",
+        "usage": "A personal letter sent to the Doctor, used to improve Absinthe to Max Potential."
+    },
+    {
+        "id": "voucher_full_folnic",
+        "name": "Folinic's Personal Letter",
+        "description": "The letter briefly goes into the results of her research and the progress of her mission; a significant majority of the rest is simply her concerns and repeated urgings, enough to give you a minor headache.",
+        "rarity": 4,
+        "icon_id": "voucher_full_folnic",
+        "usage": "A personal letter sent to the Doctor, used to improve Folinic to Max Potential."
+    },
+    {
+        "id": "voucher_full_mint",
+        "name": "Mint's Personal Letter",
+        "description": "The letter mentions how she has acclimated to Rhodes Island, the books she has been reading of late, as well as the results of her geological research.",
+        "rarity": 4,
+        "icon_id": "voucher_full_mint",
+        "usage": "A personal letter sent to the Doctor, used to improve Mint to Max Potential."
+    },
+    {
+        "id": "voucher_full_tomimi",
+        "name": "Tomimi's Personal Letter",
+        "description": "The letter writes of fashion, Gavial, and her hoarded treasures, not to mention Gavial.",
+        "rarity": 4,
+        "icon_id": "voucher_full_tomimi",
+        "usage": "A personal letter sent to the Doctor, used to improve Tomimi to Max Potential."
+    },
+    {
+        "id": "voucher_full_sophia",
+        "name": "Whislash's Personal Letter",
+        "description": "The letter writes colorfully of her leisure time, as well as her few little gripes with the Operator training process. Attached is a signed check with no monetary amount filled in.",
+        "rarity": 4,
+        "icon_id": "voucher_full_sophia",
+        "usage": "A personal letter sent to the Doctor, used to improve Whislash to Max Potential."
+    },
+    {
+        "id": "voucher_full_bena",
+        "name": "Bena's Personal Letter",
+        "description": "The letter makes mention of her intimate conversations with Annie, as well as a few snippets of verse whose significance is not expounded on.",
+        "rarity": 4,
+        "icon_id": "voucher_full_bena",
+        "usage": "A personal letter sent to the Doctor, used to improve Bena to Max Potential."
+    },
+    {
+        "id": "voucher_full_robin",
+        "name": "Robin's Personal Letter",
+        "description": "The letter writes of her thoughts on trust and betrayal, as well as some small little changes in her father.",
+        "rarity": 4,
+        "icon_id": "voucher_full_robin",
+        "usage": "A personal letter sent to the Doctor, used to improve Robin to Max Potential."
     },
     {
         "id": "uni_set_guitar",
@@ -3334,6 +4254,14 @@
         "rarity": 4,
         "icon_id": "uni_set_pizza",
         "usage": "Obtain all 'Express Chain Pizzeria' furniture exclusive to the Grani and the Knights' Treasure event not yet acquired."
+    },
+    {
+        "id": "uni_set_penguin",
+        "name": "Code of Brawl Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_penguin",
+        "usage": "Obtain all 'Penguin Logistics Safehouse' furniture exclusive to the Code of Brawl event not yet acquired."
     },
     {
         "id": "ap_item_amiya",
@@ -3936,6 +4864,14 @@
         "usage": "A currency universally recognized amongst the prisoners. Can be used through secret channels to obtain what you want."
     },
     {
+        "id": "act15d0_token_ironSheet_rep_1",
+        "name": "Factory Steel",
+        "description": "You can make them during factory work hours, but it's no easy thing to sneak them off. They work as weapons as well as currency, and act as one measure of status in the prison.",
+        "rarity": 4,
+        "icon_id": "act15d0_token_ironSheet",
+        "usage": "A currency universally recognized amongst the prisoners. Can be used through secret channels to obtain what you want."
+    },
+    {
         "id": "act15d5_token_postcard",
         "name": "Wondrous Postcard",
         "description": "Landscape postcards independently published by the people all over, known for their distinct and bold framing, all using photos chosen from personal submissions, with some small fame among a subset of collectors. Different stories take root in different lands, and the scenery is always there to tell without a word.",
@@ -3945,6 +4881,14 @@
     },
     {
         "id": "act16d5_token_inker",
+        "name": "Dusk Inkstick",
+        "description": "On its front, 'starshrouded snow' is engraved in characters from ancient times. Just the talent to create these inksticks can be called rare. Dusk very rarely uses normal inksticks. If she's out of options, employing one to depict one and retrieving one fresh isn't impossible either.",
+        "rarity": 4,
+        "icon_id": "act16d5_token_inker",
+        "usage": "Dusk's handmade inkstick. Nobody knows how they're made. Perhaps you can make use of them to ask her about a few things."
+    },
+    {
+        "id": "act16d5_token_inker_rep_1",
         "name": "Dusk Inkstick",
         "description": "On its front, 'starshrouded snow' is engraved in characters from ancient times. Just the talent to create these inksticks can be called rare. Dusk very rarely uses normal inksticks. If she's out of options, employing one to depict one and retrieving one fresh isn't impossible either.",
         "rarity": 4,
@@ -3968,7 +4912,23 @@
         "usage": "Specimen sketches scattered all over the ground in a great gale. If you help tidy them up, you can earn some supplies."
     },
     {
+        "id": "act18d0_token_page_rep_1",
+        "name": "Scattered Sketches",
+        "description": "Mineral, flora, fauna, cities; vestiges of life, and even symbols of civilization. In the meanders of this time overflowing with Originium, countless things fade from Terra's boundless history of organic evolution. Disasters unfold unabatingly, and even the grandest cities all disappear in the end. But there will always be people to record it all. She will come in her slow walk with time.",
+        "rarity": 4,
+        "icon_id": "act18d0_token_page",
+        "usage": "Specimen sketches scattered all over the ground in a great gale. If you help tidy them up, you can earn some supplies."
+    },
+    {
         "id": "act18d3_token_record",
+        "name": "Corrupted Iberian Record",
+        "description": "The urge to accept it comes from a craving that knows no name.",
+        "rarity": 4,
+        "icon_id": "act18d3_token_record",
+        "usage": "Records already ravaged beyond playability. Can be exchanged with the long-time residents of the ruins for goods."
+    },
+    {
+        "id": "act18d3_token_record_rep_1",
         "name": "Corrupted Iberian Record",
         "description": "The urge to accept it comes from a craving that knows no name.",
         "rarity": 4,
@@ -4002,13 +4962,29 @@
     {
         "id": "act12side_token_coupon",
         "name": "Mama John's Voucher",
-        "description": "Mama John's of Columbia has been offering industrial assembly-line products for all trades, all walks and all rhythms of life in a capacity Bol\u00c3\u00advar's native industry can't compare to, to the extent that all these vouchers, originally simply issued to promote sales, have become more and more truly valuable. At times, they even serve as the currency for dealings between local small-time gangs.",
+        "description": "Mama John's of Columbia has been offering industrial assembly-line products for all trades, all walks and all rhythms of life in a capacity Bol\u00edvar's native industry can't compare to, to the extent that all these vouchers, originally simply issued to promote sales, have become more and more truly valuable. At times, they even serve as the currency for dealings between local small-time gangs.",
+        "rarity": 4,
+        "icon_id": "act12side_token_coupon",
+        "usage": "Vouchers redeemable at all Mama John's in Dossoles."
+    },
+    {
+        "id": "act12side_token_coupon_rep_1",
+        "name": "Mama John's Voucher",
+        "description": "Mama John's of Columbia has been offering industrial assembly-line products for all trades, all walks and all rhythms of life in a capacity Bol\u00edvar's native industry can't compare to, to the extent that all these vouchers, originally simply issued to promote sales, have become more and more truly valuable. At times, they even serve as the currency for dealings between local small-time gangs.",
         "rarity": 4,
         "icon_id": "act12side_token_coupon",
         "usage": "Vouchers redeemable at all Mama John's in Dossoles."
     },
     {
         "id": "act12side_point_cmemomedal",
+        "name": "Miss Ch'en Commemorative Medal",
+        "description": "Every medal represents Ch'en's swift mid-investigation resolution of incidents unrelated to her assignment from Ms. Candela. During the time she was retained in Dossoles, the city's crime rate reached a record low. As a warning for the local police department, these Ch'en medals have been displayed in the middle of the head office, where you can't miss them.",
+        "rarity": 4,
+        "icon_id": "act12side_point_cmemomedal",
+        "usage": "Medals specially ordered by Ms. Candela to be cast to commend Ch'en's actions. Accumulate certain amounts and the Dossoles Police Station will issue rewards."
+    },
+    {
+        "id": "act12side_point_cmemomedal_rep_1",
         "name": "Miss Ch'en Commemorative Medal",
         "description": "Every medal represents Ch'en's swift mid-investigation resolution of incidents unrelated to her assignment from Ms. Candela. During the time she was retained in Dossoles, the city's crime rate reached a record low. As a warning for the local police department, these Ch'en medals have been displayed in the middle of the head office, where you can't miss them.",
         "rarity": 4,
@@ -4026,7 +5002,7 @@
     {
         "id": "act12side_token_key02",
         "name": "[Dragon and Rat in Conflict]",
-        "description": "That day, that moment Ch'en and Lin Y\u00c3\u00bchsia came out of the A.H.C. Bar, the gunpowder tension between them had everyone following the championship excited beyond belief.",
+        "description": "That day, that moment Ch'en and Lin Y\u00fchsia came out of the A.H.C. Bar, the gunpowder tension between them had everyone following the championship excited beyond belief.",
         "rarity": 4,
         "icon_id": "act12side_token_key02",
         "usage": "A commemoration of Ch'en's special investigation in Dossoles."
@@ -4034,7 +5010,7 @@
     {
         "id": "act12side_token_key03",
         "name": "['Golden Partner']",
-        "description": "In Swire's belief, she needs a partner just as Hoshiguma is to Ch'en, and simultaneously, she believes Lin Y\u00c3\u00bchsia could become that partner. She's made no small effort to see that happen, and ultimately, you can tell how it turned out just by the look on their faces.",
+        "description": "In Swire's belief, she needs a partner just as Hoshiguma is to Ch'en, and simultaneously, she believes Lin Y\u00fchsia could become that partner. She's made no small effort to see that happen, and ultimately, you can tell how it turned out just by the look on their faces.",
         "rarity": 4,
         "icon_id": "act12side_token_key03",
         "usage": "A commemoration of Ch'en's special investigation in Dossoles."
@@ -4049,10 +5025,410 @@
     },
     {
         "id": "act9mini_token_ticket",
-        "name": "Li\u00c5\u203a\u00c4\u2021 Ticket",
+        "name": "Li\u015b\u0107 Ticket",
         "description": "A lottery ticket issued by a company run by a major knight noble family. Some make a fortune overnight while others go bankrupt. Within this little ticket are condensed the joys, sorrows, blood, and tears of those who resign their fate to a throw of the dice.",
         "rarity": 4,
         "icon_id": "act9mini_token_ticket",
         "usage": "A Kazimierz Major lottery ticket bearing the logo of Pinus Sylvestris. This ticket can be exchanged at the Kazimierz Major Prize Exchange Center for corresponding prizes. Put down your chips, and win your fortune!"
+    },
+    {
+        "id": "act13side_token_model",
+        "name": "G.K.T. Commemorative Model",
+        "description": "The people use these shining fluorescent lamps to subdue nightfall, such is the light of Kazimierz. In civilized lands, traveling bards sing of gold, wandering knights forced to battle sword with glass. Indifferent are the silent waves; on this small, final vessel, she dredged up glory.",
+        "rarity": 4,
+        "icon_id": "act13side_token_model",
+        "usage": "A scale miniature of the Land of the Knights, often elaborately laid out in the decorative cases of parlors."
+    },
+    {
+        "id": "act13side_token_model_rep_1",
+        "name": "G.K.T. Commemorative Model",
+        "description": "The people use these shining fluorescent lamps to subdue nightfall, such is the light of Kazimierz. In civilized lands, traveling bards sing of gold, wandering knights forced to battle sword with glass. Indifferent are the silent waves; on this small, final vessel, she dredged up glory.",
+        "rarity": 4,
+        "icon_id": "act13side_token_model",
+        "usage": "A scale miniature of the Land of the Knights, often elaborately laid out in the decorative cases of parlors."
+    },
+    {
+        "id": "act13side_token_key",
+        "name": "File Manager's Key",
+        "description": "The file manager in the darkness has another duty: to cleverly let 'secrets' be found by those in the know. The Adeptus Sprawiedliwi have never given up their control of Kazimierz\u2014whether good or ill.",
+        "rarity": 4,
+        "icon_id": "act13side_token_key",
+        "usage": "A key that can open the underground gate of the Wall of Champions exhibit hall, unlocking some additional information."
+    },
+    {
+        "id": "act13side_token_card",
+        "name": "General Chamber ID Card",
+        "description": "Within this building of money and power, the tired form of your face serves absolutely no use, vocalizations and brain-thoughts all the more insignificant. In here, only status matters.",
+        "rarity": 4,
+        "icon_id": "act13side_token_card",
+        "usage": "An ID card granting free access in the General Chamber of Commerce, signaling greater privileges to be open to Rhodes Island."
+    },
+    {
+        "id": "act13side_prestige_kazimierz",
+        "name": "Adeptus Sprawiedliwi Prestige",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act13side_token_model",
+        "usage": null
+    },
+    {
+        "id": "act13side_prestige_commerce",
+        "name": "General Chamber of Commerce Prestige",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act13side_token_model",
+        "usage": null
+    },
+    {
+        "id": "act13side_prestige_armorless",
+        "name": "Armorless Union Prestige",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act13side_token_model",
+        "usage": null
+    },
+    {
+        "id": "act14side_token_stone",
+        "name": "Stone of Kjeragandr",
+        "description": "Kjeragandr's will dwells within. Kjerag's people pray to these, to be blessed and for good health.",
+        "rarity": 4,
+        "icon_id": "act14side_token_stone",
+        "usage": "A sacred stone blessed by a member of the Vine-Bear Court. Collect a certain amount to exchange with the people for goods."
+    },
+    {
+        "id": "act14side_token_stone_rep_1",
+        "name": "Stone of Kjeragandr",
+        "description": "Kjeragandr's will dwells within. Kjerag's people pray to these, to be blessed and for good health.",
+        "rarity": 4,
+        "icon_id": "act14side_token_stone",
+        "usage": "A sacred stone blessed by a member of the Vine-Bear Court. Collect a certain amount to exchange with the people for goods."
+    },
+    {
+        "id": "rogue_1_token_bp",
+        "name": "Candle",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "rogue_1_token_bp",
+        "usage": null
+    },
+    {
+        "id": "rogue_1_token_grow",
+        "name": "Caliginous Insights",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "rogue_1_token_grow",
+        "usage": null
+    },
+    {
+        "id": "uni_set_castle_1",
+        "name": "Castlesque Furniture Pack I",
+        "description": "Furniture manufactured according to the data gathered by operators during their exploration in the castle, now delivered to Rhodes Island to use.",
+        "rarity": 4,
+        "icon_id": "uni_set_castle_1",
+        "usage": "Obtain the furniture belonging to the three sets 'Attendant of Artistry,' 'Invitation to Repose' and 'Decaying Husk' in the 'Castlesque' furniture series."
+    },
+    {
+        "id": "uni_set_castle_2",
+        "name": "Castlesque Furniture Pack II",
+        "description": "Furniture manufactured according to the data gathered by operators during their exploration in the castle, now delivered to Rhodes Island to use.",
+        "rarity": 4,
+        "icon_id": "uni_set_castle_2",
+        "usage": "Obtain the furniture belonging to the set 'Dull Remnants' in the 'Castlesque' furniture series."
+    },
+    {
+        "id": "act10mini_token_ticket",
+        "name": "Wage Ticket",
+        "description": "Vouchers with no worth anywhere outside of Caladon. These roughly printed vouchers prop up the lives of everyone in the Infected community.",
+        "rarity": 4,
+        "icon_id": "act10mini_token_ticket",
+        "usage": "Vouchers for material supplies issued by Caladon City to its Infected workers. Can purchase a multitude of goods at thrift shops that the government will not provide."
+    },
+    {
+        "id": "act15side_token_tea",
+        "name": "Canned Tea",
+        "description": "Diligent workers step hurriedly, easy-to-carry jarred tea there in times of need. The tea is chosen with care, pure in color and scent, flavor sweet and light and long-lasting, aftertaste melodious. Numerous brands exist, standing their own ground in drinks sections of supermarkets in every region of Yan, save for Zhe'ergen Signature, which no one pays any mind.",
+        "rarity": 4,
+        "icon_id": "act15side_token_tea",
+        "usage": "A specialty jarred beverage common in Shangshu. They say it always sells out at inns and teahouses."
+    },
+    {
+        "id": "uni_set_act7d5",
+        "name": "Stories of Afternoon Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_act7d5",
+        "usage": "Obtain all furniture exclusive to the Stories of Afternoon event not yet acquired."
+    },
+    {
+        "id": "return_credit_token",
+        "name": "Second Authentication Emblem",
+        "description": "An emblem specially prepared for those returning to major posts. Granted progressively throughout the course of their familiarization with work.",
+        "rarity": 4,
+        "icon_id": "return_credit_token",
+        "usage": "An emblem of special authentication distributed internally within Rhodes Island. Collect a certain amount to obtain partial usage rights to Rhodes Island's supplies."
+    },
+    {
+        "id": "act16side_token_bolt",
+        "name": "Etched Bullet Casing",
+        "description": "The collectability of a bullet depends on its caliber size. As to why an empty shell can be traded for goods in a dessert shop\u2014You must understand that, as the most popular destination among locals, Lateranian Desserts has always been more than just a dessert shop.",
+        "rarity": 4,
+        "icon_id": "act16side_token_bolt",
+        "usage": "A collectible somewhat popular among Laterans. Collect enough to exchange with the dessert shop owner for goods."
+    },
+    {
+        "id": "act16side_token_bolt_rep_1",
+        "name": "Etched Bullet Casing",
+        "description": "The collectability of a bullet depends on its caliber size. As to why an empty shell can be traded for goods in a dessert shop\u2014You must understand that, as the most popular destination among locals, Lateranian Desserts has always been more than just a dessert shop.",
+        "rarity": 4,
+        "icon_id": "act16side_token_bolt",
+        "usage": "A collectible somewhat popular among Laterans. Collect enough to exchange with the dessert shop owner for goods."
+    },
+    {
+        "id": "medal_activity_15side_01",
+        "name": "'The Joys of Poetry and Wine'",
+        "description": "The proof and recognition of one's achievements in exploration.",
+        "rarity": 5,
+        "icon_id": "medal_activity_15side_01",
+        "usage": "Unlock the corresponding engraved medal in the Invitation to Wine Engraved Medal Set."
+    },
+    {
+        "id": "medal_activity_15side_03",
+        "name": "'Refreshed in Cold Light'",
+        "description": "The proof and recognition of one's achievements in exploration.",
+        "rarity": 3,
+        "icon_id": "medal_activity_15side_03",
+        "usage": "Unlock the corresponding engraved medal in the Invitation to Wine Engraved Medal Set."
+    },
+    {
+        "id": "medal_activity_15side_04",
+        "name": "'A Bold Individual'",
+        "description": "The proof and recognition of one's achievements in exploration.",
+        "rarity": 3,
+        "icon_id": "medal_activity_15side_04",
+        "usage": "Unlock the corresponding engraved medal in the Invitation to Wine Engraved Medal Set."
+    },
+    {
+        "id": "medal_activity_15side_05",
+        "name": "'Visit the Mountains'",
+        "description": "The proof and recognition of one's achievements in exploration.",
+        "rarity": 4,
+        "icon_id": "medal_activity_15side_05",
+        "usage": "Unlock the corresponding engraved medal in the Invitation to Wine Engraved Medal Set."
+    },
+    {
+        "id": "uni_set_act10d5",
+        "name": "Children of Ursus Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_act10d5",
+        "usage": "Obtain all furniture exclusive to the Children of Ursus event not yet acquired."
+    },
+    {
+        "id": "act17side_token_compass",
+        "name": "Rusted Compass",
+        "description": "The Iberians of times past guided their course by compass, the needle bearing the weight of their wild ambitions and golden dreams. Naught but ravings nowadays; the needle is broken, the brass is tarnished, and none know the dreadnought's end, bar the silent sea.",
+        "rarity": 4,
+        "icon_id": "act17side_token_compass",
+        "usage": "All attempts to tread unto the sea have been vain and futile. Where the compass points is certain to be anguished, turbid, and sunken."
+    },
+    {
+        "id": "uni_set_beerhouse",
+        "name": "Darknights Memoir Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_beerhouse",
+        "usage": "Obtain all furniture exclusive to the Darknights Memoir event not yet acquired."
+    },
+    {
+        "id": "act18side_token_pieces",
+        "name": "Sheet Music",
+        "description": "The notes scribbled on the staff are jumbled and disorderly. Only the composer himself can, at a glance, make out the soul hidden therein.",
+        "rarity": 4,
+        "icon_id": "act18side_token_pieces",
+        "usage": "Musicians often misplace their drafts during outbursts of emotion. If you straighten it out and return it to its owner, perhaps you will receive a new piece in return."
+    },
+    {
+        "id": "act19side_token_reagents",
+        "name": "Mysterious Reagent",
+        "description": "Very sensitive to neural activity, and can replace some of the functions of traditional Arts Units. In the Rhine Lab Defense Section's laboratory supplies management handbook, this test reagent's hazard and confidentiality levels are both listed at maximum.",
+        "rarity": 4,
+        "icon_id": "act19side_token_reagents",
+        "usage": "The latest innovation of Rhine Lab's Energy Section. Collect enough and exchange with the Laboratory Recycling Depot for goods."
+    },
+    {
+        "id": "act11mini_token_card",
+        "name": "Library Card",
+        "description": "With this library card, you can read any story that piques your interest. No matter what events may ensue, the time that you spend will all be recorded.",
+        "rarity": 4,
+        "icon_id": "act11mini_token_card",
+        "usage": "A library card independently issued by the private library. Can be used to read any material, however no items may be removed from the premises."
+    },
+    {
+        "id": "uni_set_nightView",
+        "name": "Twilight of Wolumonde Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_nightView",
+        "usage": "Obtain all furniture exclusive to the Twilight of Wolumonde event not yet acquired."
+    },
+    {
+        "id": "uni_set_bolivar",
+        "name": "The Great Chief Returns Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_forest",
+        "usage": "Obtain all furniture exclusive to The Great Chief Returns event not yet acquired."
+    },
+    {
+        "id": "act20side_token_book",
+        "name": "Photocopies of 'Stranger Things'",
+        "description": "The pages retain handwriting of all shapes and sizes, the amount even serving to tell you how often the magazine's changed hands. Most of it is meaningless scrawls, but flashes of wisdom are scattered throughout.",
+        "rarity": 4,
+        "icon_id": "act20side_token_book",
+        "usage": "Photocopies of a gaudy magazine, the contents preposterous, yet well-loved by Durin far and wide. Can be used at the Leaping Gloompincer Market to trade with the Durin for supplies."
+    },
+    {
+        "id": "act1bossrush_milestone_point",
+        "name": "Trial EXP",
+        "description": "Right and wrong are far from crucial in a simulation. They are only a form of support. They help you make the correct choices when the battle is real.",
+        "rarity": 4,
+        "icon_id": "act1bossrush_milestone_point",
+        "usage": "Experience gained from finished trials. Upgrades trial levels."
+    },
+    {
+        "id": "act1bossrush_token_relic",
+        "name": "Data Blackbox",
+        "description": "An encrypted data block. Always remember, the conversion of information often entails unavoidable wear. Make good use of your information storage devices, but do not depend on them.",
+        "rarity": 4,
+        "icon_id": "act1bossrush_token_relic",
+        "usage": "Used to perform Data Iteration on Limiter Units."
+    },
+    {
+        "id": "act1bossrush_relic_01",
+        "name": "Reuse Module",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act1bossrush_relic_01",
+        "usage": null
+    },
+    {
+        "id": "act1bossrush_relic_02",
+        "name": "Fast Processing",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act1bossrush_relic_02",
+        "usage": null
+    },
+    {
+        "id": "act1bossrush_relic_03",
+        "name": "Super Cache",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act1bossrush_relic_03",
+        "usage": null
+    },
+    {
+        "id": "act1bossrush_relic_04",
+        "name": "Repel Control",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "act1bossrush_relic_04",
+        "usage": null
+    },
+    {
+        "id": "act12mini_token_component",
+        "name": "Standard-Issue Component",
+        "description": "The fast rusting remains of war ambitions, Knightclub knockouts, or perhaps damaged weapon parts. Poses a risk of Originium infection if not handled properly. For some strange reason, occasionally found in common working-class households.",
+        "rarity": 4,
+        "icon_id": "act12mini_token_component",
+        "usage": "A type of worn-out mechanical part commonly found around Dzwonek, recyclable at city supermarkets across Kazimierz."
+    },
+    {
+        "id": "act13mini_token_can",
+        "name": "Nutritional Pet Food Tin",
+        "description": "This weekend, the L.G.D. is joining hands with our local stray animal shelters to hold an adoption drive. We hope all our friends in the city able to adopt will jump at the opportunity to give these homeless little ones a chance at a brand new life.\nOf course, those who aren't in a position to adopt can still contribute by offering cans of pet food, not to mention the splendid gifts awaiting anyone who donates.",
+        "rarity": 4,
+        "icon_id": "act13mini_token_can",
+        "usage": "A tin of pet food common to the Lungmen market, cheap and delicious. Just give the ring pull a flick, and you'll have your little dear bounding over to you."
+    },
+    {
+        "id": "rogue_2_token_bp",
+        "name": "Living Cells",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "rogue_2_token_bp",
+        "usage": null
+    },
+    {
+        "id": "rogue_2_token_grow",
+        "name": "Subjective Imagination",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "rogue_2_token_grow",
+        "usage": null
+    },
+    {
+        "id": "uni_set_fNearl",
+        "name": "Maria Nearl Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_fNearl",
+        "usage": "Obtain all furniture exclusive to the Maria Nearl event not yet acquired."
+    },
+    {
+        "id": "uni_set_outdoor_1",
+        "name": "Beachside Impressions Furniture Pack I",
+        "description": "A room that Mizuki and his friends built in the image of a summer beach. Perhaps this is how it should truly be.",
+        "rarity": 4,
+        "icon_id": "uni_set_outdoor_1",
+        "usage": "Obtain the furniture belonging to the two sets 'Drink Party' and 'Cool Core' in the 'Beachside Impressions' furniture series."
+    },
+    {
+        "id": "uni_set_outdoor_2",
+        "name": "Beachside Impressions Furniture Pack II",
+        "description": "A room that Mizuki and his friends built in the image of a summer beach. Perhaps this is how it should truly be.",
+        "rarity": 4,
+        "icon_id": "uni_set_outdoor_2",
+        "usage": "Obtain the furniture belonging to the two sets 'Summer Scrapwood' and 'Beach Decor' in the 'Beachside Impressions' furniture series."
+    },
+    {
+        "id": "act21side_token_permesso",
+        "name": "Permesso di Importazione",
+        "description": "Steaks, seasonal vegetables, and fresh fruit to please any soul, or a little something otherwise. The clever ones know what the famiglie want, and will ready it in advance, to be supplied when the time comes.",
+        "rarity": 4,
+        "icon_id": "act21side_token_permesso",
+        "usage": "Permits issued by the Dipartimento di Sicurezza Alimentare to the famiglie. These grant famiglia members entry to the Dipartimento di Sicurezza Alimentare and the right to obtain goods, whether said goods fall under 'alimentare' notwithstanding."
+    },
+    {
+        "id": "voucher_vigil",
+        "name": "Vigil's Folder",
+        "description": "These personal notes record thoughts on Nuova Volsinii's construction, the diligence and urgency of the writer plain to see. At the very back, however, are mixed in some pages of traditional Siracusan recipes.",
+        "rarity": 5,
+        "icon_id": "voucher_vigil",
+        "usage": "A folder storing personal notes. Vigil is obtained the first time this item is obtained, and can improve Vigil's Potential thereafter."
+    },
+    {
+        "id": "uni_set_prison",
+        "name": "Mansfield Break Furniture Pack",
+        "description": "The Procurement Department's reconnected with its suppliers, and replenished stocks of initially limited pieces of furniture! Give your thanks to Closure!",
+        "rarity": 4,
+        "icon_id": "uni_set_prison",
+        "usage": "Obtain all furniture exclusive to the Mansfield Break event not yet acquired."
+    },
+    {
+        "id": "act22side_token_manuscript",
+        "name": "Manuscripts of Ballads",
+        "description": "Few who know these folksongs are able to put them in writing, while those who pen Taran history wouldn't go out of their way to listen. But there'll always be people devoted to compiling the scattered culture of Tara, say the merchants, and it's a business that's gone on for several centuries.",
+        "rarity": 4,
+        "icon_id": "act22side_token_manuscript",
+        "usage": "Pages filled with Taran folksongs and legends, copied down as heard. Collect enough, and you'll be able to trade them with the River Valley Caravan for goods."
+    },
+    {
+        "id": "uni_set_reception",
+        "name": "Lungmen Tearoom Furniture Collection Set",
+        "description": null,
+        "rarity": 4,
+        "icon_id": "uni_set_prison",
+        "usage": null
     }
 ]
